@@ -1,7 +1,8 @@
-import pokemonData from './data/pokekmon_cleaned.csv'
-import Papa from 'papaparse'
+
+import pokemonData from "./data/pokemon.json";
+
 function App() {
-  Papa.parse
+
 
   return (
     <div>Hello world</div>
