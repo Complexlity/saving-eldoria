@@ -43,14 +43,15 @@ function NotApp({ count }: { count: number }) {
   let newData = pokemonData.slice(0, count);
 
   return (
-    <div className="gridded">
+    <div className="prose gridded">
       {newData.map((item) => (
         <div className={getClassName(item)}>
-          <div>{item.Id}</div>
-          <div>{item.Total}</div>
-          <div>{item.HP}</div>
-          <div>{item.Type1}</div>
-          <div>{item.Names}</div>
+          <h1>{item.Names}</h1>
+          <h2 className='text-green-400'>{item.Type1}</h2>
+          <h2 className="text-red-400">{item.Type2}</h2>
+          <div className="">{item.Id}</div>
+          <p>{item.Total}</p>
+          <p>{item.HP}</p>
           <img src={item.image_url} alt="" />
         </div>
       ))}
