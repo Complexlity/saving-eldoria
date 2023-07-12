@@ -17,14 +17,18 @@ const newData = Data1.map((item) => {
   const averages = Data2.find((data) => data.Type === type);
   const updatedHighestValues = {};
 
+  debugger
   attributes.forEach((attribute) => {
+    debugger
     const averageValue = averages[`Avg. ${attribute}`];
     const highestValues = item[`Highest ${attribute}s`];
     const updatedAttributeValues = highestValues.map((valueItem) => ({
       ...valueItem,
       "Difference From Average": valueItem.value - averageValue,
+      highestFromAverageAttribute: attribute
     }));
     updatedHighestValues[`Highest ${attribute}s`] = updatedAttributeValues;
+
   });
 
   return {

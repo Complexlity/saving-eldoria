@@ -11,7 +11,9 @@
     "Defense": 250,
     "Special Attack": 125,
     "Special Defense": 250,
-    "Speed": 130
+    "Speed": 130,
+    "Difference From Average": 186,
+    "highestFromAverageAttribute": "HP"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/shuckle.png",
@@ -25,7 +27,9 @@
     "Defense": 230,
     "Special Attack": 10,
     "Special Defense": 230,
-    "Speed": 5
+    "Speed": 5,
+    "Difference From Average": 158,
+    "highestFromAverageAttribute": "Special Defense"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/steelix-mega.png",
@@ -39,7 +43,9 @@
     "Defense": 230,
     "Special Attack": 55,
     "Special Defense": 95,
-    "Speed": 30
+    "Speed": 30,
+    "Difference From Average": 141,
+    "highestFromAverageAttribute": "Defense"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-mega-x.png",
@@ -53,7 +59,9 @@
     "Defense": 100,
     "Special Attack": 154,
     "Special Defense": 100,
-    "Speed": 130
+    "Speed": 130,
+    "Difference From Average": 107,
+    "highestFromAverageAttribute": "Attack"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/cloyster.png",
@@ -67,7 +75,9 @@
     "Defense": 180,
     "Special Attack": 85,
     "Special Defense": 45,
-    "Speed": 70
+    "Speed": 70,
+    "Difference From Average": 100,
+    "highestFromAverageAttribute": "Defense"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/scarlet-violet/icon/electrode-hisuian.png",
@@ -81,7 +91,9 @@
     "Defense": 70,
     "Special Attack": 80,
     "Special Defense": 80,
-    "Speed": 150
+    "Speed": 150,
+    "Difference From Average": 87,
+    "highestFromAverageAttribute": "Speed"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/ho-oh.png",
@@ -95,7 +107,9 @@
     "Defense": 90,
     "Special Attack": 110,
     "Special Defense": 154,
-    "Speed": 90
+    "Speed": 90,
+    "Difference From Average": 83,
+    "highestFromAverageAttribute": "Special Defense"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png",
@@ -109,7 +123,9 @@
     "Defense": 45,
     "Special Attack": 85,
     "Special Defense": 50,
-    "Speed": 45
+    "Speed": 45,
+    "Difference From Average": 73,
+    "highestFromAverageAttribute": "HP"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/sableye-mega.png",
@@ -123,6 +139,8 @@
     "Defense": 125,
     "Special Attack": 85,
     "Special Defense": 115,
-    "Speed": 20
+    "Speed": 20,
+    "Difference From Average": 50,
+    "highestFromAverageAttribute": "Defense"
   }
 ]

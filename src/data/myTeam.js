@@ -12,7 +12,7 @@ while (types.length > 0) {
   debugger;
   let highestDifferenceItem = null;
   let highestDifferenceIndex = -1;
-  let currentAttribute = null
+
 
   for (let i = 0; i < data.length; i++) {
     const item = data[i];
@@ -32,7 +32,6 @@ while (types.length > 0) {
               highestDifferenceHP["Difference From Average"])
         ) {
           highestDifferenceHP = highestDifferenceAttribute;
-          
         }
       }
     });
@@ -59,7 +58,7 @@ while (types.length > 0) {
   );
 
   if (matchingItem) {
-    myTeam.push({ ...matchingItem, highestAttribute: currentAttribute });
+    myTeam.push({ ...matchingItem,"Difference From Average": highestDifferenceItem["Difference From Average"], highestFromAverageAttribute: highestDifferenceItem.highestFromAverageAttribute });
   }
 
   const typeToRemove = data[highestDifferenceIndex].Type;
