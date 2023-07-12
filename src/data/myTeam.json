@@ -142,5 +142,21 @@
     "Speed": 20,
     "Difference From Average": 50,
     "highestFromAverageAttribute": "Defense"
+  },
+  {
+    "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza-mega.png",
+    "Id": 384,
+    "Names": "Rayquaza Mega Rayquaza",
+    "Type1": "Dragon",
+    "Type2": "Flying",
+    "Total": 780,
+    "HP": 105,
+    "Attack": 180,
+    "Defense": 100,
+    "Special Attack": 180,
+    "Special Defense": 100,
+    "Speed": 115,
+    "Difference From Average": 103,
+    "highestFromAverageAttribute": "Special Attack"
   }
 ]
