@@ -1,0 +1,1352 @@
+[
+  {
+    "Type": "Grass",
+    "Highest HPs": [
+      {
+        "value": 114,
+        "name": "Amoonguss",
+        "secondType": "Poison"
+      },
+      {
+        "value": 111,
+        "name": "Brute Bonnet",
+        "secondType": "Dark"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 181,
+        "name": "Kartana",
+        "secondType": "Steel"
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Ice"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 131,
+        "name": "Ferrothorn",
+        "secondType": "Steel"
+      },
+      {
+        "value": 131,
+        "name": "Kartana",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 145,
+        "name": "Sceptile Mega Sceptile",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Ice"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 135,
+        "name": "Wo-Chien",
+        "secondType": "Dark"
+      },
+      {
+        "value": 129,
+        "name": "Virizion",
+        "secondType": "Fighting"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Electrode Hisuian Electrode",
+        "secondType": "Electric"
+      },
+      {
+        "value": 145,
+        "name": "Sceptile Mega Sceptile",
+        "secondType": "Dragon"
+      }
+    ]
+  },
+  {
+    "Type": "Poison",
+    "Highest HPs": [
+      {
+        "value": 255,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 140,
+        "name": "Eternatus",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 150,
+        "name": "Beedrill Mega Beedrill",
+        "secondType": "Bug"
+      },
+      {
+        "value": 130,
+        "name": "Sneasler",
+        "secondType": "Fighting"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 152,
+        "name": "Toxapex",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Ghost"
+      },
+      {
+        "value": 145,
+        "name": "Eternatus",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 142,
+        "name": "Toxapex",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 145,
+        "name": "Beedrill Mega Beedrill",
+        "secondType": "Bug"
+      },
+      {
+        "value": 130,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Ghost"
+      }
+    ]
+  },
+  {
+    "Type": "Fire",
+    "Highest HPs": [
+      {
+        "value": 110,
+        "name": "Emboar",
+        "secondType": "Fighting"
+      },
+      {
+        "value": 110,
+        "name": "Coalossal",
+        "secondType": "Rock"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Ground"
+      },
+      {
+        "value": 160,
+        "name": "Blaziken Mega Blaziken",
+        "secondType": "Fighting"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 160,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Ground"
+      },
+      {
+        "value": 135,
+        "name": "Turtonator",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 159,
+        "name": "Charizard Mega Charizard Y",
+        "secondType": "Flying"
+      },
+      {
+        "value": 151,
+        "name": "Blacephalon",
+        "secondType": "Ghost"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 154,
+        "name": "Ho-oh",
+        "secondType": "Flying"
+      },
+      {
+        "value": 120,
+        "name": "Reshiram",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 135,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Ice"
+      },
+      {
+        "value": 126,
+        "name": "Talonflame",
+        "secondType": "Flying"
+      }
+    ]
+  },
+  {
+    "Type": "Flying",
+    "Highest HPs": [
+      {
+        "value": 150,
+        "name": "Drifblim",
+        "secondType": "Ghost"
+      },
+      {
+        "value": 126,
+        "name": "Yveltal",
+        "secondType": "Dark"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 155,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Bug"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 140,
+        "name": "Skarmory",
+        "secondType": "Steel"
+      },
+      {
+        "value": 130,
+        "name": "Lugia",
+        "secondType": "Psychic"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 159,
+        "name": "Charizard Mega Charizard Y",
+        "secondType": "Fire"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 154,
+        "name": "Lugia",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 154,
+        "name": "Ho-oh",
+        "secondType": "Fire"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 160,
+        "name": "Ninjask",
+        "secondType": "Bug"
+      },
+      {
+        "value": 150,
+        "name": "Aerodactyl Mega Aerodactyl",
+        "secondType": "Rock"
+      }
+    ]
+  },
+  {
+    "Type": "Dragon",
+    "Highest HPs": [
+      {
+        "value": 255,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison"
+      },
+      {
+        "value": 223,
+        "name": "Guzzlord",
+        "secondType": "Dark"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Flying"
+      },
+      {
+        "value": 170,
+        "name": "Garchomp Mega Garchomp",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison"
+      },
+      {
+        "value": 135,
+        "name": "Turtonator",
+        "secondType": "Fire"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Flying"
+      },
+      {
+        "value": 170,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Ice"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison"
+      },
+      {
+        "value": 150,
+        "name": "Latias Mega Latias",
+        "secondType": "Psychic"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 145,
+        "name": "Sceptile Mega Sceptile",
+        "secondType": "Grass"
+      },
+      {
+        "value": 142,
+        "name": "Dragapult",
+        "secondType": "Ghost"
+      }
+    ]
+  },
+  {
+    "Type": "Bug",
+    "Highest HPs": [
+      {
+        "value": 107,
+        "name": "Buzzwole",
+        "secondType": "Fighting"
+      },
+      {
+        "value": 100,
+        "name": "Centiskorch",
+        "secondType": "Fire"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 185,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Fighting"
+      },
+      {
+        "value": 155,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Flying"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Rock"
+      },
+      {
+        "value": 140,
+        "name": "Forretress",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 145,
+        "name": "Vikavolt",
+        "secondType": "Electric"
+      },
+      {
+        "value": 137,
+        "name": "Pheromosa",
+        "secondType": "Fighting"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Rock"
+      },
+      {
+        "value": 132,
+        "name": "Araquanid",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 160,
+        "name": "Ninjask",
+        "secondType": "Flying"
+      },
+      {
+        "value": 151,
+        "name": "Pheromosa",
+        "secondType": "Fighting"
+      }
+    ]
+  },
+  {
+    "Type": "Normal",
+    "Highest HPs": [
+      {
+        "value": 140,
+        "name": "Wigglytuff",
+        "secondType": "Fairy"
+      },
+      {
+        "value": 130,
+        "name": "Ursaluna",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 140,
+        "name": "Ursaluna",
+        "secondType": "Ground"
+      },
+      {
+        "value": 136,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Fighting"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 126,
+        "name": "Audino Mega Audino",
+        "secondType": "Fairy"
+      },
+      {
+        "value": 105,
+        "name": "Ursaluna",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 135,
+        "name": "Pidgeot Mega Pidgeot",
+        "secondType": "Flying"
+      },
+      {
+        "value": 135,
+        "name": "Drampa",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 128,
+        "name": "Meloetta Aria Forme",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 126,
+        "name": "Audino Mega Audino",
+        "secondType": "Fairy"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 135,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Fighting"
+      },
+      {
+        "value": 128,
+        "name": "Meloetta Pirouette Forme",
+        "secondType": "Fighting"
+      }
+    ]
+  },
+  {
+    "Type": "Dark",
+    "Highest HPs": [
+      {
+        "value": 223,
+        "name": "Guzzlord",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 155,
+        "name": "Ting-Lu",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 164,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Rock"
+      },
+      {
+        "value": 160,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Psychic"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 150,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Rock"
+      },
+      {
+        "value": 125,
+        "name": "Sableye Mega Sableye",
+        "secondType": "Ghost"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 153,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 135,
+        "name": "Wo-Chien",
+        "secondType": "Grass"
+      },
+      {
+        "value": 130,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 135,
+        "name": "Chien-Pao",
+        "secondType": "Ice"
+      },
+      {
+        "value": 132,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Water"
+      }
+    ]
+  },
+  {
+    "Type": "Electric",
+    "Highest HPs": [
+      {
+        "value": 154,
+        "name": "Iron Hands",
+        "secondType": "Fighting"
+      },
+      {
+        "value": 125,
+        "name": "Lanturn",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 150,
+        "name": "Zekrom",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 140,
+        "name": "Iron Hands",
+        "secondType": "Fighting"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 130,
+        "name": "Golem Alolan Golem",
+        "secondType": "Rock"
+      },
+      {
+        "value": 120,
+        "name": "Zekrom",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 165,
+        "name": "Ampharos Mega Ampharos",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 145,
+        "name": "Thundurus Therian Forme",
+        "secondType": "Flying"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 115,
+        "name": "Miraidon",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 110,
+        "name": "Ampharos Mega Ampharos",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Electrode Hisuian Electrode",
+        "secondType": "Grass"
+      },
+      {
+        "value": 135,
+        "name": "Miraidon",
+        "secondType": "Dragon"
+      }
+    ]
+  },
+  {
+    "Type": "Psychic",
+    "Highest HPs": [
+      {
+        "value": 137,
+        "name": "Solgaleo",
+        "secondType": "Steel"
+      },
+      {
+        "value": 137,
+        "name": "Lunala",
+        "secondType": "Ghost"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 190,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Fighting"
+      },
+      {
+        "value": 167,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 180,
+        "name": "Slowbro Mega Slowbro",
+        "secondType": "Water"
+      },
+      {
+        "value": 150,
+        "name": "Metagross Mega Metagross",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Dark"
+      },
+      {
+        "value": 167,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 154,
+        "name": "Lugia",
+        "secondType": "Flying"
+      },
+      {
+        "value": 150,
+        "name": "Latias Mega Latias",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Ghost"
+      },
+      {
+        "value": 130,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Fighting"
+      }
+    ]
+  },
+  {
+    "Type": "Ice",
+    "Highest HPs": [
+      {
+        "value": 130,
+        "name": "Lapras",
+        "secondType": "Water"
+      },
+      {
+        "value": 125,
+        "name": "Kyurem",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 170,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 165,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Psychic"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 184,
+        "name": "Avalugg Hisuian Avalugg",
+        "secondType": "Rock"
+      },
+      {
+        "value": 180,
+        "name": "Cloyster",
+        "secondType": "Water"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Grass"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 130,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 125,
+        "name": "Articuno",
+        "secondType": "Flying"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 136,
+        "name": "Iron Bundle",
+        "secondType": "Water"
+      },
+      {
+        "value": 135,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Fire"
+      }
+    ]
+  },
+  {
+    "Type": "Steel",
+    "Highest HPs": [
+      {
+        "value": 137,
+        "name": "Solgaleo",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 110,
+        "name": "Excadrill",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 181,
+        "name": "Kartana",
+        "secondType": "Grass"
+      },
+      {
+        "value": 157,
+        "name": "Necrozma Dusk Mane Necrozma",
+        "secondType": "Psychic"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Steelix Mega Steelix",
+        "secondType": "Ground"
+      },
+      {
+        "value": 211,
+        "name": "Stakataka",
+        "secondType": "Rock"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 150,
+        "name": "Dialga",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 150,
+        "name": "Dialga Origin Forme",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 150,
+        "name": "Probopass",
+        "secondType": "Rock"
+      },
+      {
+        "value": 150,
+        "name": "Goodra Hisuian Goodra",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 148,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Fairy"
+      },
+      {
+        "value": 128,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Fighting"
+      }
+    ]
+  },
+  {
+    "Type": "Ground",
+    "Highest HPs": [
+      {
+        "value": 216,
+        "name": "Zygarde Complete Forme",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 155,
+        "name": "Ting-Lu",
+        "secondType": "Dark"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Fire"
+      },
+      {
+        "value": 170,
+        "name": "Garchomp Mega Garchomp",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Steelix Mega Steelix",
+        "secondType": "Steel"
+      },
+      {
+        "value": 200,
+        "name": "Steelix",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 150,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Fire"
+      },
+      {
+        "value": 145,
+        "name": "Camerupt Mega Camerupt",
+        "secondType": "Fire"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 120,
+        "name": "Claydol",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 120,
+        "name": "Toedscruel",
+        "secondType": "Grass"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 115,
+        "name": "Zygarde 10% Forme",
+        "secondType": "Dragon"
+      },
+      {
+        "value": 110,
+        "name": "Dugtrio Alolan Dugtrio",
+        "secondType": "Steel"
+      }
+    ]
+  },
+  {
+    "Type": "Fairy",
+    "Highest HPs": [
+      {
+        "value": 140,
+        "name": "Wigglytuff",
+        "secondType": "Normal"
+      },
+      {
+        "value": 115,
+        "name": "Jigglypuff",
+        "secondType": "Normal"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Rock"
+      },
+      {
+        "value": 150,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 150,
+        "name": "Carbink",
+        "secondType": "Rock"
+      },
+      {
+        "value": 150,
+        "name": "Diancie",
+        "secondType": "Rock"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 165,
+        "name": "Gardevoir Mega Gardevoir",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Rock"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 150,
+        "name": "Carbink",
+        "secondType": "Rock"
+      },
+      {
+        "value": 150,
+        "name": "Diancie",
+        "secondType": "Rock"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 148,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Steel"
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Ghost"
+      }
+    ]
+  },
+  {
+    "Type": "Rock",
+    "Highest HPs": [
+      {
+        "value": 123,
+        "name": "Aurorus",
+        "secondType": "Ice"
+      },
+      {
+        "value": 115,
+        "name": "Rhyperior",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 164,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Dark"
+      },
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Fairy"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Bug"
+      },
+      {
+        "value": 211,
+        "name": "Stakataka",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Fairy"
+      },
+      {
+        "value": 130,
+        "name": "Glimmora",
+        "secondType": "Poison"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Bug"
+      },
+      {
+        "value": 150,
+        "name": "Probopass",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Aerodactyl Mega Aerodactyl",
+        "secondType": "Flying"
+      },
+      {
+        "value": 130,
+        "name": "Aerodactyl",
+        "secondType": "Flying"
+      }
+    ]
+  },
+  {
+    "Type": "Water",
+    "Highest HPs": [
+      {
+        "value": 130,
+        "name": "Lapras",
+        "secondType": "Ice"
+      },
+      {
+        "value": 125,
+        "name": "Lanturn",
+        "secondType": "Electric"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 155,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Dark"
+      },
+      {
+        "value": 150,
+        "name": "Swampert Mega Swampert",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 180,
+        "name": "Slowbro Mega Slowbro",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 180,
+        "name": "Cloyster",
+        "secondType": "Ice"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 153,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Dark"
+      },
+      {
+        "value": 150,
+        "name": "Palkia",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 142,
+        "name": "Toxapex",
+        "secondType": "Poison"
+      },
+      {
+        "value": 140,
+        "name": "Mantine",
+        "secondType": "Flying"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 136,
+        "name": "Iron Bundle",
+        "secondType": "Ice"
+      },
+      {
+        "value": 132,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Dark"
+      }
+    ]
+  },
+  {
+    "Type": "Fighting",
+    "Highest HPs": [
+      {
+        "value": 154,
+        "name": "Iron Hands",
+        "secondType": "Electric"
+      },
+      {
+        "value": 120,
+        "name": "Bewear",
+        "secondType": "Normal"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 190,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 185,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Bug"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 140,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Steel"
+      },
+      {
+        "value": 139,
+        "name": "Buzzwole",
+        "secondType": "Bug"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 154,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 140,
+        "name": "Lucario Mega Lucario",
+        "secondType": "Steel"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 140,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Steel"
+      },
+      {
+        "value": 129,
+        "name": "Virizion",
+        "secondType": "Grass"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 151,
+        "name": "Pheromosa",
+        "secondType": "Bug"
+      },
+      {
+        "value": 135,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Normal"
+      }
+    ]
+  },
+  {
+    "Type": "Ghost",
+    "Highest HPs": [
+      {
+        "value": 150,
+        "name": "Drifblim",
+        "secondType": "Flying"
+      },
+      {
+        "value": 150,
+        "name": "Giratina Altered Forme",
+        "secondType": "Dragon"
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 140,
+        "name": "Aegislash Blade Forme",
+        "secondType": "Steel"
+      },
+      {
+        "value": 131,
+        "name": "Dhelmise",
+        "secondType": "Grass"
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 150,
+        "name": "Doublade",
+        "secondType": "Steel"
+      },
+      {
+        "value": 145,
+        "name": "Runerigus",
+        "secondType": "Ground"
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Poison"
+      },
+      {
+        "value": 165,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Psychic"
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 140,
+        "name": "Aegislash Shield Forme",
+        "secondType": "Steel"
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Fairy"
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Psychic"
+      },
+      {
+        "value": 142,
+        "name": "Dragapult",
+        "secondType": "Dragon"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6752 @@
+[
+  {
+    "Type": "Grass",
+    "Highest HPs": [
+      {
+        "value": 114,
+        "name": "Amoonguss",
+        "secondType": "Poison",
+        "Difference From Average": 46
+      },
+      {
+        "value": 111,
+        "name": "Brute Bonnet",
+        "secondType": "Dark",
+        "Difference From Average": 43
+      },
+      {
+        "value": 110,
+        "name": "Appletun",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 105,
+        "name": "Zarude",
+        "secondType": "Dark",
+        "Difference From Average": 37
+      },
+      {
+        "value": 100,
+        "name": "Celebi",
+        "secondType": "Psychic",
+        "Difference From Average": 32
+      },
+      {
+        "value": 100,
+        "name": "Shaymin Sky Forme",
+        "secondType": "Flying",
+        "Difference From Average": 32
+      },
+      {
+        "value": 100,
+        "name": "Calyrex",
+        "secondType": "Psychic",
+        "Difference From Average": 32
+      },
+      {
+        "value": 99,
+        "name": "Tropius",
+        "secondType": "Flying",
+        "Difference From Average": 31
+      },
+      {
+        "value": 95,
+        "name": "Exeggutor",
+        "secondType": "Psychic",
+        "Difference From Average": 27
+      },
+      {
+        "value": 95,
+        "name": "Exeggutor Alolan Exeggutor",
+        "secondType": "Dragon",
+        "Difference From Average": 27
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 181,
+        "name": "Kartana",
+        "secondType": "Steel",
+        "Difference From Average": 102
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Ice",
+        "Difference From Average": 53
+      },
+      {
+        "value": 131,
+        "name": "Dhelmise",
+        "secondType": "Ghost",
+        "Difference From Average": 52
+      },
+      {
+        "value": 130,
+        "name": "Iron Leaves",
+        "secondType": "Psychic",
+        "Difference From Average": 51
+      },
+      {
+        "value": 130,
+        "name": "Tapu Bulu",
+        "secondType": "Fairy",
+        "Difference From Average": 51
+      },
+      {
+        "value": 130,
+        "name": "Breloom",
+        "secondType": "Fighting",
+        "Difference From Average": 51
+      },
+      {
+        "value": 127,
+        "name": "Brute Bonnet",
+        "secondType": "Dark",
+        "Difference From Average": 48
+      },
+      {
+        "value": 120,
+        "name": "Zarude",
+        "secondType": "Dark",
+        "Difference From Average": 41
+      },
+      {
+        "value": 115,
+        "name": "Cacturne",
+        "secondType": "Dark",
+        "Difference From Average": 36
+      },
+      {
+        "value": 115,
+        "name": "Brambleghast",
+        "secondType": "Ghost",
+        "Difference From Average": 36
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 131,
+        "name": "Kartana",
+        "secondType": "Steel",
+        "Difference From Average": 56
+      },
+      {
+        "value": 131,
+        "name": "Ferrothorn",
+        "secondType": "Steel",
+        "Difference From Average": 56
+      },
+      {
+        "value": 123,
+        "name": "Venusaur Mega Venusaur",
+        "secondType": "Poison",
+        "Difference From Average": 48
+      },
+      {
+        "value": 122,
+        "name": "Chesnaught",
+        "secondType": "Fighting",
+        "Difference From Average": 47
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Super Size",
+        "secondType": "Ghost",
+        "Difference From Average": 47
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Large Size",
+        "secondType": "Ghost",
+        "Difference From Average": 47
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Average Size",
+        "secondType": "Ghost",
+        "Difference From Average": 47
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Small Size",
+        "secondType": "Ghost",
+        "Difference From Average": 47
+      },
+      {
+        "value": 115,
+        "name": "Tapu Bulu",
+        "secondType": "Fairy",
+        "Difference From Average": 40
+      },
+      {
+        "value": 107,
+        "name": "Rotom Mow Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 32
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 145,
+        "name": "Sceptile Mega Sceptile",
+        "secondType": "Dragon",
+        "Difference From Average": 70
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Ice",
+        "Difference From Average": 57
+      },
+      {
+        "value": 125,
+        "name": "Arboliva",
+        "secondType": "Normal",
+        "Difference From Average": 50
+      },
+      {
+        "value": 125,
+        "name": "Exeggutor Alolan Exeggutor",
+        "secondType": "Dragon",
+        "Difference From Average": 50
+      },
+      {
+        "value": 125,
+        "name": "Exeggutor",
+        "secondType": "Psychic",
+        "Difference From Average": 50
+      },
+      {
+        "value": 125,
+        "name": "Roserade",
+        "secondType": "Poison",
+        "Difference From Average": 50
+      },
+      {
+        "value": 122,
+        "name": "Venusaur Mega Venusaur",
+        "secondType": "Poison",
+        "Difference From Average": 47
+      },
+      {
+        "value": 120,
+        "name": "Shaymin Sky Forme",
+        "secondType": "Flying",
+        "Difference From Average": 45
+      },
+      {
+        "value": 115,
+        "name": "Cacturne",
+        "secondType": "Dark",
+        "Difference From Average": 40
+      },
+      {
+        "value": 110,
+        "name": "Vileplume",
+        "secondType": "Poison",
+        "Difference From Average": 35
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 135,
+        "name": "Wo-Chien",
+        "secondType": "Dark",
+        "Difference From Average": 58
+      },
+      {
+        "value": 129,
+        "name": "Virizion",
+        "secondType": "Fighting",
+        "Difference From Average": 52
+      },
+      {
+        "value": 120,
+        "name": "Venusaur Mega Venusaur",
+        "secondType": "Poison",
+        "Difference From Average": 43
+      },
+      {
+        "value": 120,
+        "name": "Toedscruel",
+        "secondType": "Ground",
+        "Difference From Average": 43
+      },
+      {
+        "value": 116,
+        "name": "Ferrothorn",
+        "secondType": "Steel",
+        "Difference From Average": 39
+      },
+      {
+        "value": 109,
+        "name": "Arboliva",
+        "secondType": "Normal",
+        "Difference From Average": 32
+      },
+      {
+        "value": 108,
+        "name": "Iron Leaves",
+        "secondType": "Psychic",
+        "Difference From Average": 31
+      },
+      {
+        "value": 107,
+        "name": "Rotom Mow Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 30
+      },
+      {
+        "value": 107,
+        "name": "Cradily",
+        "secondType": "Rock",
+        "Difference From Average": 30
+      },
+      {
+        "value": 105,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Ice",
+        "Difference From Average": 28
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Electrode Hisuian Electrode",
+        "secondType": "Electric",
+        "Difference From Average": 87
+      },
+      {
+        "value": 145,
+        "name": "Sceptile Mega Sceptile",
+        "secondType": "Dragon",
+        "Difference From Average": 82
+      },
+      {
+        "value": 127,
+        "name": "Shaymin Sky Forme",
+        "secondType": "Flying",
+        "Difference From Average": 64
+      },
+      {
+        "value": 123,
+        "name": "Meowscarada",
+        "secondType": "Dark",
+        "Difference From Average": 60
+      },
+      {
+        "value": 116,
+        "name": "Whimsicott",
+        "secondType": "Fairy",
+        "Difference From Average": 53
+      },
+      {
+        "value": 110,
+        "name": "Jumpluff",
+        "secondType": "Flying",
+        "Difference From Average": 47
+      },
+      {
+        "value": 109,
+        "name": "Kartana",
+        "secondType": "Steel",
+        "Difference From Average": 46
+      },
+      {
+        "value": 108,
+        "name": "Virizion",
+        "secondType": "Fighting",
+        "Difference From Average": 45
+      },
+      {
+        "value": 105,
+        "name": "Zarude",
+        "secondType": "Dark",
+        "Difference From Average": 42
+      },
+      {
+        "value": 105,
+        "name": "Lilligant Hisuian Lilligant",
+        "secondType": "Fighting",
+        "Difference From Average": 42
+      }
+    ]
+  },
+  {
+    "Type": "Poison",
+    "Highest HPs": [
+      {
+        "value": 255,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon",
+        "Difference From Average": 186
+      },
+      {
+        "value": 140,
+        "name": "Eternatus",
+        "secondType": "Dragon",
+        "Difference From Average": 71
+      },
+      {
+        "value": 130,
+        "name": "Clodsire",
+        "secondType": "Ground",
+        "Difference From Average": 61
+      },
+      {
+        "value": 114,
+        "name": "Amoonguss",
+        "secondType": "Grass",
+        "Difference From Average": 45
+      },
+      {
+        "value": 109,
+        "name": "Nihilego",
+        "secondType": "Rock",
+        "Difference From Average": 40
+      },
+      {
+        "value": 105,
+        "name": "Muk Alolan Muk",
+        "secondType": "Dark",
+        "Difference From Average": 36
+      },
+      {
+        "value": 103,
+        "name": "Skuntank",
+        "secondType": "Dark",
+        "Difference From Average": 34
+      },
+      {
+        "value": 95,
+        "name": "Slowbro Galarian Slowbro",
+        "secondType": "Psychic",
+        "Difference From Average": 26
+      },
+      {
+        "value": 95,
+        "name": "Slowking Galarian Slowking",
+        "secondType": "Psychic",
+        "Difference From Average": 26
+      },
+      {
+        "value": 90,
+        "name": "Nidoqueen",
+        "secondType": "Ground",
+        "Difference From Average": 21
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 150,
+        "name": "Beedrill Mega Beedrill",
+        "secondType": "Bug",
+        "Difference From Average": 76
+      },
+      {
+        "value": 130,
+        "name": "Sneasler",
+        "secondType": "Fighting",
+        "Difference From Average": 56
+      },
+      {
+        "value": 119,
+        "name": "Revavroom",
+        "secondType": "Steel",
+        "Difference From Average": 45
+      },
+      {
+        "value": 115,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 115,
+        "name": "Overqwil",
+        "secondType": "Dark",
+        "Difference From Average": 41
+      },
+      {
+        "value": 106,
+        "name": "Toxicroak",
+        "secondType": "Fighting",
+        "Difference From Average": 32
+      },
+      {
+        "value": 105,
+        "name": "Muk Alolan Muk",
+        "secondType": "Dark",
+        "Difference From Average": 31
+      },
+      {
+        "value": 105,
+        "name": "Victreebel",
+        "secondType": "Grass",
+        "Difference From Average": 31
+      },
+      {
+        "value": 102,
+        "name": "Nidoking",
+        "secondType": "Ground",
+        "Difference From Average": 28
+      },
+      {
+        "value": 100,
+        "name": "Slowbro Galarian Slowbro",
+        "secondType": "Psychic",
+        "Difference From Average": 26
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon",
+        "Difference From Average": 182
+      },
+      {
+        "value": 152,
+        "name": "Toxapex",
+        "secondType": "Water",
+        "Difference From Average": 84
+      },
+      {
+        "value": 123,
+        "name": "Venusaur Mega Venusaur",
+        "secondType": "Grass",
+        "Difference From Average": 55
+      },
+      {
+        "value": 120,
+        "name": "Weezing Galarian Weezing",
+        "secondType": "Fairy",
+        "Difference From Average": 52
+      },
+      {
+        "value": 110,
+        "name": "Drapion",
+        "secondType": "Dark",
+        "Difference From Average": 42
+      },
+      {
+        "value": 99,
+        "name": "Whirlipede",
+        "secondType": "Bug",
+        "Difference From Average": 31
+      },
+      {
+        "value": 95,
+        "name": "Overqwil",
+        "secondType": "Dark",
+        "Difference From Average": 27
+      },
+      {
+        "value": 95,
+        "name": "Slowbro Galarian Slowbro",
+        "secondType": "Psychic",
+        "Difference From Average": 27
+      },
+      {
+        "value": 95,
+        "name": "Eternatus",
+        "secondType": "Dragon",
+        "Difference From Average": 27
+      },
+      {
+        "value": 90,
+        "name": "Revavroom",
+        "secondType": "Steel",
+        "Difference From Average": 22
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Ghost",
+        "Difference From Average": 95
+      },
+      {
+        "value": 145,
+        "name": "Eternatus",
+        "secondType": "Dragon",
+        "Difference From Average": 70
+      },
+      {
+        "value": 140,
+        "name": "Iron Moth",
+        "secondType": "Fire",
+        "Difference From Average": 65
+      },
+      {
+        "value": 130,
+        "name": "Glimmora",
+        "secondType": "Rock",
+        "Difference From Average": 55
+      },
+      {
+        "value": 130,
+        "name": "Gengar",
+        "secondType": "Ghost",
+        "Difference From Average": 55
+      },
+      {
+        "value": 127,
+        "name": "Naganadel",
+        "secondType": "Dragon",
+        "Difference From Average": 52
+      },
+      {
+        "value": 127,
+        "name": "Nihilego",
+        "secondType": "Rock",
+        "Difference From Average": 52
+      },
+      {
+        "value": 125,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon",
+        "Difference From Average": 50
+      },
+      {
+        "value": 125,
+        "name": "Roserade",
+        "secondType": "Grass",
+        "Difference From Average": 50
+      },
+      {
+        "value": 122,
+        "name": "Venusaur Mega Venusaur",
+        "secondType": "Grass",
+        "Difference From Average": 47
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon",
+        "Difference From Average": 177
+      },
+      {
+        "value": 142,
+        "name": "Toxapex",
+        "secondType": "Water",
+        "Difference From Average": 69
+      },
+      {
+        "value": 131,
+        "name": "Nihilego",
+        "secondType": "Rock",
+        "Difference From Average": 58
+      },
+      {
+        "value": 123,
+        "name": "Dragalge",
+        "secondType": "Dragon",
+        "Difference From Average": 50
+      },
+      {
+        "value": 120,
+        "name": "Venusaur Mega Venusaur",
+        "secondType": "Grass",
+        "Difference From Average": 47
+      },
+      {
+        "value": 120,
+        "name": "Tentacruel",
+        "secondType": "Water",
+        "Difference From Average": 47
+      },
+      {
+        "value": 110,
+        "name": "Iron Moth",
+        "secondType": "Fire",
+        "Difference From Average": 37
+      },
+      {
+        "value": 110,
+        "name": "Slowking Galarian Slowking",
+        "secondType": "Psychic",
+        "Difference From Average": 37
+      },
+      {
+        "value": 105,
+        "name": "Roserade",
+        "secondType": "Grass",
+        "Difference From Average": 32
+      },
+      {
+        "value": 100,
+        "name": "Venusaur",
+        "secondType": "Grass",
+        "Difference From Average": 27
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 145,
+        "name": "Beedrill Mega Beedrill",
+        "secondType": "Bug",
+        "Difference From Average": 74
+      },
+      {
+        "value": 130,
+        "name": "Eternatus Eternamax",
+        "secondType": "Dragon",
+        "Difference From Average": 59
+      },
+      {
+        "value": 130,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Ghost",
+        "Difference From Average": 59
+      },
+      {
+        "value": 130,
+        "name": "Eternatus",
+        "secondType": "Dragon",
+        "Difference From Average": 59
+      },
+      {
+        "value": 130,
+        "name": "Crobat",
+        "secondType": "Flying",
+        "Difference From Average": 59
+      },
+      {
+        "value": 121,
+        "name": "Naganadel",
+        "secondType": "Dragon",
+        "Difference From Average": 50
+      },
+      {
+        "value": 120,
+        "name": "Sneasler",
+        "secondType": "Fighting",
+        "Difference From Average": 49
+      },
+      {
+        "value": 117,
+        "name": "Salazzle",
+        "secondType": "Fire",
+        "Difference From Average": 46
+      },
+      {
+        "value": 115,
+        "name": "Sneasel Hisuian Sneasel",
+        "secondType": "Fighting",
+        "Difference From Average": 44
+      },
+      {
+        "value": 112,
+        "name": "Scolipede",
+        "secondType": "Bug",
+        "Difference From Average": 41
+      }
+    ]
+  },
+  {
+    "Type": "Fire",
+    "Highest HPs": [
+      {
+        "value": 110,
+        "name": "Emboar",
+        "secondType": "Fighting",
+        "Difference From Average": 34
+      },
+      {
+        "value": 110,
+        "name": "Coalossal",
+        "secondType": "Rock",
+        "Difference From Average": 34
+      },
+      {
+        "value": 106,
+        "name": "Ho-oh",
+        "secondType": "Flying",
+        "Difference From Average": 30
+      },
+      {
+        "value": 105,
+        "name": "Darmanitan Zen Mode",
+        "secondType": "Psychic",
+        "Difference From Average": 29
+      },
+      {
+        "value": 105,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Ice",
+        "Difference From Average": 29
+      },
+      {
+        "value": 104,
+        "name": "Skeledirge",
+        "secondType": "Ghost",
+        "Difference From Average": 28
+      },
+      {
+        "value": 100,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Ground",
+        "Difference From Average": 24
+      },
+      {
+        "value": 100,
+        "name": "Victini",
+        "secondType": "Psychic",
+        "Difference From Average": 24
+      },
+      {
+        "value": 100,
+        "name": "Reshiram",
+        "secondType": "Dragon",
+        "Difference From Average": 24
+      },
+      {
+        "value": 100,
+        "name": "Centiskorch",
+        "secondType": "Bug",
+        "Difference From Average": 24
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Ground",
+        "Difference From Average": 91
+      },
+      {
+        "value": 160,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Ice",
+        "Difference From Average": 71
+      },
+      {
+        "value": 160,
+        "name": "Blaziken Mega Blaziken",
+        "secondType": "Fighting",
+        "Difference From Average": 71
+      },
+      {
+        "value": 130,
+        "name": "Ho-oh",
+        "secondType": "Flying",
+        "Difference From Average": 41
+      },
+      {
+        "value": 130,
+        "name": "Charizard Mega Charizard X",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 127,
+        "name": "Blacephalon",
+        "secondType": "Ghost",
+        "Difference From Average": 38
+      },
+      {
+        "value": 125,
+        "name": "Ceruledge",
+        "secondType": "Ghost",
+        "Difference From Average": 36
+      },
+      {
+        "value": 123,
+        "name": "Emboar",
+        "secondType": "Fighting",
+        "Difference From Average": 34
+      },
+      {
+        "value": 120,
+        "name": "Reshiram",
+        "secondType": "Dragon",
+        "Difference From Average": 31
+      },
+      {
+        "value": 120,
+        "name": "Blaziken",
+        "secondType": "Fighting",
+        "Difference From Average": 31
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 160,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Ground",
+        "Difference From Average": 81
+      },
+      {
+        "value": 135,
+        "name": "Turtonator",
+        "secondType": "Dragon",
+        "Difference From Average": 56
+      },
+      {
+        "value": 120,
+        "name": "Volcanion",
+        "secondType": "Water",
+        "Difference From Average": 41
+      },
+      {
+        "value": 120,
+        "name": "Coalossal",
+        "secondType": "Rock",
+        "Difference From Average": 41
+      },
+      {
+        "value": 120,
+        "name": "Magcargo",
+        "secondType": "Rock",
+        "Difference From Average": 41
+      },
+      {
+        "value": 111,
+        "name": "Charizard Mega Charizard X",
+        "secondType": "Dragon",
+        "Difference From Average": 32
+      },
+      {
+        "value": 110,
+        "name": "Marowak Alolan Marowak",
+        "secondType": "Ghost",
+        "Difference From Average": 31
+      },
+      {
+        "value": 107,
+        "name": "Rotom Heat Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 28
+      },
+      {
+        "value": 106,
+        "name": "Heatran",
+        "secondType": "Steel",
+        "Difference From Average": 27
+      },
+      {
+        "value": 105,
+        "name": "Tauros Blaze Breed",
+        "secondType": "Fighting",
+        "Difference From Average": 26
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 159,
+        "name": "Charizard Mega Charizard Y",
+        "secondType": "Flying",
+        "Difference From Average": 59
+      },
+      {
+        "value": 151,
+        "name": "Blacephalon",
+        "secondType": "Ghost",
+        "Difference From Average": 51
+      },
+      {
+        "value": 150,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Ground",
+        "Difference From Average": 50
+      },
+      {
+        "value": 150,
+        "name": "Reshiram",
+        "secondType": "Dragon",
+        "Difference From Average": 50
+      },
+      {
+        "value": 145,
+        "name": "Camerupt Mega Camerupt",
+        "secondType": "Ground",
+        "Difference From Average": 45
+      },
+      {
+        "value": 145,
+        "name": "Chandelure",
+        "secondType": "Ghost",
+        "Difference From Average": 45
+      },
+      {
+        "value": 140,
+        "name": "Darmanitan Zen Mode",
+        "secondType": "Psychic",
+        "Difference From Average": 40
+      },
+      {
+        "value": 140,
+        "name": "Houndoom Mega Houndoom",
+        "secondType": "Dark",
+        "Difference From Average": 40
+      },
+      {
+        "value": 140,
+        "name": "Iron Moth",
+        "secondType": "Poison",
+        "Difference From Average": 40
+      },
+      {
+        "value": 135,
+        "name": "Chi-Yu",
+        "secondType": "Dark",
+        "Difference From Average": 35
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 154,
+        "name": "Ho-oh",
+        "secondType": "Flying",
+        "Difference From Average": 74
+      },
+      {
+        "value": 120,
+        "name": "Reshiram",
+        "secondType": "Dragon",
+        "Difference From Average": 40
+      },
+      {
+        "value": 120,
+        "name": "Chi-Yu",
+        "secondType": "Dark",
+        "Difference From Average": 40
+      },
+      {
+        "value": 115,
+        "name": "Charizard Mega Charizard Y",
+        "secondType": "Flying",
+        "Difference From Average": 35
+      },
+      {
+        "value": 110,
+        "name": "Iron Moth",
+        "secondType": "Poison",
+        "Difference From Average": 30
+      },
+      {
+        "value": 107,
+        "name": "Rotom Heat Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 27
+      },
+      {
+        "value": 106,
+        "name": "Heatran",
+        "secondType": "Steel",
+        "Difference From Average": 26
+      },
+      {
+        "value": 105,
+        "name": "Camerupt Mega Camerupt",
+        "secondType": "Ground",
+        "Difference From Average": 25
+      },
+      {
+        "value": 105,
+        "name": "Darmanitan Zen Mode",
+        "secondType": "Psychic",
+        "Difference From Average": 25
+      },
+      {
+        "value": 105,
+        "name": "Volcarona",
+        "secondType": "Bug",
+        "Difference From Average": 25
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 135,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Ice",
+        "Difference From Average": 57
+      },
+      {
+        "value": 126,
+        "name": "Talonflame",
+        "secondType": "Flying",
+        "Difference From Average": 48
+      },
+      {
+        "value": 117,
+        "name": "Salazzle",
+        "secondType": "Poison",
+        "Difference From Average": 39
+      },
+      {
+        "value": 115,
+        "name": "Houndoom Mega Houndoom",
+        "secondType": "Dark",
+        "Difference From Average": 37
+      },
+      {
+        "value": 110,
+        "name": "Iron Moth",
+        "secondType": "Poison",
+        "Difference From Average": 32
+      },
+      {
+        "value": 108,
+        "name": "Infernape",
+        "secondType": "Fighting",
+        "Difference From Average": 30
+      },
+      {
+        "value": 107,
+        "name": "Blacephalon",
+        "secondType": "Ghost",
+        "Difference From Average": 29
+      },
+      {
+        "value": 106,
+        "name": "Pyroar",
+        "secondType": "Normal",
+        "Difference From Average": 28
+      },
+      {
+        "value": 104,
+        "name": "Delphox",
+        "secondType": "Psychic",
+        "Difference From Average": 26
+      },
+      {
+        "value": 100,
+        "name": "Chi-Yu",
+        "secondType": "Dark",
+        "Difference From Average": 22
+      }
+    ]
+  },
+  {
+    "Type": "Flying",
+    "Highest HPs": [
+      {
+        "value": 150,
+        "name": "Drifblim",
+        "secondType": "Ghost",
+        "Difference From Average": 77
+      },
+      {
+        "value": 126,
+        "name": "Yveltal",
+        "secondType": "Dark",
+        "Difference From Average": 53
+      },
+      {
+        "value": 110,
+        "name": "Braviary Hisuian Braviary",
+        "secondType": "Psychic",
+        "Difference From Average": 37
+      },
+      {
+        "value": 110,
+        "name": "Mandibuzz",
+        "secondType": "Dark",
+        "Difference From Average": 37
+      },
+      {
+        "value": 106,
+        "name": "Lugia",
+        "secondType": "Psychic",
+        "Difference From Average": 33
+      },
+      {
+        "value": 106,
+        "name": "Ho-oh",
+        "secondType": "Fire",
+        "Difference From Average": 33
+      },
+      {
+        "value": 105,
+        "name": "Rayquaza",
+        "secondType": "Dragon",
+        "Difference From Average": 32
+      },
+      {
+        "value": 105,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Dragon",
+        "Difference From Average": 32
+      },
+      {
+        "value": 100,
+        "name": "Noctowl",
+        "secondType": "Normal",
+        "Difference From Average": 27
+      },
+      {
+        "value": 100,
+        "name": "Honchkrow",
+        "secondType": "Dark",
+        "Difference From Average": 27
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Dragon",
+        "Difference From Average": 98
+      },
+      {
+        "value": 155,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Bug",
+        "Difference From Average": 73
+      },
+      {
+        "value": 150,
+        "name": "Rayquaza",
+        "secondType": "Dragon",
+        "Difference From Average": 68
+      },
+      {
+        "value": 145,
+        "name": "Salamence Mega Salamence",
+        "secondType": "Dragon",
+        "Difference From Average": 63
+      },
+      {
+        "value": 145,
+        "name": "Landorus Therian Forme",
+        "secondType": "Ground",
+        "Difference From Average": 63
+      },
+      {
+        "value": 140,
+        "name": "Archeops",
+        "secondType": "Rock",
+        "Difference From Average": 58
+      },
+      {
+        "value": 135,
+        "name": "Salamence",
+        "secondType": "Dragon",
+        "Difference From Average": 53
+      },
+      {
+        "value": 135,
+        "name": "Aerodactyl Mega Aerodactyl",
+        "secondType": "Rock",
+        "Difference From Average": 53
+      },
+      {
+        "value": 134,
+        "name": "Dragonite",
+        "secondType": "Dragon",
+        "Difference From Average": 52
+      },
+      {
+        "value": 131,
+        "name": "Yveltal",
+        "secondType": "Dark",
+        "Difference From Average": 49
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 140,
+        "name": "Skarmory",
+        "secondType": "Steel",
+        "Difference From Average": 71
+      },
+      {
+        "value": 130,
+        "name": "Salamence Mega Salamence",
+        "secondType": "Dragon",
+        "Difference From Average": 61
+      },
+      {
+        "value": 130,
+        "name": "Lugia",
+        "secondType": "Psychic",
+        "Difference From Average": 61
+      },
+      {
+        "value": 125,
+        "name": "Gliscor",
+        "secondType": "Ground",
+        "Difference From Average": 56
+      },
+      {
+        "value": 120,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Bug",
+        "Difference From Average": 51
+      },
+      {
+        "value": 110,
+        "name": "Enamorus Therian Forme",
+        "secondType": "Fairy",
+        "Difference From Average": 41
+      },
+      {
+        "value": 107,
+        "name": "Rotom Fan Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 38
+      },
+      {
+        "value": 105,
+        "name": "Corviknight",
+        "secondType": "Steel",
+        "Difference From Average": 36
+      },
+      {
+        "value": 105,
+        "name": "Gligar",
+        "secondType": "Ground",
+        "Difference From Average": 36
+      },
+      {
+        "value": 105,
+        "name": "Mandibuzz",
+        "secondType": "Dark",
+        "Difference From Average": 36
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Dragon",
+        "Difference From Average": 103
+      },
+      {
+        "value": 159,
+        "name": "Charizard Mega Charizard Y",
+        "secondType": "Fire",
+        "Difference From Average": 82
+      },
+      {
+        "value": 150,
+        "name": "Rayquaza",
+        "secondType": "Dragon",
+        "Difference From Average": 73
+      },
+      {
+        "value": 145,
+        "name": "Thundurus Therian Forme",
+        "secondType": "Electric",
+        "Difference From Average": 68
+      },
+      {
+        "value": 135,
+        "name": "Enamorus Therian Forme",
+        "secondType": "Fairy",
+        "Difference From Average": 58
+      },
+      {
+        "value": 135,
+        "name": "Pidgeot Mega Pidgeot",
+        "secondType": "Normal",
+        "Difference From Average": 58
+      },
+      {
+        "value": 135,
+        "name": "Enamorus Incarnate Forme",
+        "secondType": "Fairy",
+        "Difference From Average": 58
+      },
+      {
+        "value": 131,
+        "name": "Yveltal",
+        "secondType": "Dark",
+        "Difference From Average": 54
+      },
+      {
+        "value": 125,
+        "name": "Moltres",
+        "secondType": "Fire",
+        "Difference From Average": 48
+      },
+      {
+        "value": 125,
+        "name": "Zapdos",
+        "secondType": "Electric",
+        "Difference From Average": 48
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 154,
+        "name": "Ho-oh",
+        "secondType": "Fire",
+        "Difference From Average": 83
+      },
+      {
+        "value": 154,
+        "name": "Lugia",
+        "secondType": "Psychic",
+        "Difference From Average": 83
+      },
+      {
+        "value": 140,
+        "name": "Mantine",
+        "secondType": "Water",
+        "Difference From Average": 69
+      },
+      {
+        "value": 125,
+        "name": "Moltres Galarian Moltres",
+        "secondType": "Dark",
+        "Difference From Average": 54
+      },
+      {
+        "value": 125,
+        "name": "Articuno",
+        "secondType": "Ice",
+        "Difference From Average": 54
+      },
+      {
+        "value": 120,
+        "name": "Mantyke",
+        "secondType": "Water",
+        "Difference From Average": 49
+      },
+      {
+        "value": 115,
+        "name": "Charizard Mega Charizard Y",
+        "secondType": "Fire",
+        "Difference From Average": 44
+      },
+      {
+        "value": 115,
+        "name": "Togekiss",
+        "secondType": "Fairy",
+        "Difference From Average": 44
+      },
+      {
+        "value": 110,
+        "name": "Ledian",
+        "secondType": "Bug",
+        "Difference From Average": 39
+      },
+      {
+        "value": 107,
+        "name": "Rotom Fan Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 36
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 160,
+        "name": "Ninjask",
+        "secondType": "Bug",
+        "Difference From Average": 75
+      },
+      {
+        "value": 150,
+        "name": "Aerodactyl Mega Aerodactyl",
+        "secondType": "Rock",
+        "Difference From Average": 65
+      },
+      {
+        "value": 130,
+        "name": "Crobat",
+        "secondType": "Poison",
+        "Difference From Average": 45
+      },
+      {
+        "value": 130,
+        "name": "Aerodactyl",
+        "secondType": "Rock",
+        "Difference From Average": 45
+      },
+      {
+        "value": 127,
+        "name": "Shaymin Sky Forme",
+        "secondType": "Grass",
+        "Difference From Average": 42
+      },
+      {
+        "value": 126,
+        "name": "Talonflame",
+        "secondType": "Fire",
+        "Difference From Average": 41
+      },
+      {
+        "value": 125,
+        "name": "Kilowattrel",
+        "secondType": "Electric",
+        "Difference From Average": 40
+      },
+      {
+        "value": 125,
+        "name": "Swellow",
+        "secondType": "Normal",
+        "Difference From Average": 40
+      },
+      {
+        "value": 123,
+        "name": "Noivern",
+        "secondType": "Dragon",
+        "Difference From Average": 38
+      },
+      {
+        "value": 121,
+        "name": "Pidgeot Mega Pidgeot",
+        "secondType": "Normal",
+        "Difference From Average": 36
+      }
+    ]
+  },
+  {
+    "Type": "Dragon",
+    "Highest HPs": [
+      {
+        "value": 255,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison",
+        "Difference From Average": 164
+      },
+      {
+        "value": 223,
+        "name": "Guzzlord",
+        "secondType": "Dark",
+        "Difference From Average": 132
+      },
+      {
+        "value": 216,
+        "name": "Zygarde Complete Forme",
+        "secondType": "Ground",
+        "Difference From Average": 125
+      },
+      {
+        "value": 150,
+        "name": "Giratina Altered Forme",
+        "secondType": "Ghost",
+        "Difference From Average": 59
+      },
+      {
+        "value": 150,
+        "name": "Giratina Origin Forme",
+        "secondType": "Ghost",
+        "Difference From Average": 59
+      },
+      {
+        "value": 140,
+        "name": "Eternatus",
+        "secondType": "Poison",
+        "Difference From Average": 49
+      },
+      {
+        "value": 125,
+        "name": "Kyurem",
+        "secondType": "Ice",
+        "Difference From Average": 34
+      },
+      {
+        "value": 125,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Ice",
+        "Difference From Average": 34
+      },
+      {
+        "value": 125,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Ice",
+        "Difference From Average": 34
+      },
+      {
+        "value": 115,
+        "name": "Baxcalibur",
+        "secondType": "Ice",
+        "Difference From Average": 24
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Flying",
+        "Difference From Average": 79
+      },
+      {
+        "value": 170,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Ice",
+        "Difference From Average": 69
+      },
+      {
+        "value": 170,
+        "name": "Garchomp Mega Garchomp",
+        "secondType": "Ground",
+        "Difference From Average": 69
+      },
+      {
+        "value": 167,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 66
+      },
+      {
+        "value": 150,
+        "name": "Rayquaza",
+        "secondType": "Flying",
+        "Difference From Average": 49
+      },
+      {
+        "value": 150,
+        "name": "Zekrom",
+        "secondType": "Electric",
+        "Difference From Average": 49
+      },
+      {
+        "value": 145,
+        "name": "Baxcalibur",
+        "secondType": "Ice",
+        "Difference From Average": 44
+      },
+      {
+        "value": 145,
+        "name": "Salamence Mega Salamence",
+        "secondType": "Flying",
+        "Difference From Average": 44
+      },
+      {
+        "value": 139,
+        "name": "Roaring Moon",
+        "secondType": "Dark",
+        "Difference From Average": 38
+      },
+      {
+        "value": 135,
+        "name": "Koraidon",
+        "secondType": "Fighting",
+        "Difference From Average": 34
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison",
+        "Difference From Average": 159
+      },
+      {
+        "value": 135,
+        "name": "Turtonator",
+        "secondType": "Fire",
+        "Difference From Average": 44
+      },
+      {
+        "value": 130,
+        "name": "Salamence Mega Salamence",
+        "secondType": "Flying",
+        "Difference From Average": 39
+      },
+      {
+        "value": 125,
+        "name": "Kommo-o",
+        "secondType": "Fighting",
+        "Difference From Average": 34
+      },
+      {
+        "value": 121,
+        "name": "Zygarde Complete Forme",
+        "secondType": "Ground",
+        "Difference From Average": 30
+      },
+      {
+        "value": 121,
+        "name": "Zygarde 50% Forme",
+        "secondType": "Ground",
+        "Difference From Average": 30
+      },
+      {
+        "value": 120,
+        "name": "Zekrom",
+        "secondType": "Electric",
+        "Difference From Average": 29
+      },
+      {
+        "value": 120,
+        "name": "Dialga",
+        "secondType": "Steel",
+        "Difference From Average": 29
+      },
+      {
+        "value": 120,
+        "name": "Giratina Altered Forme",
+        "secondType": "Ghost",
+        "Difference From Average": 29
+      },
+      {
+        "value": 120,
+        "name": "Dialga Origin Forme",
+        "secondType": "Steel",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 180,
+        "name": "Rayquaza Mega Rayquaza",
+        "secondType": "Flying",
+        "Difference From Average": 77
+      },
+      {
+        "value": 170,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Ice",
+        "Difference From Average": 67
+      },
+      {
+        "value": 167,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 64
+      },
+      {
+        "value": 165,
+        "name": "Ampharos Mega Ampharos",
+        "secondType": "Electric",
+        "Difference From Average": 62
+      },
+      {
+        "value": 160,
+        "name": "Latios Mega Latios",
+        "secondType": "Psychic",
+        "Difference From Average": 57
+      },
+      {
+        "value": 150,
+        "name": "Dialga",
+        "secondType": "Steel",
+        "Difference From Average": 47
+      },
+      {
+        "value": 150,
+        "name": "Dialga Origin Forme",
+        "secondType": "Steel",
+        "Difference From Average": 47
+      },
+      {
+        "value": 150,
+        "name": "Reshiram",
+        "secondType": "Fire",
+        "Difference From Average": 47
+      },
+      {
+        "value": 150,
+        "name": "Palkia",
+        "secondType": "Water",
+        "Difference From Average": 47
+      },
+      {
+        "value": 150,
+        "name": "Palkia Origin Forme",
+        "secondType": "Water",
+        "Difference From Average": 47
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 250,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison",
+        "Difference From Average": 160
+      },
+      {
+        "value": 150,
+        "name": "Latias Mega Latias",
+        "secondType": "Psychic",
+        "Difference From Average": 60
+      },
+      {
+        "value": 150,
+        "name": "Goodra Hisuian Goodra",
+        "secondType": "Steel",
+        "Difference From Average": 60
+      },
+      {
+        "value": 130,
+        "name": "Latias",
+        "secondType": "Psychic",
+        "Difference From Average": 40
+      },
+      {
+        "value": 123,
+        "name": "Dragalge",
+        "secondType": "Poison",
+        "Difference From Average": 33
+      },
+      {
+        "value": 120,
+        "name": "Latios Mega Latios",
+        "secondType": "Psychic",
+        "Difference From Average": 30
+      },
+      {
+        "value": 120,
+        "name": "Dialga Origin Forme",
+        "secondType": "Steel",
+        "Difference From Average": 30
+      },
+      {
+        "value": 120,
+        "name": "Reshiram",
+        "secondType": "Fire",
+        "Difference From Average": 30
+      },
+      {
+        "value": 120,
+        "name": "Palkia",
+        "secondType": "Water",
+        "Difference From Average": 30
+      },
+      {
+        "value": 120,
+        "name": "Palkia Origin Forme",
+        "secondType": "Water",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 145,
+        "name": "Sceptile Mega Sceptile",
+        "secondType": "Grass",
+        "Difference From Average": 58
+      },
+      {
+        "value": 142,
+        "name": "Dragapult",
+        "secondType": "Ghost",
+        "Difference From Average": 55
+      },
+      {
+        "value": 135,
+        "name": "Miraidon",
+        "secondType": "Electric",
+        "Difference From Average": 48
+      },
+      {
+        "value": 135,
+        "name": "Koraidon",
+        "secondType": "Fighting",
+        "Difference From Average": 48
+      },
+      {
+        "value": 130,
+        "name": "Eternatus Eternamax",
+        "secondType": "Poison",
+        "Difference From Average": 43
+      },
+      {
+        "value": 130,
+        "name": "Eternatus",
+        "secondType": "Poison",
+        "Difference From Average": 43
+      },
+      {
+        "value": 129,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 42
+      },
+      {
+        "value": 123,
+        "name": "Noivern",
+        "secondType": "Flying",
+        "Difference From Average": 36
+      },
+      {
+        "value": 121,
+        "name": "Naganadel",
+        "secondType": "Poison",
+        "Difference From Average": 34
+      },
+      {
+        "value": 121,
+        "name": "Cyclizar",
+        "secondType": "Normal",
+        "Difference From Average": 34
+      }
+    ]
+  },
+  {
+    "Type": "Bug",
+    "Highest HPs": [
+      {
+        "value": 107,
+        "name": "Buzzwole",
+        "secondType": "Fighting",
+        "Difference From Average": 48
+      },
+      {
+        "value": 100,
+        "name": "Centiskorch",
+        "secondType": "Fire",
+        "Difference From Average": 41
+      },
+      {
+        "value": 86,
+        "name": "Yanmega",
+        "secondType": "Flying",
+        "Difference From Average": 27
+      },
+      {
+        "value": 85,
+        "name": "Volcarona",
+        "secondType": "Fire",
+        "Difference From Average": 26
+      },
+      {
+        "value": 85,
+        "name": "Slither Wing",
+        "secondType": "Fighting",
+        "Difference From Average": 26
+      },
+      {
+        "value": 80,
+        "name": "Heracross",
+        "secondType": "Fighting",
+        "Difference From Average": 21
+      },
+      {
+        "value": 80,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Fighting",
+        "Difference From Average": 21
+      },
+      {
+        "value": 80,
+        "name": "Vivillon",
+        "secondType": "Flying",
+        "Difference From Average": 21
+      },
+      {
+        "value": 77,
+        "name": "Vikavolt",
+        "secondType": "Electric",
+        "Difference From Average": 18
+      },
+      {
+        "value": 75,
+        "name": "Forretress",
+        "secondType": "Steel",
+        "Difference From Average": 16
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 185,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Fighting",
+        "Difference From Average": 106
+      },
+      {
+        "value": 155,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Flying",
+        "Difference From Average": 76
+      },
+      {
+        "value": 150,
+        "name": "Scizor Mega Scizor",
+        "secondType": "Steel",
+        "Difference From Average": 71
+      },
+      {
+        "value": 150,
+        "name": "Beedrill Mega Beedrill",
+        "secondType": "Poison",
+        "Difference From Average": 71
+      },
+      {
+        "value": 139,
+        "name": "Buzzwole",
+        "secondType": "Fighting",
+        "Difference From Average": 60
+      },
+      {
+        "value": 137,
+        "name": "Pheromosa",
+        "secondType": "Fighting",
+        "Difference From Average": 58
+      },
+      {
+        "value": 135,
+        "name": "Slither Wing",
+        "secondType": "Fighting",
+        "Difference From Average": 56
+      },
+      {
+        "value": 135,
+        "name": "Escavalier",
+        "secondType": "Steel",
+        "Difference From Average": 56
+      },
+      {
+        "value": 135,
+        "name": "Kleavor",
+        "secondType": "Rock",
+        "Difference From Average": 56
+      },
+      {
+        "value": 130,
+        "name": "Scizor",
+        "secondType": "Steel",
+        "Difference From Average": 51
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Rock",
+        "Difference From Average": 154
+      },
+      {
+        "value": 140,
+        "name": "Scizor Mega Scizor",
+        "secondType": "Steel",
+        "Difference From Average": 64
+      },
+      {
+        "value": 140,
+        "name": "Golisopod",
+        "secondType": "Water",
+        "Difference From Average": 64
+      },
+      {
+        "value": 140,
+        "name": "Forretress",
+        "secondType": "Steel",
+        "Difference From Average": 64
+      },
+      {
+        "value": 139,
+        "name": "Buzzwole",
+        "secondType": "Fighting",
+        "Difference From Average": 63
+      },
+      {
+        "value": 125,
+        "name": "Crustle",
+        "secondType": "Rock",
+        "Difference From Average": 49
+      },
+      {
+        "value": 120,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Flying",
+        "Difference From Average": 44
+      },
+      {
+        "value": 115,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Fighting",
+        "Difference From Average": 39
+      },
+      {
+        "value": 112,
+        "name": "Durant",
+        "secondType": "Steel",
+        "Difference From Average": 36
+      },
+      {
+        "value": 110,
+        "name": "Orbeetle",
+        "secondType": "Psychic",
+        "Difference From Average": 34
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 145,
+        "name": "Vikavolt",
+        "secondType": "Electric",
+        "Difference From Average": 83
+      },
+      {
+        "value": 137,
+        "name": "Pheromosa",
+        "secondType": "Fighting",
+        "Difference From Average": 75
+      },
+      {
+        "value": 135,
+        "name": "Volcarona",
+        "secondType": "Fire",
+        "Difference From Average": 73
+      },
+      {
+        "value": 125,
+        "name": "Frosmoth",
+        "secondType": "Ice",
+        "Difference From Average": 63
+      },
+      {
+        "value": 120,
+        "name": "Genesect",
+        "secondType": "Steel",
+        "Difference From Average": 58
+      },
+      {
+        "value": 116,
+        "name": "Yanmega",
+        "secondType": "Flying",
+        "Difference From Average": 54
+      },
+      {
+        "value": 115,
+        "name": "Rabsca",
+        "secondType": "Psychic",
+        "Difference From Average": 53
+      },
+      {
+        "value": 100,
+        "name": "Masquerain",
+        "secondType": "Flying",
+        "Difference From Average": 38
+      },
+      {
+        "value": 100,
+        "name": "Beautifly",
+        "secondType": "Flying",
+        "Difference From Average": 38
+      },
+      {
+        "value": 97,
+        "name": "Galvantula",
+        "secondType": "Electric",
+        "Difference From Average": 35
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Rock",
+        "Difference From Average": 158
+      },
+      {
+        "value": 132,
+        "name": "Araquanid",
+        "secondType": "Water",
+        "Difference From Average": 60
+      },
+      {
+        "value": 120,
+        "name": "Orbeetle",
+        "secondType": "Psychic",
+        "Difference From Average": 48
+      },
+      {
+        "value": 110,
+        "name": "Ledian",
+        "secondType": "Flying",
+        "Difference From Average": 38
+      },
+      {
+        "value": 105,
+        "name": "Volcarona",
+        "secondType": "Fire",
+        "Difference From Average": 33
+      },
+      {
+        "value": 105,
+        "name": "Slither Wing",
+        "secondType": "Fighting",
+        "Difference From Average": 33
+      },
+      {
+        "value": 105,
+        "name": "Wormadam Plant Cloak",
+        "secondType": "Grass",
+        "Difference From Average": 33
+      },
+      {
+        "value": 105,
+        "name": "Escavalier",
+        "secondType": "Steel",
+        "Difference From Average": 33
+      },
+      {
+        "value": 105,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Fighting",
+        "Difference From Average": 33
+      },
+      {
+        "value": 102,
+        "name": "Vespiquen",
+        "secondType": "Flying",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 160,
+        "name": "Ninjask",
+        "secondType": "Flying",
+        "Difference From Average": 94
+      },
+      {
+        "value": 151,
+        "name": "Pheromosa",
+        "secondType": "Fighting",
+        "Difference From Average": 85
+      },
+      {
+        "value": 145,
+        "name": "Beedrill Mega Beedrill",
+        "secondType": "Poison",
+        "Difference From Average": 79
+      },
+      {
+        "value": 124,
+        "name": "Ribombee",
+        "secondType": "Fairy",
+        "Difference From Average": 58
+      },
+      {
+        "value": 112,
+        "name": "Scolipede",
+        "secondType": "Poison",
+        "Difference From Average": 46
+      },
+      {
+        "value": 109,
+        "name": "Durant",
+        "secondType": "Steel",
+        "Difference From Average": 43
+      },
+      {
+        "value": 108,
+        "name": "Galvantula",
+        "secondType": "Electric",
+        "Difference From Average": 42
+      },
+      {
+        "value": 105,
+        "name": "Pinsir Mega Pinsir",
+        "secondType": "Flying",
+        "Difference From Average": 39
+      },
+      {
+        "value": 105,
+        "name": "Scyther",
+        "secondType": "Flying",
+        "Difference From Average": 39
+      },
+      {
+        "value": 100,
+        "name": "Volcarona",
+        "secondType": "Fire",
+        "Difference From Average": 34
+      }
+    ]
+  },
+  {
+    "Type": "Normal",
+    "Highest HPs": [
+      {
+        "value": 140,
+        "name": "Wigglytuff",
+        "secondType": "Fairy",
+        "Difference From Average": 69
+      },
+      {
+        "value": 130,
+        "name": "Ursaluna",
+        "secondType": "Ground",
+        "Difference From Average": 59
+      },
+      {
+        "value": 120,
+        "name": "Bewear",
+        "secondType": "Fighting",
+        "Difference From Average": 49
+      },
+      {
+        "value": 120,
+        "name": "Farigiraf",
+        "secondType": "Psychic",
+        "Difference From Average": 49
+      },
+      {
+        "value": 115,
+        "name": "Jigglypuff",
+        "secondType": "Fairy",
+        "Difference From Average": 44
+      },
+      {
+        "value": 103,
+        "name": "Audino Mega Audino",
+        "secondType": "Fairy",
+        "Difference From Average": 32
+      },
+      {
+        "value": 103,
+        "name": "Wyrdeer",
+        "secondType": "Psychic",
+        "Difference From Average": 32
+      },
+      {
+        "value": 100,
+        "name": "Noctowl",
+        "secondType": "Flying",
+        "Difference From Average": 29
+      },
+      {
+        "value": 100,
+        "name": "Braviary",
+        "secondType": "Flying",
+        "Difference From Average": 29
+      },
+      {
+        "value": 100,
+        "name": "Meloetta Aria Forme",
+        "secondType": "Psychic",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 140,
+        "name": "Ursaluna",
+        "secondType": "Ground",
+        "Difference From Average": 65
+      },
+      {
+        "value": 136,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Fighting",
+        "Difference From Average": 61
+      },
+      {
+        "value": 128,
+        "name": "Meloetta Pirouette Forme",
+        "secondType": "Fighting",
+        "Difference From Average": 53
+      },
+      {
+        "value": 125,
+        "name": "Bewear",
+        "secondType": "Fighting",
+        "Difference From Average": 50
+      },
+      {
+        "value": 123,
+        "name": "Braviary",
+        "secondType": "Flying",
+        "Difference From Average": 48
+      },
+      {
+        "value": 120,
+        "name": "Staraptor",
+        "secondType": "Flying",
+        "Difference From Average": 45
+      },
+      {
+        "value": 120,
+        "name": "Toucannon",
+        "secondType": "Flying",
+        "Difference From Average": 45
+      },
+      {
+        "value": 115,
+        "name": "Unfezant",
+        "secondType": "Flying",
+        "Difference From Average": 40
+      },
+      {
+        "value": 110,
+        "name": "Dodrio",
+        "secondType": "Flying",
+        "Difference From Average": 35
+      },
+      {
+        "value": 105,
+        "name": "Wyrdeer",
+        "secondType": "Psychic",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 126,
+        "name": "Audino Mega Audino",
+        "secondType": "Fairy",
+        "Difference From Average": 67
+      },
+      {
+        "value": 105,
+        "name": "Ursaluna",
+        "secondType": "Ground",
+        "Difference From Average": 46
+      },
+      {
+        "value": 101,
+        "name": "Obstagoon",
+        "secondType": "Dark",
+        "Difference From Average": 42
+      },
+      {
+        "value": 94,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Fighting",
+        "Difference From Average": 35
+      },
+      {
+        "value": 90,
+        "name": "Meloetta Pirouette Forme",
+        "secondType": "Fighting",
+        "Difference From Average": 31
+      },
+      {
+        "value": 90,
+        "name": "Arboliva",
+        "secondType": "Grass",
+        "Difference From Average": 31
+      },
+      {
+        "value": 85,
+        "name": "Drampa",
+        "secondType": "Dragon",
+        "Difference From Average": 26
+      },
+      {
+        "value": 80,
+        "name": "Bewear",
+        "secondType": "Fighting",
+        "Difference From Average": 21
+      },
+      {
+        "value": 80,
+        "name": "Unfezant",
+        "secondType": "Flying",
+        "Difference From Average": 21
+      },
+      {
+        "value": 80,
+        "name": "Pidgeot Mega Pidgeot",
+        "secondType": "Flying",
+        "Difference From Average": 21
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 135,
+        "name": "Drampa",
+        "secondType": "Dragon",
+        "Difference From Average": 71
+      },
+      {
+        "value": 135,
+        "name": "Pidgeot Mega Pidgeot",
+        "secondType": "Flying",
+        "Difference From Average": 71
+      },
+      {
+        "value": 128,
+        "name": "Meloetta Aria Forme",
+        "secondType": "Psychic",
+        "Difference From Average": 64
+      },
+      {
+        "value": 125,
+        "name": "Arboliva",
+        "secondType": "Grass",
+        "Difference From Average": 61
+      },
+      {
+        "value": 125,
+        "name": "Zoroark Hisuian Zoroark",
+        "secondType": "Ghost",
+        "Difference From Average": 61
+      },
+      {
+        "value": 110,
+        "name": "Farigiraf",
+        "secondType": "Psychic",
+        "Difference From Average": 46
+      },
+      {
+        "value": 109,
+        "name": "Pyroar",
+        "secondType": "Fire",
+        "Difference From Average": 45
+      },
+      {
+        "value": 109,
+        "name": "Heliolisk",
+        "secondType": "Electric",
+        "Difference From Average": 45
+      },
+      {
+        "value": 105,
+        "name": "Wyrdeer",
+        "secondType": "Psychic",
+        "Difference From Average": 41
+      },
+      {
+        "value": 105,
+        "name": "Indeedee Male",
+        "secondType": "Psychic",
+        "Difference From Average": 41
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 128,
+        "name": "Meloetta Aria Forme",
+        "secondType": "Psychic",
+        "Difference From Average": 67
+      },
+      {
+        "value": 126,
+        "name": "Audino Mega Audino",
+        "secondType": "Fairy",
+        "Difference From Average": 65
+      },
+      {
+        "value": 110,
+        "name": "Oranguru",
+        "secondType": "Psychic",
+        "Difference From Average": 49
+      },
+      {
+        "value": 109,
+        "name": "Arboliva",
+        "secondType": "Grass",
+        "Difference From Average": 48
+      },
+      {
+        "value": 105,
+        "name": "Indeedee Female",
+        "secondType": "Psychic",
+        "Difference From Average": 44
+      },
+      {
+        "value": 96,
+        "name": "Noctowl",
+        "secondType": "Flying",
+        "Difference From Average": 35
+      },
+      {
+        "value": 96,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Fighting",
+        "Difference From Average": 35
+      },
+      {
+        "value": 95,
+        "name": "Indeedee Male",
+        "secondType": "Psychic",
+        "Difference From Average": 34
+      },
+      {
+        "value": 94,
+        "name": "Heliolisk",
+        "secondType": "Electric",
+        "Difference From Average": 33
+      },
+      {
+        "value": 91,
+        "name": "Drampa",
+        "secondType": "Dragon",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 135,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Fighting",
+        "Difference From Average": 60
+      },
+      {
+        "value": 128,
+        "name": "Meloetta Pirouette Forme",
+        "secondType": "Fighting",
+        "Difference From Average": 53
+      },
+      {
+        "value": 125,
+        "name": "Swellow",
+        "secondType": "Flying",
+        "Difference From Average": 50
+      },
+      {
+        "value": 121,
+        "name": "Pidgeot Mega Pidgeot",
+        "secondType": "Flying",
+        "Difference From Average": 46
+      },
+      {
+        "value": 121,
+        "name": "Cyclizar",
+        "secondType": "Dragon",
+        "Difference From Average": 46
+      },
+      {
+        "value": 110,
+        "name": "Grafaiai",
+        "secondType": "Poison",
+        "Difference From Average": 35
+      },
+      {
+        "value": 110,
+        "name": "Zoroark Hisuian Zoroark",
+        "secondType": "Ghost",
+        "Difference From Average": 35
+      },
+      {
+        "value": 110,
+        "name": "Dodrio",
+        "secondType": "Flying",
+        "Difference From Average": 35
+      },
+      {
+        "value": 109,
+        "name": "Heliolisk",
+        "secondType": "Electric",
+        "Difference From Average": 34
+      },
+      {
+        "value": 106,
+        "name": "Pyroar",
+        "secondType": "Fire",
+        "Difference From Average": 31
+      }
+    ]
+  },
+  {
+    "Type": "Dark",
+    "Highest HPs": [
+      {
+        "value": 223,
+        "name": "Guzzlord",
+        "secondType": "Dragon",
+        "Difference From Average": 145
+      },
+      {
+        "value": 155,
+        "name": "Ting-Lu",
+        "secondType": "Ground",
+        "Difference From Average": 77
+      },
+      {
+        "value": 126,
+        "name": "Yveltal",
+        "secondType": "Flying",
+        "Difference From Average": 48
+      },
+      {
+        "value": 111,
+        "name": "Brute Bonnet",
+        "secondType": "Grass",
+        "Difference From Average": 33
+      },
+      {
+        "value": 110,
+        "name": "Mandibuzz",
+        "secondType": "Flying",
+        "Difference From Average": 32
+      },
+      {
+        "value": 105,
+        "name": "Muk Alolan Muk",
+        "secondType": "Poison",
+        "Difference From Average": 27
+      },
+      {
+        "value": 105,
+        "name": "Zarude",
+        "secondType": "Grass",
+        "Difference From Average": 27
+      },
+      {
+        "value": 105,
+        "name": "Roaring Moon",
+        "secondType": "Dragon",
+        "Difference From Average": 27
+      },
+      {
+        "value": 103,
+        "name": "Skuntank",
+        "secondType": "Poison",
+        "Difference From Average": 25
+      },
+      {
+        "value": 100,
+        "name": "Tyranitar",
+        "secondType": "Rock",
+        "Difference From Average": 22
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 164,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Rock",
+        "Difference From Average": 66
+      },
+      {
+        "value": 160,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Psychic",
+        "Difference From Average": 62
+      },
+      {
+        "value": 155,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Water",
+        "Difference From Average": 57
+      },
+      {
+        "value": 145,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Water",
+        "Difference From Average": 47
+      },
+      {
+        "value": 140,
+        "name": "Sharpedo Mega Sharpedo",
+        "secondType": "Water",
+        "Difference From Average": 42
+      },
+      {
+        "value": 139,
+        "name": "Roaring Moon",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 135,
+        "name": "Kingambit",
+        "secondType": "Steel",
+        "Difference From Average": 37
+      },
+      {
+        "value": 134,
+        "name": "Tyranitar",
+        "secondType": "Rock",
+        "Difference From Average": 36
+      },
+      {
+        "value": 131,
+        "name": "Yveltal",
+        "secondType": "Flying",
+        "Difference From Average": 33
+      },
+      {
+        "value": 130,
+        "name": "Urshifu Single Strike Style",
+        "secondType": "Fighting",
+        "Difference From Average": 32
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 150,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Rock",
+        "Difference From Average": 75
+      },
+      {
+        "value": 125,
+        "name": "Ting-Lu",
+        "secondType": "Ground",
+        "Difference From Average": 50
+      },
+      {
+        "value": 125,
+        "name": "Sableye Mega Sableye",
+        "secondType": "Ghost",
+        "Difference From Average": 50
+      },
+      {
+        "value": 120,
+        "name": "Kingambit",
+        "secondType": "Steel",
+        "Difference From Average": 45
+      },
+      {
+        "value": 115,
+        "name": "Scrafty",
+        "secondType": "Fighting",
+        "Difference From Average": 40
+      },
+      {
+        "value": 110,
+        "name": "Tyranitar",
+        "secondType": "Rock",
+        "Difference From Average": 35
+      },
+      {
+        "value": 110,
+        "name": "Drapion",
+        "secondType": "Poison",
+        "Difference From Average": 35
+      },
+      {
+        "value": 109,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Water",
+        "Difference From Average": 34
+      },
+      {
+        "value": 108,
+        "name": "Spiritomb",
+        "secondType": "Ghost",
+        "Difference From Average": 33
+      },
+      {
+        "value": 105,
+        "name": "Zarude",
+        "secondType": "Grass",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Psychic",
+        "Difference From Average": 95
+      },
+      {
+        "value": 153,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Water",
+        "Difference From Average": 78
+      },
+      {
+        "value": 140,
+        "name": "Houndoom Mega Houndoom",
+        "secondType": "Fire",
+        "Difference From Average": 65
+      },
+      {
+        "value": 135,
+        "name": "Chi-Yu",
+        "secondType": "Fire",
+        "Difference From Average": 60
+      },
+      {
+        "value": 131,
+        "name": "Yveltal",
+        "secondType": "Flying",
+        "Difference From Average": 56
+      },
+      {
+        "value": 125,
+        "name": "Hydreigon",
+        "secondType": "Dragon",
+        "Difference From Average": 50
+      },
+      {
+        "value": 122,
+        "name": "Iron Jugulis",
+        "secondType": "Flying",
+        "Difference From Average": 47
+      },
+      {
+        "value": 115,
+        "name": "Cacturne",
+        "secondType": "Grass",
+        "Difference From Average": 40
+      },
+      {
+        "value": 110,
+        "name": "Sharpedo Mega Sharpedo",
+        "secondType": "Water",
+        "Difference From Average": 35
+      },
+      {
+        "value": 110,
+        "name": "Houndoom",
+        "secondType": "Fire",
+        "Difference From Average": 35
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 135,
+        "name": "Wo-Chien",
+        "secondType": "Grass",
+        "Difference From Average": 62
+      },
+      {
+        "value": 130,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Psychic",
+        "Difference From Average": 57
+      },
+      {
+        "value": 130,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Water",
+        "Difference From Average": 57
+      },
+      {
+        "value": 125,
+        "name": "Moltres Galarian Moltres",
+        "secondType": "Flying",
+        "Difference From Average": 52
+      },
+      {
+        "value": 120,
+        "name": "Chi-Yu",
+        "secondType": "Fire",
+        "Difference From Average": 47
+      },
+      {
+        "value": 120,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Rock",
+        "Difference From Average": 47
+      },
+      {
+        "value": 115,
+        "name": "Sableye Mega Sableye",
+        "secondType": "Ghost",
+        "Difference From Average": 42
+      },
+      {
+        "value": 115,
+        "name": "Scrafty",
+        "secondType": "Fighting",
+        "Difference From Average": 42
+      },
+      {
+        "value": 108,
+        "name": "Spiritomb",
+        "secondType": "Ghost",
+        "Difference From Average": 35
+      },
+      {
+        "value": 101,
+        "name": "Roaring Moon",
+        "secondType": "Dragon",
+        "Difference From Average": 28
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 135,
+        "name": "Chien-Pao",
+        "secondType": "Ice",
+        "Difference From Average": 58
+      },
+      {
+        "value": 132,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Water",
+        "Difference From Average": 55
+      },
+      {
+        "value": 125,
+        "name": "Weavile",
+        "secondType": "Ice",
+        "Difference From Average": 48
+      },
+      {
+        "value": 123,
+        "name": "Meowscarada",
+        "secondType": "Grass",
+        "Difference From Average": 46
+      },
+      {
+        "value": 122,
+        "name": "Greninja",
+        "secondType": "Water",
+        "Difference From Average": 45
+      },
+      {
+        "value": 119,
+        "name": "Roaring Moon",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 115,
+        "name": "Houndoom Mega Houndoom",
+        "secondType": "Fire",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Sneasel",
+        "secondType": "Ice",
+        "Difference From Average": 38
+      },
+      {
+        "value": 108,
+        "name": "Iron Jugulis",
+        "secondType": "Flying",
+        "Difference From Average": 31
+      },
+      {
+        "value": 105,
+        "name": "Zarude",
+        "secondType": "Grass",
+        "Difference From Average": 28
+      }
+    ]
+  },
+  {
+    "Type": "Electric",
+    "Highest HPs": [
+      {
+        "value": 154,
+        "name": "Iron Hands",
+        "secondType": "Fighting",
+        "Difference From Average": 85
+      },
+      {
+        "value": 125,
+        "name": "Lanturn",
+        "secondType": "Water",
+        "Difference From Average": 56
+      },
+      {
+        "value": 109,
+        "name": "Stunfisk",
+        "secondType": "Ground",
+        "Difference From Average": 40
+      },
+      {
+        "value": 100,
+        "name": "Zekrom",
+        "secondType": "Dragon",
+        "Difference From Average": 31
+      },
+      {
+        "value": 100,
+        "name": "Iron Thorns",
+        "secondType": "Rock",
+        "Difference From Average": 31
+      },
+      {
+        "value": 100,
+        "name": "Miraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 31
+      },
+      {
+        "value": 90,
+        "name": "Zapdos",
+        "secondType": "Flying",
+        "Difference From Average": 21
+      },
+      {
+        "value": 90,
+        "name": "Ampharos Mega Ampharos",
+        "secondType": "Dragon",
+        "Difference From Average": 21
+      },
+      {
+        "value": 90,
+        "name": "Dracozolt",
+        "secondType": "Dragon",
+        "Difference From Average": 21
+      },
+      {
+        "value": 90,
+        "name": "Arctozolt",
+        "secondType": "Ice",
+        "Difference From Average": 21
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 150,
+        "name": "Zekrom",
+        "secondType": "Dragon",
+        "Difference From Average": 71
+      },
+      {
+        "value": 140,
+        "name": "Iron Hands",
+        "secondType": "Fighting",
+        "Difference From Average": 61
+      },
+      {
+        "value": 134,
+        "name": "Iron Thorns",
+        "secondType": "Rock",
+        "Difference From Average": 55
+      },
+      {
+        "value": 120,
+        "name": "Golem Alolan Golem",
+        "secondType": "Rock",
+        "Difference From Average": 41
+      },
+      {
+        "value": 115,
+        "name": "Thundurus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 36
+      },
+      {
+        "value": 115,
+        "name": "Tapu Koko",
+        "secondType": "Fairy",
+        "Difference From Average": 36
+      },
+      {
+        "value": 115,
+        "name": "Pawmot",
+        "secondType": "Fighting",
+        "Difference From Average": 36
+      },
+      {
+        "value": 105,
+        "name": "Thundurus Therian Forme",
+        "secondType": "Flying",
+        "Difference From Average": 26
+      },
+      {
+        "value": 100,
+        "name": "Dracozolt",
+        "secondType": "Dragon",
+        "Difference From Average": 21
+      },
+      {
+        "value": 100,
+        "name": "Arctozolt",
+        "secondType": "Ice",
+        "Difference From Average": 21
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 130,
+        "name": "Golem Alolan Golem",
+        "secondType": "Rock",
+        "Difference From Average": 52
+      },
+      {
+        "value": 120,
+        "name": "Zekrom",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 115,
+        "name": "Graveler Alolan Graveler",
+        "secondType": "Rock",
+        "Difference From Average": 37
+      },
+      {
+        "value": 115,
+        "name": "Magnezone",
+        "secondType": "Steel",
+        "Difference From Average": 37
+      },
+      {
+        "value": 110,
+        "name": "Iron Thorns",
+        "secondType": "Rock",
+        "Difference From Average": 32
+      },
+      {
+        "value": 108,
+        "name": "Iron Hands",
+        "secondType": "Fighting",
+        "Difference From Average": 30
+      },
+      {
+        "value": 107,
+        "name": "Rotom Heat Rotom",
+        "secondType": "Fire",
+        "Difference From Average": 29
+      },
+      {
+        "value": 107,
+        "name": "Rotom Wash Rotom",
+        "secondType": "Water",
+        "Difference From Average": 29
+      },
+      {
+        "value": 107,
+        "name": "Rotom Frost Rotom",
+        "secondType": "Ice",
+        "Difference From Average": 29
+      },
+      {
+        "value": 107,
+        "name": "Rotom Fan Rotom",
+        "secondType": "Flying",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 165,
+        "name": "Ampharos Mega Ampharos",
+        "secondType": "Dragon",
+        "Difference From Average": 76
+      },
+      {
+        "value": 145,
+        "name": "Vikavolt",
+        "secondType": "Bug",
+        "Difference From Average": 56
+      },
+      {
+        "value": 145,
+        "name": "Thundurus Therian Forme",
+        "secondType": "Flying",
+        "Difference From Average": 56
+      },
+      {
+        "value": 135,
+        "name": "Miraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 46
+      },
+      {
+        "value": 130,
+        "name": "Magnezone",
+        "secondType": "Steel",
+        "Difference From Average": 41
+      },
+      {
+        "value": 125,
+        "name": "Zapdos",
+        "secondType": "Flying",
+        "Difference From Average": 36
+      },
+      {
+        "value": 125,
+        "name": "Thundurus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 36
+      },
+      {
+        "value": 121,
+        "name": "Sandy Shocks",
+        "secondType": "Ground",
+        "Difference From Average": 32
+      },
+      {
+        "value": 120,
+        "name": "Zekrom",
+        "secondType": "Dragon",
+        "Difference From Average": 31
+      },
+      {
+        "value": 120,
+        "name": "Magneton",
+        "secondType": "Steel",
+        "Difference From Average": 31
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 115,
+        "name": "Miraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 110,
+        "name": "Ampharos Mega Ampharos",
+        "secondType": "Dragon",
+        "Difference From Average": 36
+      },
+      {
+        "value": 107,
+        "name": "Rotom Heat Rotom",
+        "secondType": "Fire",
+        "Difference From Average": 33
+      },
+      {
+        "value": 107,
+        "name": "Rotom Wash Rotom",
+        "secondType": "Water",
+        "Difference From Average": 33
+      },
+      {
+        "value": 107,
+        "name": "Rotom Frost Rotom",
+        "secondType": "Ice",
+        "Difference From Average": 33
+      },
+      {
+        "value": 107,
+        "name": "Rotom Fan Rotom",
+        "secondType": "Flying",
+        "Difference From Average": 33
+      },
+      {
+        "value": 107,
+        "name": "Rotom Mow Rotom",
+        "secondType": "Grass",
+        "Difference From Average": 33
+      },
+      {
+        "value": 100,
+        "name": "Zekrom",
+        "secondType": "Dragon",
+        "Difference From Average": 26
+      },
+      {
+        "value": 99,
+        "name": "Stunfisk",
+        "secondType": "Ground",
+        "Difference From Average": 25
+      },
+      {
+        "value": 94,
+        "name": "Heliolisk",
+        "secondType": "Normal",
+        "Difference From Average": 20
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Electrode Hisuian Electrode",
+        "secondType": "Grass",
+        "Difference From Average": 69
+      },
+      {
+        "value": 135,
+        "name": "Miraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 54
+      },
+      {
+        "value": 130,
+        "name": "Tapu Koko",
+        "secondType": "Fairy",
+        "Difference From Average": 49
+      },
+      {
+        "value": 125,
+        "name": "Kilowattrel",
+        "secondType": "Flying",
+        "Difference From Average": 44
+      },
+      {
+        "value": 111,
+        "name": "Thundurus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 30
+      },
+      {
+        "value": 110,
+        "name": "Raichu Alolan Raichu",
+        "secondType": "Psychic",
+        "Difference From Average": 29
+      },
+      {
+        "value": 109,
+        "name": "Heliolisk",
+        "secondType": "Normal",
+        "Difference From Average": 28
+      },
+      {
+        "value": 108,
+        "name": "Galvantula",
+        "secondType": "Bug",
+        "Difference From Average": 27
+      },
+      {
+        "value": 105,
+        "name": "Pawmot",
+        "secondType": "Fighting",
+        "Difference From Average": 24
+      },
+      {
+        "value": 103,
+        "name": "Emolga",
+        "secondType": "Flying",
+        "Difference From Average": 22
+      }
+    ]
+  },
+  {
+    "Type": "Psychic",
+    "Highest HPs": [
+      {
+        "value": 137,
+        "name": "Solgaleo",
+        "secondType": "Steel",
+        "Difference From Average": 60
+      },
+      {
+        "value": 137,
+        "name": "Lunala",
+        "secondType": "Ghost",
+        "Difference From Average": 60
+      },
+      {
+        "value": 120,
+        "name": "Farigiraf",
+        "secondType": "Normal",
+        "Difference From Average": 43
+      },
+      {
+        "value": 115,
+        "name": "Scream Tail",
+        "secondType": "Fairy",
+        "Difference From Average": 38
+      },
+      {
+        "value": 110,
+        "name": "Braviary Hisuian Braviary",
+        "secondType": "Flying",
+        "Difference From Average": 33
+      },
+      {
+        "value": 106,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Fighting",
+        "Difference From Average": 29
+      },
+      {
+        "value": 106,
+        "name": "Lugia",
+        "secondType": "Flying",
+        "Difference From Average": 29
+      },
+      {
+        "value": 105,
+        "name": "Darmanitan Zen Mode",
+        "secondType": "Fire",
+        "Difference From Average": 28
+      },
+      {
+        "value": 103,
+        "name": "Wyrdeer",
+        "secondType": "Normal",
+        "Difference From Average": 26
+      },
+      {
+        "value": 100,
+        "name": "Celebi",
+        "secondType": "Grass",
+        "Difference From Average": 23
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 190,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Fighting",
+        "Difference From Average": 107
+      },
+      {
+        "value": 167,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Dragon",
+        "Difference From Average": 84
+      },
+      {
+        "value": 165,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Ice",
+        "Difference From Average": 82
+      },
+      {
+        "value": 165,
+        "name": "Gallade Mega Gallade",
+        "secondType": "Fighting",
+        "Difference From Average": 82
+      },
+      {
+        "value": 160,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Dark",
+        "Difference From Average": 77
+      },
+      {
+        "value": 157,
+        "name": "Necrozma Dusk Mane Necrozma",
+        "secondType": "Steel",
+        "Difference From Average": 74
+      },
+      {
+        "value": 145,
+        "name": "Metagross Mega Metagross",
+        "secondType": "Steel",
+        "Difference From Average": 62
+      },
+      {
+        "value": 137,
+        "name": "Solgaleo",
+        "secondType": "Steel",
+        "Difference From Average": 54
+      },
+      {
+        "value": 135,
+        "name": "Metagross",
+        "secondType": "Steel",
+        "Difference From Average": 52
+      },
+      {
+        "value": 130,
+        "name": "Iron Leaves",
+        "secondType": "Grass",
+        "Difference From Average": 47
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 180,
+        "name": "Slowbro Mega Slowbro",
+        "secondType": "Water",
+        "Difference From Average": 98
+      },
+      {
+        "value": 150,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Ice",
+        "Difference From Average": 68
+      },
+      {
+        "value": 150,
+        "name": "Metagross Mega Metagross",
+        "secondType": "Steel",
+        "Difference From Average": 68
+      },
+      {
+        "value": 130,
+        "name": "Metagross",
+        "secondType": "Steel",
+        "Difference From Average": 48
+      },
+      {
+        "value": 130,
+        "name": "Lugia",
+        "secondType": "Flying",
+        "Difference From Average": 48
+      },
+      {
+        "value": 127,
+        "name": "Necrozma Dusk Mane Necrozma",
+        "secondType": "Steel",
+        "Difference From Average": 45
+      },
+      {
+        "value": 120,
+        "name": "Latias Mega Latias",
+        "secondType": "Dragon",
+        "Difference From Average": 38
+      },
+      {
+        "value": 116,
+        "name": "Bronzong",
+        "secondType": "Steel",
+        "Difference From Average": 34
+      },
+      {
+        "value": 110,
+        "name": "Slowbro",
+        "secondType": "Water",
+        "Difference From Average": 28
+      },
+      {
+        "value": 110,
+        "name": "Orbeetle",
+        "secondType": "Bug",
+        "Difference From Average": 28
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Dark",
+        "Difference From Average": 73
+      },
+      {
+        "value": 167,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Dragon",
+        "Difference From Average": 70
+      },
+      {
+        "value": 165,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Ghost",
+        "Difference From Average": 68
+      },
+      {
+        "value": 165,
+        "name": "Gardevoir Mega Gardevoir",
+        "secondType": "Fairy",
+        "Difference From Average": 68
+      },
+      {
+        "value": 160,
+        "name": "Latios Mega Latios",
+        "secondType": "Dragon",
+        "Difference From Average": 63
+      },
+      {
+        "value": 157,
+        "name": "Necrozma Dawn Wings Necrozma",
+        "secondType": "Ghost",
+        "Difference From Average": 60
+      },
+      {
+        "value": 154,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Fighting",
+        "Difference From Average": 57
+      },
+      {
+        "value": 150,
+        "name": "Hoopa Hoopa Confined",
+        "secondType": "Ghost",
+        "Difference From Average": 53
+      },
+      {
+        "value": 140,
+        "name": "Latias Mega Latias",
+        "secondType": "Dragon",
+        "Difference From Average": 43
+      },
+      {
+        "value": 140,
+        "name": "Darmanitan Zen Mode",
+        "secondType": "Fire",
+        "Difference From Average": 43
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 154,
+        "name": "Lugia",
+        "secondType": "Flying",
+        "Difference From Average": 62
+      },
+      {
+        "value": 150,
+        "name": "Latias Mega Latias",
+        "secondType": "Dragon",
+        "Difference From Average": 58
+      },
+      {
+        "value": 135,
+        "name": "Gardevoir Mega Gardevoir",
+        "secondType": "Fairy",
+        "Difference From Average": 43
+      },
+      {
+        "value": 130,
+        "name": "Hoopa Hoopa Unbound",
+        "secondType": "Dark",
+        "Difference From Average": 38
+      },
+      {
+        "value": 130,
+        "name": "Hoopa Hoopa Confined",
+        "secondType": "Ghost",
+        "Difference From Average": 38
+      },
+      {
+        "value": 130,
+        "name": "Latias",
+        "secondType": "Dragon",
+        "Difference From Average": 38
+      },
+      {
+        "value": 130,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Ice",
+        "Difference From Average": 38
+      },
+      {
+        "value": 128,
+        "name": "Meloetta Aria Forme",
+        "secondType": "Normal",
+        "Difference From Average": 36
+      },
+      {
+        "value": 127,
+        "name": "Necrozma Dawn Wings Necrozma",
+        "secondType": "Ghost",
+        "Difference From Average": 35
+      },
+      {
+        "value": 120,
+        "name": "Latios Mega Latios",
+        "secondType": "Dragon",
+        "Difference From Average": 28
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Ghost",
+        "Difference From Average": 73
+      },
+      {
+        "value": 130,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Fighting",
+        "Difference From Average": 53
+      },
+      {
+        "value": 129,
+        "name": "Necrozma Ultra Necrozma",
+        "secondType": "Dragon",
+        "Difference From Average": 52
+      },
+      {
+        "value": 115,
+        "name": "Starmie",
+        "secondType": "Water",
+        "Difference From Average": 38
+      },
+      {
+        "value": 114,
+        "name": "Swoobat",
+        "secondType": "Flying",
+        "Difference From Average": 37
+      },
+      {
+        "value": 111,
+        "name": "Scream Tail",
+        "secondType": "Fairy",
+        "Difference From Average": 34
+      },
+      {
+        "value": 110,
+        "name": "Lugia",
+        "secondType": "Flying",
+        "Difference From Average": 33
+      },
+      {
+        "value": 110,
+        "name": "Latias Mega Latias",
+        "secondType": "Dragon",
+        "Difference From Average": 33
+      },
+      {
+        "value": 110,
+        "name": "Latias",
+        "secondType": "Dragon",
+        "Difference From Average": 33
+      },
+      {
+        "value": 110,
+        "name": "Latios Mega Latios",
+        "secondType": "Dragon",
+        "Difference From Average": 33
+      }
+    ]
+  },
+  {
+    "Type": "Ice",
+    "Highest HPs": [
+      {
+        "value": 130,
+        "name": "Lapras",
+        "secondType": "Water",
+        "Difference From Average": 48
+      },
+      {
+        "value": 125,
+        "name": "Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 43
+      },
+      {
+        "value": 125,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 43
+      },
+      {
+        "value": 125,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 43
+      },
+      {
+        "value": 123,
+        "name": "Aurorus",
+        "secondType": "Rock",
+        "Difference From Average": 41
+      },
+      {
+        "value": 115,
+        "name": "Baxcalibur",
+        "secondType": "Dragon",
+        "Difference From Average": 33
+      },
+      {
+        "value": 110,
+        "name": "Walrein",
+        "secondType": "Water",
+        "Difference From Average": 28
+      },
+      {
+        "value": 110,
+        "name": "Mamoswine",
+        "secondType": "Ground",
+        "Difference From Average": 28
+      },
+      {
+        "value": 105,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Fire",
+        "Difference From Average": 23
+      },
+      {
+        "value": 100,
+        "name": "Piloswine",
+        "secondType": "Ground",
+        "Difference From Average": 18
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 170,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 79
+      },
+      {
+        "value": 165,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Psychic",
+        "Difference From Average": 74
+      },
+      {
+        "value": 160,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Fire",
+        "Difference From Average": 69
+      },
+      {
+        "value": 145,
+        "name": "Baxcalibur",
+        "secondType": "Dragon",
+        "Difference From Average": 54
+      },
+      {
+        "value": 132,
+        "name": "Crabominable",
+        "secondType": "Fighting",
+        "Difference From Average": 41
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Grass",
+        "Difference From Average": 41
+      },
+      {
+        "value": 130,
+        "name": "Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 39
+      },
+      {
+        "value": 130,
+        "name": "Mamoswine",
+        "secondType": "Ground",
+        "Difference From Average": 39
+      },
+      {
+        "value": 127,
+        "name": "Avalugg Hisuian Avalugg",
+        "secondType": "Rock",
+        "Difference From Average": 36
+      },
+      {
+        "value": 120,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 184,
+        "name": "Avalugg Hisuian Avalugg",
+        "secondType": "Rock",
+        "Difference From Average": 104
+      },
+      {
+        "value": 180,
+        "name": "Cloyster",
+        "secondType": "Water",
+        "Difference From Average": 100
+      },
+      {
+        "value": 150,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Psychic",
+        "Difference From Average": 70
+      },
+      {
+        "value": 120,
+        "name": "Sandslash Alolan Sandslash",
+        "secondType": "Steel",
+        "Difference From Average": 40
+      },
+      {
+        "value": 114,
+        "name": "Iron Bundle",
+        "secondType": "Water",
+        "Difference From Average": 34
+      },
+      {
+        "value": 107,
+        "name": "Rotom Frost Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 27
+      },
+      {
+        "value": 105,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Grass",
+        "Difference From Average": 25
+      },
+      {
+        "value": 100,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 20
+      },
+      {
+        "value": 100,
+        "name": "Arctovish",
+        "secondType": "Water",
+        "Difference From Average": 20
+      },
+      {
+        "value": 100,
+        "name": "Articuno",
+        "secondType": "Flying",
+        "Difference From Average": 20
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 92
+      },
+      {
+        "value": 132,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Grass",
+        "Difference From Average": 54
+      },
+      {
+        "value": 130,
+        "name": "Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 52
+      },
+      {
+        "value": 125,
+        "name": "Frosmoth",
+        "secondType": "Bug",
+        "Difference From Average": 47
+      },
+      {
+        "value": 124,
+        "name": "Iron Bundle",
+        "secondType": "Water",
+        "Difference From Average": 46
+      },
+      {
+        "value": 120,
+        "name": "Kyurem Black Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 115,
+        "name": "Jynx",
+        "secondType": "Psychic",
+        "Difference From Average": 37
+      },
+      {
+        "value": 110,
+        "name": "Mr. Rime",
+        "secondType": "Psychic",
+        "Difference From Average": 32
+      },
+      {
+        "value": 105,
+        "name": "Rotom Frost Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 27
+      },
+      {
+        "value": 99,
+        "name": "Aurorus",
+        "secondType": "Rock",
+        "Difference From Average": 21
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 130,
+        "name": "Calyrex Ice Rider",
+        "secondType": "Psychic",
+        "Difference From Average": 55
+      },
+      {
+        "value": 125,
+        "name": "Articuno",
+        "secondType": "Flying",
+        "Difference From Average": 50
+      },
+      {
+        "value": 107,
+        "name": "Rotom Frost Rotom",
+        "secondType": "Electric",
+        "Difference From Average": 32
+      },
+      {
+        "value": 105,
+        "name": "Abomasnow Mega Abomasnow",
+        "secondType": "Grass",
+        "Difference From Average": 30
+      },
+      {
+        "value": 100,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 25
+      },
+      {
+        "value": 100,
+        "name": "Mr. Rime",
+        "secondType": "Psychic",
+        "Difference From Average": 25
+      },
+      {
+        "value": 100,
+        "name": "Ninetales Alolan Ninetales",
+        "secondType": "Fairy",
+        "Difference From Average": 25
+      },
+      {
+        "value": 95,
+        "name": "Jynx",
+        "secondType": "Psychic",
+        "Difference From Average": 20
+      },
+      {
+        "value": 95,
+        "name": "Lapras",
+        "secondType": "Water",
+        "Difference From Average": 20
+      },
+      {
+        "value": 95,
+        "name": "Dewgong",
+        "secondType": "Water",
+        "Difference From Average": 20
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 136,
+        "name": "Iron Bundle",
+        "secondType": "Water",
+        "Difference From Average": 64
+      },
+      {
+        "value": 135,
+        "name": "Chien-Pao",
+        "secondType": "Dark",
+        "Difference From Average": 63
+      },
+      {
+        "value": 135,
+        "name": "Darmanitan Galarian Zen Mode",
+        "secondType": "Fire",
+        "Difference From Average": 63
+      },
+      {
+        "value": 125,
+        "name": "Weavile",
+        "secondType": "Dark",
+        "Difference From Average": 53
+      },
+      {
+        "value": 115,
+        "name": "Sneasel",
+        "secondType": "Dark",
+        "Difference From Average": 43
+      },
+      {
+        "value": 110,
+        "name": "Froslass",
+        "secondType": "Ghost",
+        "Difference From Average": 38
+      },
+      {
+        "value": 109,
+        "name": "Ninetales Alolan Ninetales",
+        "secondType": "Fairy",
+        "Difference From Average": 37
+      },
+      {
+        "value": 100,
+        "name": "Mr. Mime Galarian Mr. Mime",
+        "secondType": "Psychic",
+        "Difference From Average": 28
+      },
+      {
+        "value": 95,
+        "name": "Kyurem White Kyurem",
+        "secondType": "Dragon",
+        "Difference From Average": 23
+      },
+      {
+        "value": 95,
+        "name": "Jynx",
+        "secondType": "Psychic",
+        "Difference From Average": 23
+      }
+    ]
+  },
+  {
+    "Type": "Steel",
+    "Highest HPs": [
+      {
+        "value": 137,
+        "name": "Solgaleo",
+        "secondType": "Psychic",
+        "Difference From Average": 67
+      },
+      {
+        "value": 110,
+        "name": "Excadrill",
+        "secondType": "Ground",
+        "Difference From Average": 40
+      },
+      {
+        "value": 109,
+        "name": "Stunfisk Galarian Stunfisk",
+        "secondType": "Ground",
+        "Difference From Average": 39
+      },
+      {
+        "value": 100,
+        "name": "Jirachi",
+        "secondType": "Psychic",
+        "Difference From Average": 30
+      },
+      {
+        "value": 100,
+        "name": "Dialga",
+        "secondType": "Dragon",
+        "Difference From Average": 30
+      },
+      {
+        "value": 100,
+        "name": "Dialga Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 30
+      },
+      {
+        "value": 100,
+        "name": "Kingambit",
+        "secondType": "Dark",
+        "Difference From Average": 30
+      },
+      {
+        "value": 98,
+        "name": "Corviknight",
+        "secondType": "Flying",
+        "Difference From Average": 28
+      },
+      {
+        "value": 97,
+        "name": "Celesteela",
+        "secondType": "Flying",
+        "Difference From Average": 27
+      },
+      {
+        "value": 97,
+        "name": "Necrozma Dusk Mane Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 27
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 181,
+        "name": "Kartana",
+        "secondType": "Grass",
+        "Difference From Average": 85
+      },
+      {
+        "value": 157,
+        "name": "Necrozma Dusk Mane Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 61
+      },
+      {
+        "value": 150,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Fairy",
+        "Difference From Average": 54
+      },
+      {
+        "value": 150,
+        "name": "Scizor Mega Scizor",
+        "secondType": "Bug",
+        "Difference From Average": 54
+      },
+      {
+        "value": 145,
+        "name": "Metagross Mega Metagross",
+        "secondType": "Psychic",
+        "Difference From Average": 49
+      },
+      {
+        "value": 145,
+        "name": "Lucario Mega Lucario",
+        "secondType": "Fighting",
+        "Difference From Average": 49
+      },
+      {
+        "value": 140,
+        "name": "Aegislash Blade Forme",
+        "secondType": "Ghost",
+        "Difference From Average": 44
+      },
+      {
+        "value": 137,
+        "name": "Solgaleo",
+        "secondType": "Psychic",
+        "Difference From Average": 41
+      },
+      {
+        "value": 135,
+        "name": "Excadrill",
+        "secondType": "Ground",
+        "Difference From Average": 39
+      },
+      {
+        "value": 135,
+        "name": "Kingambit",
+        "secondType": "Dark",
+        "Difference From Average": 39
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Steelix Mega Steelix",
+        "secondType": "Ground",
+        "Difference From Average": 121
+      },
+      {
+        "value": 211,
+        "name": "Stakataka",
+        "secondType": "Rock",
+        "Difference From Average": 102
+      },
+      {
+        "value": 200,
+        "name": "Steelix",
+        "secondType": "Ground",
+        "Difference From Average": 91
+      },
+      {
+        "value": 180,
+        "name": "Aggron",
+        "secondType": "Rock",
+        "Difference From Average": 71
+      },
+      {
+        "value": 168,
+        "name": "Bastiodon",
+        "secondType": "Rock",
+        "Difference From Average": 59
+      },
+      {
+        "value": 150,
+        "name": "Metagross Mega Metagross",
+        "secondType": "Psychic",
+        "Difference From Average": 41
+      },
+      {
+        "value": 150,
+        "name": "Doublade",
+        "secondType": "Ghost",
+        "Difference From Average": 41
+      },
+      {
+        "value": 145,
+        "name": "Probopass",
+        "secondType": "Rock",
+        "Difference From Average": 36
+      },
+      {
+        "value": 140,
+        "name": "Scizor Mega Scizor",
+        "secondType": "Bug",
+        "Difference From Average": 31
+      },
+      {
+        "value": 140,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Fighting",
+        "Difference From Average": 31
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 150,
+        "name": "Dialga",
+        "secondType": "Dragon",
+        "Difference From Average": 77
+      },
+      {
+        "value": 150,
+        "name": "Dialga Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 77
+      },
+      {
+        "value": 140,
+        "name": "Lucario Mega Lucario",
+        "secondType": "Fighting",
+        "Difference From Average": 67
+      },
+      {
+        "value": 140,
+        "name": "Aegislash Blade Forme",
+        "secondType": "Ghost",
+        "Difference From Average": 67
+      },
+      {
+        "value": 133,
+        "name": "Gholdengo",
+        "secondType": "Ghost",
+        "Difference From Average": 60
+      },
+      {
+        "value": 130,
+        "name": "Magearna",
+        "secondType": "Fairy",
+        "Difference From Average": 57
+      },
+      {
+        "value": 130,
+        "name": "Magnezone",
+        "secondType": "Electric",
+        "Difference From Average": 57
+      },
+      {
+        "value": 130,
+        "name": "Heatran",
+        "secondType": "Fire",
+        "Difference From Average": 57
+      },
+      {
+        "value": 120,
+        "name": "Duraludon",
+        "secondType": "Dragon",
+        "Difference From Average": 47
+      },
+      {
+        "value": 120,
+        "name": "Genesect",
+        "secondType": "Bug",
+        "Difference From Average": 47
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 150,
+        "name": "Goodra Hisuian Goodra",
+        "secondType": "Dragon",
+        "Difference From Average": 67
+      },
+      {
+        "value": 150,
+        "name": "Probopass",
+        "secondType": "Rock",
+        "Difference From Average": 67
+      },
+      {
+        "value": 140,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Fighting",
+        "Difference From Average": 57
+      },
+      {
+        "value": 140,
+        "name": "Aegislash Shield Forme",
+        "secondType": "Ghost",
+        "Difference From Average": 57
+      },
+      {
+        "value": 138,
+        "name": "Bastiodon",
+        "secondType": "Rock",
+        "Difference From Average": 55
+      },
+      {
+        "value": 120,
+        "name": "Dialga Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 37
+      },
+      {
+        "value": 116,
+        "name": "Bronzong",
+        "secondType": "Psychic",
+        "Difference From Average": 33
+      },
+      {
+        "value": 116,
+        "name": "Ferrothorn",
+        "secondType": "Grass",
+        "Difference From Average": 33
+      },
+      {
+        "value": 115,
+        "name": "Magearna",
+        "secondType": "Fairy",
+        "Difference From Average": 32
+      },
+      {
+        "value": 115,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Fairy",
+        "Difference From Average": 32
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 148,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Fairy",
+        "Difference From Average": 83
+      },
+      {
+        "value": 128,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Fighting",
+        "Difference From Average": 63
+      },
+      {
+        "value": 112,
+        "name": "Lucario Mega Lucario",
+        "secondType": "Fighting",
+        "Difference From Average": 47
+      },
+      {
+        "value": 110,
+        "name": "Metagross Mega Metagross",
+        "secondType": "Psychic",
+        "Difference From Average": 45
+      },
+      {
+        "value": 110,
+        "name": "Dugtrio Alolan Dugtrio",
+        "secondType": "Ground",
+        "Difference From Average": 45
+      },
+      {
+        "value": 109,
+        "name": "Durant",
+        "secondType": "Bug",
+        "Difference From Average": 44
+      },
+      {
+        "value": 109,
+        "name": "Kartana",
+        "secondType": "Grass",
+        "Difference From Average": 44
+      },
+      {
+        "value": 108,
+        "name": "Cobalion",
+        "secondType": "Fighting",
+        "Difference From Average": 43
+      },
+      {
+        "value": 106,
+        "name": "Iron Treads",
+        "secondType": "Ground",
+        "Difference From Average": 41
+      },
+      {
+        "value": 100,
+        "name": "Jirachi",
+        "secondType": "Psychic",
+        "Difference From Average": 35
+      }
+    ]
+  },
+  {
+    "Type": "Ground",
+    "Highest HPs": [
+      {
+        "value": 216,
+        "name": "Zygarde Complete Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 136
+      },
+      {
+        "value": 155,
+        "name": "Ting-Lu",
+        "secondType": "Dark",
+        "Difference From Average": 75
+      },
+      {
+        "value": 130,
+        "name": "Ursaluna",
+        "secondType": "Normal",
+        "Difference From Average": 50
+      },
+      {
+        "value": 130,
+        "name": "Clodsire",
+        "secondType": "Poison",
+        "Difference From Average": 50
+      },
+      {
+        "value": 115,
+        "name": "Rhyperior",
+        "secondType": "Rock",
+        "Difference From Average": 35
+      },
+      {
+        "value": 115,
+        "name": "Great Tusk",
+        "secondType": "Fighting",
+        "Difference From Average": 35
+      },
+      {
+        "value": 111,
+        "name": "Gastrodon",
+        "secondType": "Water",
+        "Difference From Average": 31
+      },
+      {
+        "value": 110,
+        "name": "Whiscash",
+        "secondType": "Water",
+        "Difference From Average": 30
+      },
+      {
+        "value": 110,
+        "name": "Mamoswine",
+        "secondType": "Ice",
+        "Difference From Average": 30
+      },
+      {
+        "value": 110,
+        "name": "Excadrill",
+        "secondType": "Steel",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 180,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Fire",
+        "Difference From Average": 88
+      },
+      {
+        "value": 170,
+        "name": "Garchomp Mega Garchomp",
+        "secondType": "Dragon",
+        "Difference From Average": 78
+      },
+      {
+        "value": 150,
+        "name": "Swampert Mega Swampert",
+        "secondType": "Water",
+        "Difference From Average": 58
+      },
+      {
+        "value": 145,
+        "name": "Landorus Therian Forme",
+        "secondType": "Flying",
+        "Difference From Average": 53
+      },
+      {
+        "value": 140,
+        "name": "Ursaluna",
+        "secondType": "Normal",
+        "Difference From Average": 48
+      },
+      {
+        "value": 140,
+        "name": "Rhyperior",
+        "secondType": "Rock",
+        "Difference From Average": 48
+      },
+      {
+        "value": 135,
+        "name": "Excadrill",
+        "secondType": "Steel",
+        "Difference From Average": 43
+      },
+      {
+        "value": 131,
+        "name": "Great Tusk",
+        "secondType": "Fighting",
+        "Difference From Average": 39
+      },
+      {
+        "value": 130,
+        "name": "Mamoswine",
+        "secondType": "Ice",
+        "Difference From Average": 38
+      },
+      {
+        "value": 130,
+        "name": "Garchomp",
+        "secondType": "Dragon",
+        "Difference From Average": 38
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Steelix Mega Steelix",
+        "secondType": "Steel",
+        "Difference From Average": 141
+      },
+      {
+        "value": 200,
+        "name": "Steelix",
+        "secondType": "Steel",
+        "Difference From Average": 111
+      },
+      {
+        "value": 160,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Fire",
+        "Difference From Average": 71
+      },
+      {
+        "value": 160,
+        "name": "Onix",
+        "secondType": "Rock",
+        "Difference From Average": 71
+      },
+      {
+        "value": 145,
+        "name": "Runerigus",
+        "secondType": "Ghost",
+        "Difference From Average": 56
+      },
+      {
+        "value": 131,
+        "name": "Great Tusk",
+        "secondType": "Fighting",
+        "Difference From Average": 42
+      },
+      {
+        "value": 130,
+        "name": "Rhyperior",
+        "secondType": "Rock",
+        "Difference From Average": 41
+      },
+      {
+        "value": 130,
+        "name": "Golem",
+        "secondType": "Rock",
+        "Difference From Average": 41
+      },
+      {
+        "value": 125,
+        "name": "Ting-Lu",
+        "secondType": "Dark",
+        "Difference From Average": 36
+      },
+      {
+        "value": 125,
+        "name": "Gliscor",
+        "secondType": "Flying",
+        "Difference From Average": 36
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 150,
+        "name": "Groudon Primal Groudon",
+        "secondType": "Fire",
+        "Difference From Average": 86
+      },
+      {
+        "value": 145,
+        "name": "Camerupt Mega Camerupt",
+        "secondType": "Fire",
+        "Difference From Average": 81
+      },
+      {
+        "value": 121,
+        "name": "Sandy Shocks",
+        "secondType": "Electric",
+        "Difference From Average": 57
+      },
+      {
+        "value": 120,
+        "name": "Garchomp Mega Garchomp",
+        "secondType": "Dragon",
+        "Difference From Average": 56
+      },
+      {
+        "value": 115,
+        "name": "Landorus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 51
+      },
+      {
+        "value": 105,
+        "name": "Landorus Therian Forme",
+        "secondType": "Flying",
+        "Difference From Average": 41
+      },
+      {
+        "value": 105,
+        "name": "Camerupt",
+        "secondType": "Fire",
+        "Difference From Average": 41
+      },
+      {
+        "value": 100,
+        "name": "Palossand",
+        "secondType": "Ghost",
+        "Difference From Average": 36
+      },
+      {
+        "value": 95,
+        "name": "Swampert Mega Swampert",
+        "secondType": "Water",
+        "Difference From Average": 31
+      },
+      {
+        "value": 92,
+        "name": "Gastrodon",
+        "secondType": "Water",
+        "Difference From Average": 28
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 120,
+        "name": "Toedscruel",
+        "secondType": "Grass",
+        "Difference From Average": 51
+      },
+      {
+        "value": 120,
+        "name": "Claydol",
+        "secondType": "Psychic",
+        "Difference From Average": 51
+      },
+      {
+        "value": 110,
+        "name": "Swampert Mega Swampert",
+        "secondType": "Water",
+        "Difference From Average": 41
+      },
+      {
+        "value": 105,
+        "name": "Camerupt Mega Camerupt",
+        "secondType": "Fire",
+        "Difference From Average": 36
+      },
+      {
+        "value": 105,
+        "name": "Runerigus",
+        "secondType": "Ghost",
+        "Difference From Average": 36
+      },
+      {
+        "value": 100,
+        "name": "Toedscool",
+        "secondType": "Grass",
+        "Difference From Average": 31
+      },
+      {
+        "value": 100,
+        "name": "Clodsire",
+        "secondType": "Poison",
+        "Difference From Average": 31
+      },
+      {
+        "value": 99,
+        "name": "Stunfisk",
+        "secondType": "Electric",
+        "Difference From Average": 30
+      },
+      {
+        "value": 95,
+        "name": "Garchomp Mega Garchomp",
+        "secondType": "Dragon",
+        "Difference From Average": 26
+      },
+      {
+        "value": 95,
+        "name": "Zygarde Complete Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 26
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 115,
+        "name": "Zygarde 10% Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 54
+      },
+      {
+        "value": 110,
+        "name": "Dugtrio Alolan Dugtrio",
+        "secondType": "Steel",
+        "Difference From Average": 49
+      },
+      {
+        "value": 106,
+        "name": "Iron Treads",
+        "secondType": "Steel",
+        "Difference From Average": 45
+      },
+      {
+        "value": 102,
+        "name": "Garchomp",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 101,
+        "name": "Sandy Shocks",
+        "secondType": "Electric",
+        "Difference From Average": 40
+      },
+      {
+        "value": 101,
+        "name": "Landorus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 40
+      },
+      {
+        "value": 100,
+        "name": "Toedscruel",
+        "secondType": "Grass",
+        "Difference From Average": 39
+      },
+      {
+        "value": 100,
+        "name": "Flygon",
+        "secondType": "Dragon",
+        "Difference From Average": 39
+      },
+      {
+        "value": 95,
+        "name": "Zygarde 50% Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 34
+      },
+      {
+        "value": 95,
+        "name": "Gliscor",
+        "secondType": "Flying",
+        "Difference From Average": 34
+      }
+    ]
+  },
+  {
+    "Type": "Fairy",
+    "Highest HPs": [
+      {
+        "value": 140,
+        "name": "Wigglytuff",
+        "secondType": "Normal",
+        "Difference From Average": 73
+      },
+      {
+        "value": 115,
+        "name": "Jigglypuff",
+        "secondType": "Normal",
+        "Difference From Average": 48
+      },
+      {
+        "value": 115,
+        "name": "Scream Tail",
+        "secondType": "Psychic",
+        "Difference From Average": 48
+      },
+      {
+        "value": 103,
+        "name": "Audino Mega Audino",
+        "secondType": "Normal",
+        "Difference From Average": 36
+      },
+      {
+        "value": 100,
+        "name": "Azumarill",
+        "secondType": "Water",
+        "Difference From Average": 33
+      },
+      {
+        "value": 95,
+        "name": "Grimmsnarl",
+        "secondType": "Dark",
+        "Difference From Average": 28
+      },
+      {
+        "value": 92,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Steel",
+        "Difference From Average": 25
+      },
+      {
+        "value": 90,
+        "name": "Igglybuff",
+        "secondType": "Normal",
+        "Difference From Average": 23
+      },
+      {
+        "value": 85,
+        "name": "Togekiss",
+        "secondType": "Flying",
+        "Difference From Average": 18
+      },
+      {
+        "value": 85,
+        "name": "Tinkaton",
+        "secondType": "Steel",
+        "Difference From Average": 18
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Rock",
+        "Difference From Average": 88
+      },
+      {
+        "value": 150,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Steel",
+        "Difference From Average": 78
+      },
+      {
+        "value": 130,
+        "name": "Iron Valiant",
+        "secondType": "Fighting",
+        "Difference From Average": 58
+      },
+      {
+        "value": 130,
+        "name": "Tapu Bulu",
+        "secondType": "Grass",
+        "Difference From Average": 58
+      },
+      {
+        "value": 120,
+        "name": "Grimmsnarl",
+        "secondType": "Dark",
+        "Difference From Average": 48
+      },
+      {
+        "value": 115,
+        "name": "Enamorus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 43
+      },
+      {
+        "value": 115,
+        "name": "Enamorus Therian Forme",
+        "secondType": "Flying",
+        "Difference From Average": 43
+      },
+      {
+        "value": 115,
+        "name": "Tapu Koko",
+        "secondType": "Electric",
+        "Difference From Average": 43
+      },
+      {
+        "value": 110,
+        "name": "Altaria Mega Altaria",
+        "secondType": "Dragon",
+        "Difference From Average": 38
+      },
+      {
+        "value": 105,
+        "name": "Mawile Mega Mawile",
+        "secondType": "Steel",
+        "Difference From Average": 33
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 150,
+        "name": "Diancie",
+        "secondType": "Rock",
+        "Difference From Average": 73
+      },
+      {
+        "value": 150,
+        "name": "Carbink",
+        "secondType": "Rock",
+        "Difference From Average": 73
+      },
+      {
+        "value": 126,
+        "name": "Audino Mega Audino",
+        "secondType": "Normal",
+        "Difference From Average": 49
+      },
+      {
+        "value": 125,
+        "name": "Mawile Mega Mawile",
+        "secondType": "Steel",
+        "Difference From Average": 48
+      },
+      {
+        "value": 120,
+        "name": "Weezing Galarian Weezing",
+        "secondType": "Poison",
+        "Difference From Average": 43
+      },
+      {
+        "value": 115,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Steel",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Tapu Bulu",
+        "secondType": "Grass",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Magearna",
+        "secondType": "Steel",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Tapu Fini",
+        "secondType": "Water",
+        "Difference From Average": 38
+      },
+      {
+        "value": 110,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Rock",
+        "Difference From Average": 33
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 165,
+        "name": "Gardevoir Mega Gardevoir",
+        "secondType": "Psychic",
+        "Difference From Average": 81
+      },
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Rock",
+        "Difference From Average": 76
+      },
+      {
+        "value": 136,
+        "name": "Hatterene",
+        "secondType": "Psychic",
+        "Difference From Average": 52
+      },
+      {
+        "value": 135,
+        "name": "Enamorus Therian Forme",
+        "secondType": "Flying",
+        "Difference From Average": 51
+      },
+      {
+        "value": 135,
+        "name": "Enamorus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 51
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Ghost",
+        "Difference From Average": 51
+      },
+      {
+        "value": 130,
+        "name": "Magearna",
+        "secondType": "Steel",
+        "Difference From Average": 46
+      },
+      {
+        "value": 130,
+        "name": "Tapu Lele",
+        "secondType": "Psychic",
+        "Difference From Average": 46
+      },
+      {
+        "value": 126,
+        "name": "Primarina",
+        "secondType": "Water",
+        "Difference From Average": 42
+      },
+      {
+        "value": 125,
+        "name": "Gardevoir",
+        "secondType": "Psychic",
+        "Difference From Average": 41
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 150,
+        "name": "Diancie",
+        "secondType": "Rock",
+        "Difference From Average": 63
+      },
+      {
+        "value": 150,
+        "name": "Carbink",
+        "secondType": "Rock",
+        "Difference From Average": 63
+      },
+      {
+        "value": 135,
+        "name": "Gardevoir Mega Gardevoir",
+        "secondType": "Psychic",
+        "Difference From Average": 48
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Ghost",
+        "Difference From Average": 48
+      },
+      {
+        "value": 130,
+        "name": "Tapu Fini",
+        "secondType": "Water",
+        "Difference From Average": 43
+      },
+      {
+        "value": 126,
+        "name": "Audino Mega Audino",
+        "secondType": "Normal",
+        "Difference From Average": 39
+      },
+      {
+        "value": 120,
+        "name": "Mr. Mime",
+        "secondType": "Psychic",
+        "Difference From Average": 33
+      },
+      {
+        "value": 116,
+        "name": "Primarina",
+        "secondType": "Water",
+        "Difference From Average": 29
+      },
+      {
+        "value": 115,
+        "name": "Magearna",
+        "secondType": "Steel",
+        "Difference From Average": 28
+      },
+      {
+        "value": 115,
+        "name": "Tapu Lele",
+        "secondType": "Psychic",
+        "Difference From Average": 28
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 148,
+        "name": "Zacian Crowned Sword",
+        "secondType": "Steel",
+        "Difference From Average": 76
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Ghost",
+        "Difference From Average": 63
+      },
+      {
+        "value": 130,
+        "name": "Tapu Koko",
+        "secondType": "Electric",
+        "Difference From Average": 58
+      },
+      {
+        "value": 124,
+        "name": "Ribombee",
+        "secondType": "Bug",
+        "Difference From Average": 52
+      },
+      {
+        "value": 116,
+        "name": "Whimsicott",
+        "secondType": "Grass",
+        "Difference From Average": 44
+      },
+      {
+        "value": 116,
+        "name": "Iron Valiant",
+        "secondType": "Fighting",
+        "Difference From Average": 44
+      },
+      {
+        "value": 111,
+        "name": "Scream Tail",
+        "secondType": "Psychic",
+        "Difference From Average": 39
+      },
+      {
+        "value": 110,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Rock",
+        "Difference From Average": 38
+      },
+      {
+        "value": 109,
+        "name": "Ninetales Alolan Ninetales",
+        "secondType": "Ice",
+        "Difference From Average": 37
+      },
+      {
+        "value": 106,
+        "name": "Enamorus Incarnate Forme",
+        "secondType": "Flying",
+        "Difference From Average": 34
+      }
+    ]
+  },
+  {
+    "Type": "Rock",
+    "Highest HPs": [
+      {
+        "value": 123,
+        "name": "Aurorus",
+        "secondType": "Ice",
+        "Difference From Average": 54
+      },
+      {
+        "value": 115,
+        "name": "Rhyperior",
+        "secondType": "Ground",
+        "Difference From Average": 46
+      },
+      {
+        "value": 110,
+        "name": "Coalossal",
+        "secondType": "Fire",
+        "Difference From Average": 41
+      },
+      {
+        "value": 109,
+        "name": "Nihilego",
+        "secondType": "Poison",
+        "Difference From Average": 40
+      },
+      {
+        "value": 105,
+        "name": "Rhydon",
+        "secondType": "Ground",
+        "Difference From Average": 36
+      },
+      {
+        "value": 100,
+        "name": "Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 31
+      },
+      {
+        "value": 100,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 31
+      },
+      {
+        "value": 100,
+        "name": "Relicanth",
+        "secondType": "Water",
+        "Difference From Average": 31
+      },
+      {
+        "value": 100,
+        "name": "Iron Thorns",
+        "secondType": "Electric",
+        "Difference From Average": 31
+      },
+      {
+        "value": 95,
+        "name": "Arcanine Hisuian Arcanine",
+        "secondType": "Fire",
+        "Difference From Average": 26
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 164,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 74
+      },
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 70
+      },
+      {
+        "value": 140,
+        "name": "Rhyperior",
+        "secondType": "Ground",
+        "Difference From Average": 50
+      },
+      {
+        "value": 140,
+        "name": "Archeops",
+        "secondType": "Flying",
+        "Difference From Average": 50
+      },
+      {
+        "value": 135,
+        "name": "Aerodactyl Mega Aerodactyl",
+        "secondType": "Flying",
+        "Difference From Average": 45
+      },
+      {
+        "value": 135,
+        "name": "Kleavor",
+        "secondType": "Bug",
+        "Difference From Average": 45
+      },
+      {
+        "value": 134,
+        "name": "Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 44
+      },
+      {
+        "value": 134,
+        "name": "Iron Thorns",
+        "secondType": "Electric",
+        "Difference From Average": 44
+      },
+      {
+        "value": 131,
+        "name": "Stakataka",
+        "secondType": "Steel",
+        "Difference From Average": 41
+      },
+      {
+        "value": 130,
+        "name": "Rhydon",
+        "secondType": "Ground",
+        "Difference From Average": 40
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Bug",
+        "Difference From Average": 124
+      },
+      {
+        "value": 211,
+        "name": "Stakataka",
+        "secondType": "Steel",
+        "Difference From Average": 105
+      },
+      {
+        "value": 184,
+        "name": "Avalugg Hisuian Avalugg",
+        "secondType": "Ice",
+        "Difference From Average": 78
+      },
+      {
+        "value": 180,
+        "name": "Aggron",
+        "secondType": "Steel",
+        "Difference From Average": 74
+      },
+      {
+        "value": 168,
+        "name": "Bastiodon",
+        "secondType": "Steel",
+        "Difference From Average": 62
+      },
+      {
+        "value": 160,
+        "name": "Onix",
+        "secondType": "Ground",
+        "Difference From Average": 54
+      },
+      {
+        "value": 150,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 44
+      },
+      {
+        "value": 150,
+        "name": "Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 44
+      },
+      {
+        "value": 150,
+        "name": "Carbink",
+        "secondType": "Fairy",
+        "Difference From Average": 44
+      },
+      {
+        "value": 145,
+        "name": "Probopass",
+        "secondType": "Steel",
+        "Difference From Average": 39
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 160,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 94
+      },
+      {
+        "value": 130,
+        "name": "Glimmora",
+        "secondType": "Poison",
+        "Difference From Average": 64
+      },
+      {
+        "value": 127,
+        "name": "Nihilego",
+        "secondType": "Poison",
+        "Difference From Average": 61
+      },
+      {
+        "value": 115,
+        "name": "Omastar",
+        "secondType": "Water",
+        "Difference From Average": 49
+      },
+      {
+        "value": 112,
+        "name": "Archeops",
+        "secondType": "Flying",
+        "Difference From Average": 46
+      },
+      {
+        "value": 105,
+        "name": "Glimmet",
+        "secondType": "Poison",
+        "Difference From Average": 39
+      },
+      {
+        "value": 100,
+        "name": "Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 34
+      },
+      {
+        "value": 100,
+        "name": "Minior Core Form",
+        "secondType": "Flying",
+        "Difference From Average": 34
+      },
+      {
+        "value": 99,
+        "name": "Aurorus",
+        "secondType": "Ice",
+        "Difference From Average": 33
+      },
+      {
+        "value": 95,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 230,
+        "name": "Shuckle",
+        "secondType": "Bug",
+        "Difference From Average": 154
+      },
+      {
+        "value": 150,
+        "name": "Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 74
+      },
+      {
+        "value": 150,
+        "name": "Probopass",
+        "secondType": "Steel",
+        "Difference From Average": 74
+      },
+      {
+        "value": 150,
+        "name": "Carbink",
+        "secondType": "Fairy",
+        "Difference From Average": 74
+      },
+      {
+        "value": 138,
+        "name": "Bastiodon",
+        "secondType": "Steel",
+        "Difference From Average": 62
+      },
+      {
+        "value": 131,
+        "name": "Nihilego",
+        "secondType": "Poison",
+        "Difference From Average": 55
+      },
+      {
+        "value": 120,
+        "name": "Tyranitar Mega Tyranitar",
+        "secondType": "Dark",
+        "Difference From Average": 44
+      },
+      {
+        "value": 110,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 34
+      },
+      {
+        "value": 107,
+        "name": "Cradily",
+        "secondType": "Grass",
+        "Difference From Average": 31
+      },
+      {
+        "value": 101,
+        "name": "Stakataka",
+        "secondType": "Steel",
+        "Difference From Average": 25
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Aerodactyl Mega Aerodactyl",
+        "secondType": "Flying",
+        "Difference From Average": 94
+      },
+      {
+        "value": 130,
+        "name": "Aerodactyl",
+        "secondType": "Flying",
+        "Difference From Average": 74
+      },
+      {
+        "value": 120,
+        "name": "Minior Core Form",
+        "secondType": "Flying",
+        "Difference From Average": 64
+      },
+      {
+        "value": 110,
+        "name": "Diancie Mega Diancie",
+        "secondType": "Fairy",
+        "Difference From Average": 54
+      },
+      {
+        "value": 110,
+        "name": "Archeops",
+        "secondType": "Flying",
+        "Difference From Average": 54
+      },
+      {
+        "value": 108,
+        "name": "Terrakion",
+        "secondType": "Fighting",
+        "Difference From Average": 52
+      },
+      {
+        "value": 103,
+        "name": "Nihilego",
+        "secondType": "Poison",
+        "Difference From Average": 47
+      },
+      {
+        "value": 90,
+        "name": "Arcanine Hisuian Arcanine",
+        "secondType": "Fire",
+        "Difference From Average": 34
+      },
+      {
+        "value": 86,
+        "name": "Glimmora",
+        "secondType": "Poison",
+        "Difference From Average": 30
+      },
+      {
+        "value": 85,
+        "name": "Kleavor",
+        "secondType": "Bug",
+        "Difference From Average": 29
+      }
+    ]
+  },
+  {
+    "Type": "Water",
+    "Highest HPs": [
+      {
+        "value": 130,
+        "name": "Lapras",
+        "secondType": "Ice",
+        "Difference From Average": 54
+      },
+      {
+        "value": 125,
+        "name": "Lanturn",
+        "secondType": "Electric",
+        "Difference From Average": 49
+      },
+      {
+        "value": 120,
+        "name": "Basculegion Male",
+        "secondType": "Ghost",
+        "Difference From Average": 44
+      },
+      {
+        "value": 120,
+        "name": "Basculegion Female",
+        "secondType": "Ghost",
+        "Difference From Average": 44
+      },
+      {
+        "value": 111,
+        "name": "Gastrodon",
+        "secondType": "Ground",
+        "Difference From Average": 35
+      },
+      {
+        "value": 110,
+        "name": "Whiscash",
+        "secondType": "Ground",
+        "Difference From Average": 34
+      },
+      {
+        "value": 110,
+        "name": "Walrein",
+        "secondType": "Ice",
+        "Difference From Average": 34
+      },
+      {
+        "value": 105,
+        "name": "Seismitoad",
+        "secondType": "Ground",
+        "Difference From Average": 29
+      },
+      {
+        "value": 100,
+        "name": "Azumarill",
+        "secondType": "Fairy",
+        "Difference From Average": 24
+      },
+      {
+        "value": 100,
+        "name": "Swampert",
+        "secondType": "Ground",
+        "Difference From Average": 24
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 155,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Dark",
+        "Difference From Average": 76
+      },
+      {
+        "value": 150,
+        "name": "Swampert Mega Swampert",
+        "secondType": "Ground",
+        "Difference From Average": 71
+      },
+      {
+        "value": 145,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Dark",
+        "Difference From Average": 66
+      },
+      {
+        "value": 140,
+        "name": "Sharpedo Mega Sharpedo",
+        "secondType": "Dark",
+        "Difference From Average": 61
+      },
+      {
+        "value": 130,
+        "name": "Urshifu Rapid Strike Style",
+        "secondType": "Fighting",
+        "Difference From Average": 51
+      },
+      {
+        "value": 125,
+        "name": "Gyarados",
+        "secondType": "Flying",
+        "Difference From Average": 46
+      },
+      {
+        "value": 125,
+        "name": "Golisopod",
+        "secondType": "Bug",
+        "Difference From Average": 46
+      },
+      {
+        "value": 120,
+        "name": "Palkia",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 120,
+        "name": "Quaquaval",
+        "secondType": "Fighting",
+        "Difference From Average": 41
+      },
+      {
+        "value": 120,
+        "name": "Sharpedo",
+        "secondType": "Dark",
+        "Difference From Average": 41
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 180,
+        "name": "Cloyster",
+        "secondType": "Ice",
+        "Difference From Average": 100
+      },
+      {
+        "value": 180,
+        "name": "Slowbro Mega Slowbro",
+        "secondType": "Psychic",
+        "Difference From Average": 100
+      },
+      {
+        "value": 152,
+        "name": "Toxapex",
+        "secondType": "Poison",
+        "Difference From Average": 72
+      },
+      {
+        "value": 140,
+        "name": "Golisopod",
+        "secondType": "Bug",
+        "Difference From Average": 60
+      },
+      {
+        "value": 133,
+        "name": "Carracosta",
+        "secondType": "Rock",
+        "Difference From Average": 53
+      },
+      {
+        "value": 130,
+        "name": "Relicanth",
+        "secondType": "Rock",
+        "Difference From Average": 50
+      },
+      {
+        "value": 125,
+        "name": "Omastar",
+        "secondType": "Rock",
+        "Difference From Average": 45
+      },
+      {
+        "value": 120,
+        "name": "Volcanion",
+        "secondType": "Fire",
+        "Difference From Average": 40
+      },
+      {
+        "value": 115,
+        "name": "Barbaracle",
+        "secondType": "Rock",
+        "Difference From Average": 35
+      },
+      {
+        "value": 115,
+        "name": "Tapu Fini",
+        "secondType": "Fairy",
+        "Difference From Average": 35
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 153,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Dark",
+        "Difference From Average": 74
+      },
+      {
+        "value": 150,
+        "name": "Palkia",
+        "secondType": "Dragon",
+        "Difference From Average": 71
+      },
+      {
+        "value": 150,
+        "name": "Palkia Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 71
+      },
+      {
+        "value": 130,
+        "name": "Slowbro Mega Slowbro",
+        "secondType": "Psychic",
+        "Difference From Average": 51
+      },
+      {
+        "value": 130,
+        "name": "Volcanion",
+        "secondType": "Fire",
+        "Difference From Average": 51
+      },
+      {
+        "value": 129,
+        "name": "Keldeo Ordinary Form",
+        "secondType": "Fighting",
+        "Difference From Average": 50
+      },
+      {
+        "value": 129,
+        "name": "Keldeo Resolute Form",
+        "secondType": "Fighting",
+        "Difference From Average": 50
+      },
+      {
+        "value": 126,
+        "name": "Primarina",
+        "secondType": "Fairy",
+        "Difference From Average": 47
+      },
+      {
+        "value": 125,
+        "name": "Walking Wake",
+        "secondType": "Dragon",
+        "Difference From Average": 46
+      },
+      {
+        "value": 124,
+        "name": "Iron Bundle",
+        "secondType": "Ice",
+        "Difference From Average": 45
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 142,
+        "name": "Toxapex",
+        "secondType": "Poison",
+        "Difference From Average": 64
+      },
+      {
+        "value": 140,
+        "name": "Mantine",
+        "secondType": "Flying",
+        "Difference From Average": 62
+      },
+      {
+        "value": 132,
+        "name": "Araquanid",
+        "secondType": "Bug",
+        "Difference From Average": 54
+      },
+      {
+        "value": 130,
+        "name": "Tapu Fini",
+        "secondType": "Fairy",
+        "Difference From Average": 52
+      },
+      {
+        "value": 130,
+        "name": "Gyarados Mega Gyarados",
+        "secondType": "Dark",
+        "Difference From Average": 52
+      },
+      {
+        "value": 120,
+        "name": "Palkia",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 120,
+        "name": "Palkia Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 120,
+        "name": "Tentacruel",
+        "secondType": "Poison",
+        "Difference From Average": 42
+      },
+      {
+        "value": 120,
+        "name": "Mantyke",
+        "secondType": "Flying",
+        "Difference From Average": 42
+      },
+      {
+        "value": 116,
+        "name": "Primarina",
+        "secondType": "Fairy",
+        "Difference From Average": 38
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 136,
+        "name": "Iron Bundle",
+        "secondType": "Ice",
+        "Difference From Average": 69
+      },
+      {
+        "value": 132,
+        "name": "Greninja Ash-Greninja",
+        "secondType": "Dark",
+        "Difference From Average": 65
+      },
+      {
+        "value": 122,
+        "name": "Greninja",
+        "secondType": "Dark",
+        "Difference From Average": 55
+      },
+      {
+        "value": 120,
+        "name": "Palkia Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 53
+      },
+      {
+        "value": 115,
+        "name": "Starmie",
+        "secondType": "Psychic",
+        "Difference From Average": 48
+      },
+      {
+        "value": 109,
+        "name": "Walking Wake",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 108,
+        "name": "Keldeo Ordinary Form",
+        "secondType": "Fighting",
+        "Difference From Average": 41
+      },
+      {
+        "value": 108,
+        "name": "Keldeo Resolute Form",
+        "secondType": "Fighting",
+        "Difference From Average": 41
+      },
+      {
+        "value": 105,
+        "name": "Sharpedo Mega Sharpedo",
+        "secondType": "Dark",
+        "Difference From Average": 38
+      },
+      {
+        "value": 100,
+        "name": "Palkia",
+        "secondType": "Dragon",
+        "Difference From Average": 33
+      }
+    ]
+  },
+  {
+    "Type": "Fighting",
+    "Highest HPs": [
+      {
+        "value": 154,
+        "name": "Iron Hands",
+        "secondType": "Electric",
+        "Difference From Average": 72
+      },
+      {
+        "value": 120,
+        "name": "Bewear",
+        "secondType": "Normal",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Great Tusk",
+        "secondType": "Ground",
+        "Difference From Average": 33
+      },
+      {
+        "value": 110,
+        "name": "Emboar",
+        "secondType": "Fire",
+        "Difference From Average": 28
+      },
+      {
+        "value": 110,
+        "name": "Annihilape",
+        "secondType": "Ghost",
+        "Difference From Average": 28
+      },
+      {
+        "value": 107,
+        "name": "Buzzwole",
+        "secondType": "Bug",
+        "Difference From Average": 25
+      },
+      {
+        "value": 106,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic",
+        "Difference From Average": 24
+      },
+      {
+        "value": 100,
+        "name": "Meloetta Pirouette Forme",
+        "secondType": "Normal",
+        "Difference From Average": 18
+      },
+      {
+        "value": 100,
+        "name": "Urshifu Single Strike Style",
+        "secondType": "Dark",
+        "Difference From Average": 18
+      },
+      {
+        "value": 100,
+        "name": "Urshifu Rapid Strike Style",
+        "secondType": "Water",
+        "Difference From Average": 18
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 190,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic",
+        "Difference From Average": 77
+      },
+      {
+        "value": 185,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Bug",
+        "Difference From Average": 72
+      },
+      {
+        "value": 165,
+        "name": "Gallade Mega Gallade",
+        "secondType": "Psychic",
+        "Difference From Average": 52
+      },
+      {
+        "value": 160,
+        "name": "Blaziken Mega Blaziken",
+        "secondType": "Fire",
+        "Difference From Average": 47
+      },
+      {
+        "value": 145,
+        "name": "Lucario Mega Lucario",
+        "secondType": "Steel",
+        "Difference From Average": 32
+      },
+      {
+        "value": 140,
+        "name": "Iron Hands",
+        "secondType": "Electric",
+        "Difference From Average": 27
+      },
+      {
+        "value": 139,
+        "name": "Buzzwole",
+        "secondType": "Bug",
+        "Difference From Average": 26
+      },
+      {
+        "value": 137,
+        "name": "Pheromosa",
+        "secondType": "Bug",
+        "Difference From Average": 24
+      },
+      {
+        "value": 136,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Normal",
+        "Difference From Average": 23
+      },
+      {
+        "value": 135,
+        "name": "Koraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 22
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 140,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Steel",
+        "Difference From Average": 56
+      },
+      {
+        "value": 139,
+        "name": "Buzzwole",
+        "secondType": "Bug",
+        "Difference From Average": 55
+      },
+      {
+        "value": 131,
+        "name": "Great Tusk",
+        "secondType": "Ground",
+        "Difference From Average": 47
+      },
+      {
+        "value": 129,
+        "name": "Cobalion",
+        "secondType": "Steel",
+        "Difference From Average": 45
+      },
+      {
+        "value": 125,
+        "name": "Kommo-o",
+        "secondType": "Dragon",
+        "Difference From Average": 41
+      },
+      {
+        "value": 122,
+        "name": "Chesnaught",
+        "secondType": "Grass",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Bug",
+        "Difference From Average": 31
+      },
+      {
+        "value": 115,
+        "name": "Koraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 31
+      },
+      {
+        "value": 115,
+        "name": "Scrafty",
+        "secondType": "Dark",
+        "Difference From Average": 31
+      },
+      {
+        "value": 108,
+        "name": "Iron Hands",
+        "secondType": "Electric",
+        "Difference From Average": 24
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 154,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic",
+        "Difference From Average": 79
+      },
+      {
+        "value": 140,
+        "name": "Lucario Mega Lucario",
+        "secondType": "Steel",
+        "Difference From Average": 65
+      },
+      {
+        "value": 137,
+        "name": "Pheromosa",
+        "secondType": "Bug",
+        "Difference From Average": 62
+      },
+      {
+        "value": 130,
+        "name": "Blaziken Mega Blaziken",
+        "secondType": "Fire",
+        "Difference From Average": 55
+      },
+      {
+        "value": 129,
+        "name": "Keldeo Ordinary Form",
+        "secondType": "Water",
+        "Difference From Average": 54
+      },
+      {
+        "value": 129,
+        "name": "Keldeo Resolute Form",
+        "secondType": "Water",
+        "Difference From Average": 54
+      },
+      {
+        "value": 120,
+        "name": "Iron Valiant",
+        "secondType": "Fairy",
+        "Difference From Average": 45
+      },
+      {
+        "value": 115,
+        "name": "Lucario",
+        "secondType": "Steel",
+        "Difference From Average": 40
+      },
+      {
+        "value": 110,
+        "name": "Blaziken",
+        "secondType": "Fire",
+        "Difference From Average": 35
+      },
+      {
+        "value": 104,
+        "name": "Infernape",
+        "secondType": "Fire",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 140,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Steel",
+        "Difference From Average": 63
+      },
+      {
+        "value": 129,
+        "name": "Virizion",
+        "secondType": "Grass",
+        "Difference From Average": 52
+      },
+      {
+        "value": 115,
+        "name": "Gallade Mega Gallade",
+        "secondType": "Psychic",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Gallade",
+        "secondType": "Psychic",
+        "Difference From Average": 38
+      },
+      {
+        "value": 115,
+        "name": "Scrafty",
+        "secondType": "Dark",
+        "Difference From Average": 38
+      },
+      {
+        "value": 105,
+        "name": "Kommo-o",
+        "secondType": "Dragon",
+        "Difference From Average": 28
+      },
+      {
+        "value": 105,
+        "name": "Slither Wing",
+        "secondType": "Bug",
+        "Difference From Average": 28
+      },
+      {
+        "value": 105,
+        "name": "Heracross Mega Heracross",
+        "secondType": "Bug",
+        "Difference From Average": 28
+      },
+      {
+        "value": 100,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic",
+        "Difference From Average": 23
+      },
+      {
+        "value": 100,
+        "name": "Koraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 23
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 151,
+        "name": "Pheromosa",
+        "secondType": "Bug",
+        "Difference From Average": 61
+      },
+      {
+        "value": 135,
+        "name": "Koraidon",
+        "secondType": "Dragon",
+        "Difference From Average": 45
+      },
+      {
+        "value": 135,
+        "name": "Lopunny Mega Lopunny",
+        "secondType": "Normal",
+        "Difference From Average": 45
+      },
+      {
+        "value": 130,
+        "name": "Mewtwo Mega Mewtwo X",
+        "secondType": "Psychic",
+        "Difference From Average": 40
+      },
+      {
+        "value": 128,
+        "name": "Zamazenta Crowned Shield",
+        "secondType": "Steel",
+        "Difference From Average": 38
+      },
+      {
+        "value": 128,
+        "name": "Meloetta Pirouette Forme",
+        "secondType": "Normal",
+        "Difference From Average": 38
+      },
+      {
+        "value": 125,
+        "name": "Marshadow",
+        "secondType": "Ghost",
+        "Difference From Average": 35
+      },
+      {
+        "value": 120,
+        "name": "Sneasler",
+        "secondType": "Poison",
+        "Difference From Average": 30
+      },
+      {
+        "value": 118,
+        "name": "Hawlucha",
+        "secondType": "Flying",
+        "Difference From Average": 28
+      },
+      {
+        "value": 116,
+        "name": "Iron Valiant",
+        "secondType": "Fairy",
+        "Difference From Average": 26
+      }
+    ]
+  },
+  {
+    "Type": "Ghost",
+    "Highest HPs": [
+      {
+        "value": 150,
+        "name": "Drifblim",
+        "secondType": "Flying",
+        "Difference From Average": 80
+      },
+      {
+        "value": 150,
+        "name": "Giratina Altered Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 80
+      },
+      {
+        "value": 150,
+        "name": "Giratina Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 80
+      },
+      {
+        "value": 137,
+        "name": "Lunala",
+        "secondType": "Psychic",
+        "Difference From Average": 67
+      },
+      {
+        "value": 120,
+        "name": "Basculegion Male",
+        "secondType": "Water",
+        "Difference From Average": 50
+      },
+      {
+        "value": 120,
+        "name": "Basculegion Female",
+        "secondType": "Water",
+        "Difference From Average": 50
+      },
+      {
+        "value": 110,
+        "name": "Annihilape",
+        "secondType": "Fighting",
+        "Difference From Average": 40
+      },
+      {
+        "value": 104,
+        "name": "Skeledirge",
+        "secondType": "Fire",
+        "Difference From Average": 34
+      },
+      {
+        "value": 100,
+        "name": "Jellicent",
+        "secondType": "Water",
+        "Difference From Average": 30
+      },
+      {
+        "value": 100,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Psychic",
+        "Difference From Average": 30
+      }
+    ],
+    "Highest Attacks": [
+      {
+        "value": 140,
+        "name": "Aegislash Blade Forme",
+        "secondType": "Steel",
+        "Difference From Average": 57
+      },
+      {
+        "value": 131,
+        "name": "Dhelmise",
+        "secondType": "Grass",
+        "Difference From Average": 48
+      },
+      {
+        "value": 127,
+        "name": "Blacephalon",
+        "secondType": "Fire",
+        "Difference From Average": 44
+      },
+      {
+        "value": 125,
+        "name": "Marshadow",
+        "secondType": "Fighting",
+        "Difference From Average": 42
+      },
+      {
+        "value": 125,
+        "name": "Ceruledge",
+        "secondType": "Fire",
+        "Difference From Average": 42
+      },
+      {
+        "value": 124,
+        "name": "Golurk",
+        "secondType": "Ground",
+        "Difference From Average": 41
+      },
+      {
+        "value": 120,
+        "name": "Giratina Origin Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 37
+      },
+      {
+        "value": 120,
+        "name": "Dragapult",
+        "secondType": "Dragon",
+        "Difference From Average": 37
+      },
+      {
+        "value": 115,
+        "name": "Annihilape",
+        "secondType": "Fighting",
+        "Difference From Average": 32
+      },
+      {
+        "value": 115,
+        "name": "Brambleghast",
+        "secondType": "Grass",
+        "Difference From Average": 32
+      }
+    ],
+    "Highest Defenses": [
+      {
+        "value": 150,
+        "name": "Doublade",
+        "secondType": "Steel",
+        "Difference From Average": 72
+      },
+      {
+        "value": 145,
+        "name": "Runerigus",
+        "secondType": "Ground",
+        "Difference From Average": 67
+      },
+      {
+        "value": 140,
+        "name": "Aegislash Shield Forme",
+        "secondType": "Steel",
+        "Difference From Average": 62
+      },
+      {
+        "value": 125,
+        "name": "Sableye Mega Sableye",
+        "secondType": "Dark",
+        "Difference From Average": 47
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Super Size",
+        "secondType": "Grass",
+        "Difference From Average": 44
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Large Size",
+        "secondType": "Grass",
+        "Difference From Average": 44
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Average Size",
+        "secondType": "Grass",
+        "Difference From Average": 44
+      },
+      {
+        "value": 122,
+        "name": "Gourgeist Small Size",
+        "secondType": "Grass",
+        "Difference From Average": 44
+      },
+      {
+        "value": 120,
+        "name": "Giratina Altered Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 42
+      },
+      {
+        "value": 110,
+        "name": "Marowak Alolan Marowak",
+        "secondType": "Fire",
+        "Difference From Average": 32
+      }
+    ],
+    "Highest Special Attacks": [
+      {
+        "value": 170,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Poison",
+        "Difference From Average": 86
+      },
+      {
+        "value": 165,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Psychic",
+        "Difference From Average": 81
+      },
+      {
+        "value": 157,
+        "name": "Necrozma Dawn Wings Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 73
+      },
+      {
+        "value": 151,
+        "name": "Blacephalon",
+        "secondType": "Fire",
+        "Difference From Average": 67
+      },
+      {
+        "value": 150,
+        "name": "Hoopa Hoopa Confined",
+        "secondType": "Psychic",
+        "Difference From Average": 66
+      },
+      {
+        "value": 145,
+        "name": "Chandelure",
+        "secondType": "Fire",
+        "Difference From Average": 61
+      },
+      {
+        "value": 140,
+        "name": "Aegislash Blade Forme",
+        "secondType": "Steel",
+        "Difference From Average": 56
+      },
+      {
+        "value": 137,
+        "name": "Lunala",
+        "secondType": "Psychic",
+        "Difference From Average": 53
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Fairy",
+        "Difference From Average": 51
+      },
+      {
+        "value": 133,
+        "name": "Gholdengo",
+        "secondType": "Steel",
+        "Difference From Average": 49
+      }
+    ],
+    "Highest Special Defenses": [
+      {
+        "value": 140,
+        "name": "Aegislash Shield Forme",
+        "secondType": "Steel",
+        "Difference From Average": 64
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Fairy",
+        "Difference From Average": 59
+      },
+      {
+        "value": 130,
+        "name": "Hoopa Hoopa Confined",
+        "secondType": "Psychic",
+        "Difference From Average": 54
+      },
+      {
+        "value": 127,
+        "name": "Necrozma Dawn Wings Necrozma",
+        "secondType": "Psychic",
+        "Difference From Average": 51
+      },
+      {
+        "value": 120,
+        "name": "Giratina Altered Forme",
+        "secondType": "Dragon",
+        "Difference From Average": 44
+      },
+      {
+        "value": 115,
+        "name": "Sableye Mega Sableye",
+        "secondType": "Dark",
+        "Difference From Average": 39
+      },
+      {
+        "value": 108,
+        "name": "Spiritomb",
+        "secondType": "Dark",
+        "Difference From Average": 32
+      },
+      {
+        "value": 107,
+        "name": "Lunala",
+        "secondType": "Psychic",
+        "Difference From Average": 31
+      },
+      {
+        "value": 105,
+        "name": "Jellicent",
+        "secondType": "Water",
+        "Difference From Average": 29
+      },
+      {
+        "value": 105,
+        "name": "Runerigus",
+        "secondType": "Ground",
+        "Difference From Average": 29
+      }
+    ],
+    "Highest Speeds": [
+      {
+        "value": 150,
+        "name": "Calyrex Shadow Rider",
+        "secondType": "Psychic",
+        "Difference From Average": 78
+      },
+      {
+        "value": 142,
+        "name": "Dragapult",
+        "secondType": "Dragon",
+        "Difference From Average": 70
+      },
+      {
+        "value": 135,
+        "name": "Flutter Mane",
+        "secondType": "Fairy",
+        "Difference From Average": 63
+      },
+      {
+        "value": 130,
+        "name": "Gengar Mega Gengar",
+        "secondType": "Poison",
+        "Difference From Average": 58
+      },
+      {
+        "value": 125,
+        "name": "Marshadow",
+        "secondType": "Fighting",
+        "Difference From Average": 53
+      },
+      {
+        "value": 110,
+        "name": "Gengar",
+        "secondType": "Poison",
+        "Difference From Average": 38
+      },
+      {
+        "value": 110,
+        "name": "Froslass",
+        "secondType": "Ice",
+        "Difference From Average": 38
+      },
+      {
+        "value": 110,
+        "name": "Zoroark Hisuian Zoroark",
+        "secondType": "Normal",
+        "Difference From Average": 38
+      },
+      {
+        "value": 107,
+        "name": "Blacephalon",
+        "secondType": "Fire",
+        "Difference From Average": 35
+      },
+      {
+        "value": 102,
+        "name": "Drakloak",
+        "secondType": "Dragon",
+        "Difference From Average": 30
+      }
+    ]
+  }
+]

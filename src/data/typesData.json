@@ -1,0 +1,182 @@
+[
+  {
+    "Type": "Grass",
+    "Avg. Total": 437,
+    "Avg. HP": 68,
+    "Avg. Attack": 79,
+    "Avg. Defense": 75,
+    "Avg. Special Attack": 75,
+    "Avg. Special Defense": 77,
+    "Avg. Speed": 63
+  },
+  {
+    "Type": "Poison",
+    "Avg. Total": 429,
+    "Avg. HP": 69,
+    "Avg. Attack": 74,
+    "Avg. Defense": 68,
+    "Avg. Special Attack": 75,
+    "Avg. Special Defense": 73,
+    "Avg. Speed": 71
+  },
+  {
+    "Type": "Fire",
+    "Avg. Total": 501,
+    "Avg. HP": 76,
+    "Avg. Attack": 89,
+    "Avg. Defense": 79,
+    "Avg. Special Attack": 100,
+    "Avg. Special Defense": 80,
+    "Avg. Speed": 78
+  },
+  {
+    "Type": "Flying",
+    "Avg. Total": 457,
+    "Avg. HP": 73,
+    "Avg. Attack": 82,
+    "Avg. Defense": 69,
+    "Avg. Special Attack": 77,
+    "Avg. Special Defense": 71,
+    "Avg. Speed": 85
+  },
+  {
+    "Type": "Dragon",
+    "Avg. Total": 563,
+    "Avg. HP": 91,
+    "Avg. Attack": 101,
+    "Avg. Defense": 91,
+    "Avg. Special Attack": 103,
+    "Avg. Special Defense": 90,
+    "Avg. Speed": 87
+  },
+  {
+    "Type": "Bug",
+    "Avg. Total": 414,
+    "Avg. HP": 59,
+    "Avg. Attack": 79,
+    "Avg. Defense": 76,
+    "Avg. Special Attack": 62,
+    "Avg. Special Defense": 72,
+    "Avg. Speed": 66
+  },
+  {
+    "Type": "Normal",
+    "Avg. Total": 406,
+    "Avg. HP": 71,
+    "Avg. Attack": 75,
+    "Avg. Defense": 59,
+    "Avg. Special Attack": 64,
+    "Avg. Special Defense": 61,
+    "Avg. Speed": 75
+  },
+  {
+    "Type": "Dark",
+    "Avg. Total": 477,
+    "Avg. HP": 78,
+    "Avg. Attack": 98,
+    "Avg. Defense": 75,
+    "Avg. Special Attack": 75,
+    "Avg. Special Defense": 73,
+    "Avg. Speed": 77
+  },
+  {
+    "Type": "Electric",
+    "Avg. Total": 471,
+    "Avg. HP": 69,
+    "Avg. Attack": 79,
+    "Avg. Defense": 78,
+    "Avg. Special Attack": 89,
+    "Avg. Special Defense": 74,
+    "Avg. Speed": 81
+  },
+  {
+    "Type": "Psychic",
+    "Avg. Total": 508,
+    "Avg. HP": 77,
+    "Avg. Attack": 83,
+    "Avg. Defense": 82,
+    "Avg. Special Attack": 97,
+    "Avg. Special Defense": 92,
+    "Avg. Speed": 77
+  },
+  {
+    "Type": "Ice",
+    "Avg. Total": 478,
+    "Avg. HP": 82,
+    "Avg. Attack": 91,
+    "Avg. Defense": 80,
+    "Avg. Special Attack": 78,
+    "Avg. Special Defense": 75,
+    "Avg. Speed": 72
+  },
+  {
+    "Type": "Steel",
+    "Avg. Total": 495,
+    "Avg. HP": 70,
+    "Avg. Attack": 96,
+    "Avg. Defense": 109,
+    "Avg. Special Attack": 73,
+    "Avg. Special Defense": 83,
+    "Avg. Speed": 65
+  },
+  {
+    "Type": "Ground",
+    "Avg. Total": 454,
+    "Avg. HP": 80,
+    "Avg. Attack": 92,
+    "Avg. Defense": 89,
+    "Avg. Special Attack": 64,
+    "Avg. Special Defense": 69,
+    "Avg. Speed": 61
+  },
+  {
+    "Type": "Fairy",
+    "Avg. Total": 458,
+    "Avg. HP": 67,
+    "Avg. Attack": 72,
+    "Avg. Defense": 77,
+    "Avg. Special Attack": 84,
+    "Avg. Special Defense": 87,
+    "Avg. Speed": 72
+  },
+  {
+    "Type": "Rock",
+    "Avg. Total": 462,
+    "Avg. HP": 69,
+    "Avg. Attack": 90,
+    "Avg. Defense": 106,
+    "Avg. Special Attack": 66,
+    "Avg. Special Defense": 76,
+    "Avg. Speed": 56
+  },
+  {
+    "Type": "Water",
+    "Avg. Total": 458,
+    "Avg. HP": 76,
+    "Avg. Attack": 79,
+    "Avg. Defense": 80,
+    "Avg. Special Attack": 79,
+    "Avg. Special Defense": 78,
+    "Avg. Speed": 67
+  },
+  {
+    "Type": "Fighting",
+    "Avg. Total": 521,
+    "Avg. HP": 82,
+    "Avg. Attack": 113,
+    "Avg. Defense": 84,
+    "Avg. Special Attack": 75,
+    "Avg. Special Defense": 77,
+    "Avg. Speed": 90
+  },
+  {
+    "Type": "Ghost",
+    "Avg. Total": 464,
+    "Avg. HP": 70,
+    "Avg. Attack": 83,
+    "Avg. Defense": 78,
+    "Avg. Special Attack": 84,
+    "Avg. Special Defense": 76,
+    "Avg. Speed": 72
+  }
+]
