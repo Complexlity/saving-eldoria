@@ -92,12 +92,17 @@ export const datafilled = {
 
 const InitialState = () => {
   return (
-    <div className="grid grid-cols-2">
-      <div>
+    <div className="flex">
+      <div className="flex-1 grid">
         <Pie data={dataUnfilled} options={optionsUnfilled} />
+        <p className="justify-self-center"> <span>Fig A:</span> Empty Amulet Of Hope</p>
       </div>
-      <div>
+      <div className="grid items-center">
+        <div className="arrow-1"></div>
+      </div>
+      <div className="flex-1 grid ">
         <Pie data={datafilled} options={optionsFilled} />
+        <p className="justify-self-center "> <span>Fig B:</span> Filled/Balanced Amulet Of Hope</p>
       </div>
     </div>
   );
