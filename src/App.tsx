@@ -6,32 +6,35 @@ import { BarChart, CartesianGrid, XAxis, YAxis, Tooltip, Legend, Bar, Label } fr
 import Introduction from "./components/Introduction";
 import TheProblem from "./components/TheProblem";
 import IntialTry from './components/InitialTry';
+import PickAll from './components/PickAll';
+import First from "./components/charts/progression/1. PickAllTop";
+import Zero from "./components/charts/progression/0. InitialState";
+import Second from "./components/charts/progression/2. DynamicRendered";
+import Fourth from './components/charts/progression/3. FourthChart';
+import { AllDataChart2 } from './components/charts/AllDataChart2';
+import currentState from './data/myTeam.json'
+import { Pokemon } from './utils';
 
-
-interface Pokemon {
-  image_url: string;
-  Id: number;
-  Names: string;
-  Type1: string;
-  Type2: string;
-  Total: number;
-  HP: number;
-  Attack: number;
-  Defense: number;
-  "Special Attack": number;
-  "Special Defense": number;
-  Speed: number;
-}
 
 const data: Pokemon[] = pokemonData.slice(0, 5)
 
 function App() {
   return (
     <>
-      <Introduction />
-      <TheProblem />
-      <IntialTry />
+      <div className="max-w-[1000px] px-4 py-4 mx-auto">
+
+        <Introduction />
+        <Zero />
+        <First />
+        <Second slice={10} />
+        <Fourth />
+        {/* <AllDataChart2 /> */}
+      {/* <TheProblem /> */}
+      {/* <PickAll /> */}
+      {/* <IntialTry /> */}
+
       {/* <NotApp count={5} /> */}
+      </div>
     </>
   );
 }
