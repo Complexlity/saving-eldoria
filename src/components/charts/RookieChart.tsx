@@ -17,7 +17,7 @@ const options = {
   plugins: {
     tooltip: {
       callbacks: {
-        labelTextColor: function (context: any) {
+        labelTextColor: function () {
           return 'white'
         },
         label: function (context: any) {
@@ -34,7 +34,7 @@ export const data = {
   datasets: [
     {
       label: "present",
-      data: filledData.map((item) => {
+      data: filledData.map(() => {
         return true;
       }),
       backgroundColor: filledData.map((item) => {

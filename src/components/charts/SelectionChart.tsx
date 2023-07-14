@@ -28,7 +28,7 @@ const PickAllChart = ({ slice }: {slice: number}) => {
       },
       tooltip: {
         callbacks: {
-          labelTextColor: function (context: any) {
+          labelTextColor: function () {
             return "white";
           },
           afterLabel: function (context: any) {
@@ -51,7 +51,7 @@ const PickAllChart = ({ slice }: {slice: number}) => {
     datasets: [
       {
         label: "present",
-        data: filledData.map((item) => {
+        data: filledData.map(() => {
           return true;
         }),
         backgroundColor: filledData.map((item) => {

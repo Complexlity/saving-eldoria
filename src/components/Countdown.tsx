@@ -8,9 +8,9 @@ type Renderer = {
 };
 //@ts-ignore
 let renderer = ({ days, hours, minutes, seconds, completed }: Renderer) => {
-  // hours += days * 24;
+
     // Render a countdown
-  console.log({days})
+  
     return (
       <div suppressHydrationWarning={true}>
         {zeroPad(days)}:{zeroPad(hours)}:{zeroPad(minutes)}:{zeroPad(seconds)}

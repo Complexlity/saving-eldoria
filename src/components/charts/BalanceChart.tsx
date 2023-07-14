@@ -34,7 +34,7 @@ const optionsUnfilled = {
   plugins: {
     tooltip: {
       callbacks: {
-        label: function (context: any) {
+        label: function () {
           return "Count: 0";
         },
       },
@@ -45,7 +45,7 @@ const optionsFilled = {
   plugins: {
     tooltip: {
       callbacks: {
-        label: function (context: any) {
+        label: function () {
           return "Count: 1+";
         },
       },
@@ -58,10 +58,10 @@ export const dataUnfilled = {
   datasets: [
     {
       label: "present",
-      data: allTypesData.map((item) => {
+      data: allTypesData.map(() => {
         return true;
       }),
-      backgroundColor: allTypesData.map((item) => {
+      backgroundColor: allTypesData.map(() => {
         return  "LightGray";
       }),
       borderWidth: 0.3,
@@ -74,7 +74,7 @@ export const datafilled = {
   datasets: [
     {
       label: "present",
-      data: allTypesData.map((item) => {
+      data: allTypesData.map(() => {
         return true;
       }),
       backgroundColor: allTypesData.map((item) => {
