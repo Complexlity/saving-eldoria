@@ -5,6 +5,7 @@ import ChapterThree from "./components/3.Rookie";
 import ChapterFour from "./components/4.Selection";
 import ChapterFive from "./components/5.Strength";
 import ChapterSix from "./components/6.Teacher";
+import ChapterSeven from "./components/7.Victory";
 
 import pokemonData from "./data/pokemon.json";
 import { Pokemon } from "./utils";
@@ -20,7 +21,8 @@ function App() {
         <ChapterThree />
         <ChapterFour />
         <ChapterFive />
-    <ChapterSix />
+        <ChapterSix />
+        <ChapterSeven/>
         {/* <Fourth /> */}
         {/* <AllDataChart2 /> */}
         {/* <TheProblem /> */}

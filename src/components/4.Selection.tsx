@@ -16,7 +16,7 @@ const ChapterFour = () => {
       </p>
       <p>
         We woulld go over the entire list step by step while we insert the items
-        into the{" "}
+        into the Amulet of Hope.
       </p>
       <div>
         {myTeam.slice(1, 10).map((item, index) => (
@@ -28,7 +28,7 @@ const ChapterFour = () => {
       <h2 className="text-center">The Final Pick</h2>
       <p>If you do some counting, you would notice we have picked 9 items  rather than 10. We have been able to balance the Amulet of Hope with 9 pokemons</p>
       <p>We would now use the <em>"Rookie"</em> Method to pick the last item since the attribute type is no longer a worry</p>
-      
+
     </div>
   );
 };
