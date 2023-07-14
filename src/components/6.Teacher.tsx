@@ -5,17 +5,17 @@ const ChapterSix = () => {
         <span>Chapter Six:</span> Teacher
       </h1>
       <p>
-        The best and worst thing about having an apprentice is they never let
-        you go. Always coming up with question and mid suggestions. This is what
-        every teacher aspire to always have
+        The best and worst thing about having a brilliant apprentice is they never let
+        you go. Always coming up with questions. This is what every good teacher
+        aspire to have.
       </p>
-      <p>
-        Jen is not satisfied with my answer on how we picked the pokemons and
-        she asks again. <blockquote>Can you teach me the algorithm?</blockquote>
-      </p>
+      <blockquote className="text-lg">
+        Can you teach me the algorithm? (
+        <span className="not-italic font-normal">At this point, you know who is asking. Jen of course</span>)
+      </blockquote>
       <p>
         Here's the step by step approach I have taken in selecting these
-        pokemons
+        pokemons:
       </p>
       <ul>
         <li>
@@ -47,22 +47,22 @@ const ChapterSix = () => {
           <p>
             <strong>Looping and Selecting</strong>
           </p>
-          <p>Now we have the average. Here how we use it to pick a value</p>
+          <p>Now we have the average. Here how we use it to pick a value:</p>
           <ul>
             <li>
               Loop through the items and find the pokemon whom one of it's
               numerical attributes greatly exceed the average. It could be any
               of the attributes (HP, Attack, Special Attack, Special Defense,
-              Speed)
+              Speed).
             </li>
             <li>
               Remove this pokemon's type1 and type2 attribute from the next
               search because we want to search for a pokemon that would not
-              exhibit any of those chosen before
+              exhibit any of those chosen before.
             </li>
             <li>
               Repeat the process until we have picked all the type1 and type2
-              attributes have been filled
+              attributes have been filled.
             </li>
           </ul>
         </li>
@@ -71,11 +71,18 @@ const ChapterSix = () => {
             <strong>The Final Pick</strong>
           </p>
           <p>
-            For this last pokemon, we want something that would compliment all the pokemon's attributes so we just go into the data and pick the pokemon with the highest Total points (as long as it hasn't been picked before). We also ensure they have both type1 and type2 as backup in case one of those attributes sustain serious damage
+            For this last pokemon, we want something that would compliment all
+            the pokemon's attributes so we just go into the data and pick the
+            pokemon with the highest Total points (as long as it hasn't been
+            picked before). <br></br>We also ensure they have both type1 and type2 as
+            backup in case one of those attributes sustain serious damage
           </p>
         </li>
       </ul>
-      <p>That's it Jen, Sooner or later, you would be coming up with some serious algorithms of your own</p>
+      <p>
+        That's it Jen, soon you will be one  coming up with some serious
+        algorithms of your own
+      </p>
     </div>
   );
 }

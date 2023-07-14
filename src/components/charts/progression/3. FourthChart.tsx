@@ -74,8 +74,15 @@ export const data = {
 
 const FourthChart = () => {
   return (
-    <div className="grid justify-center">
+    <div id="strength" className="grid justify-center">
       <Bar options={options} data={data} />
+
+        <p>
+          <span className="font-bold">Fig 4:</span>{" "}
+          <span className="italic text-base">
+            Comparison between our pokemon's strength and the average strength of the database
+          </span>
+        </p>
     </div>
   );
 }

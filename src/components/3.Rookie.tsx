@@ -9,23 +9,36 @@ const ChapterThree = () => {
       <div className="">
         <p>
           While carrying out the complex analysis needed to pick to perfect set
-          of pokemons, my apprentice Jen asked a very important question{" "}
+          of pokemons, my apprentice, <span className="font-bold">Jen,</span>{" "}
+          asked a very important question{" "}
         </p>
         <blockquote>
           Why don't we just pick all the strongest pokemons?
         </blockquote>
-        <p> Classic rookie mistake: Not understanding the problem</p>
         <p>
-          To quech his curiousity, I picked 10 of the strongest pokemon and
-          shows why this does not work. Once again{" "}
+          {" "}
+          Classic rookie mistake:{" "}
+          <span className="font-semibold">Not understanding the problem</span>
+        </p>
+        <p>
+          To quech her curiousity, I picked 10 of the strongest pokemons and
+          show why this does not work. Once again{" "}
           <span className="font-bold">Balance</span>
         </p>
         <p>
-          <span className="font-bold">Fig 3</span> shows the distribution of
-          attributes from all the strongest pokemons. As seen the balance we
-          need to attain on Fig 2 is not attained as we have a whole lot off
-          attributes missing. We have also picked 6 pokemons with the dragon
-          attribute and 4 psychic pokemons while at it.
+          <a className="font-bold hover:no-underline" href="#rookie">
+            Fig 3
+          </a>{" "}
+          shows the distribution of type attributes after picking all the
+          strongest pokemons.
+          As seen, the balance we need to get on{" "}
+          <a href="#balance" className="font-bold hover:no-underline">
+            {" "}
+            Fig 2
+          </a>{" "}
+          is not attained as we have a whole lot off attributes missing. We have
+          also picked 6 pokemons with the Dragon attribute and 4 Psychic
+          pokemons while at it.
         </p>
 
         <p className="text-center text-base">

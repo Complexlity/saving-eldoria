@@ -4,7 +4,7 @@ const ChapterSeven = () => {
       <h1 className="text-center">
         <span>Chapter Seven: </span>Victory
       </h1>
-      <p>Dear Aiden,</p>
+      <p>Master Aiden,</p>
       <p>
         As you embark on this noble quest to save our land from impending doom. We present you with the{" "}
         <strong>Amulet of Hope</strong> as a symbol of our faith in you abilities and the belief that you will bring light to the darkness that

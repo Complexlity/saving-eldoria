@@ -92,12 +92,15 @@ export const datafilled = {
 
 const InitialState = () => {
   return (
-    <div className="flex container">
+
+    <div className="flex container" id="balance">
       <div className="flex-1 grid ">
         <Pie data={dataUnfilled} options={optionsUnfilled} />
         <p className="justify-self-center">
           {" "}
-          <span className="font-bold">Fig 1:</span>{" "}
+          <span className="font-bold" id="fig1">
+            Fig 1:
+          </span>{" "}
           <span className="italic text-base">Empty Amulet Of Hope</span>
         </p>
       </div>
@@ -108,10 +111,11 @@ const InitialState = () => {
         <Pie data={datafilled} options={optionsFilled} />
         <p className="justify-self-center">
           {" "}
-          <span className="font-bold">Fig 2:</span>{" "}
+          <span className="font-bold" id="fig2">
+            Fig 2:
+          </span>{" "}
           <span className="italic text-base">Balanced Amulet Of Hope</span>
         </p>
-
       </div>
     </div>
   );

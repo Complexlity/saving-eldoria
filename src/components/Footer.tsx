@@ -7,13 +7,13 @@ const Footer = () => {
     <div className="not-prose mt-8 px-3">
       <hr className="border-t-2 border-gray-300" />
       <div className="mt-4 flex items-center justify-between text-[.65rem] text-slate-500 dark:text-amber-100  sm:text-base ">
-        <p>
+        <div>
           Copyright &copy; <a href="https://complexlity.vercel.app" target="_blank" className="text-amber-600 font-semibold underline hover:no-underline">Complexlity</a> {year}
           <span className="ml-1 mr-1 inline-block h-full w-[2px] bg-slate-300 sm:ml-4 sm:mr-4 ">
             &nbsp;
           </span>
-          Developer
-        </p>
+          Author
+        </div>
         <div className="flex gap-4 sm:gap-8 ">
           <a href="https://www.github.com/Complexlity">
             <AiFillGithub

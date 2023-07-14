@@ -55,12 +55,12 @@ export const data = {
 
 const PickAllChart = () => {
   return (
-    <div className="grid justify-center gap-2">
+    <div id="rookie" className="grid justify-center gap-2">
       <div className="h-full grid justify-center">
       <Pie data={data} options={options} />
       </div>
       <div className="paragraph">
-        <p>Fig 3: Distribution of Picking All Top 10 in Total Strength
+        <p><span className="font-bold">Fig 3:</span> <span className="italic text-base">Unbalanced Amulet after Picking All Top 10 in Total Points</span>
         </p></div>
 </div>
 
