@@ -1,4 +1,4 @@
-import dummyImg from '../assets/dummy.png'
+import dummyImg from '../assets/pokemonMaster.jpg'
 
 const Introduction = () => {
   return (
@@ -29,7 +29,7 @@ const Introduction = () => {
             He has come to the great pokemon library and seeks my help as the Data analyst and head of library to select the suitable pokemons both in balance of attribute and in power.
           </p>
         </div>
-        <div className="grid justify-center bg-green-400">
+        <div className="grid justify-center">
           <img src={dummyImg} alt="" className="" />
         </div>
       </div>
