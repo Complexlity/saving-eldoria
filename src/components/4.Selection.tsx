@@ -1,8 +1,9 @@
-import Second from "./charts/progression/2. DynamicRendered";
+import Pokescription from "./charts/progression/2. DynamicRendered";
 import myTeam from '../data/myTeam.json'
+import PokeCard from "./PokeCard";
 
 const ChapterFour = () => {
-  console.log(myTeam)
+  const finalPick = myTeam[myTeam.length-1]
   return (
     <div>
       <h1 className="text-center">
@@ -21,16 +22,21 @@ const ChapterFour = () => {
       <div>
         {myTeam.slice(1, 10).map((item, index) => (
 
-          <Second slice={index + 1} key={item.Id} />
+          <Pokescription slice={index + 1} key={item.Id} />
 
         ))}
       </div>
       <h2 className="text-center">The Final Pick</h2>
       <p>If you do some counting, you would notice we have picked 9 items  rather than 10. We have been able to balance the Amulet of Hope with 9 pokemons</p>
       <p>We would now use the <em>"Rookie"</em> Method to pick the last item since the attribute type is no longer a worry</p>
-      <div className="grid grid-cols-2">
-          
-          </div>
+      <p>This involves picking the strongest (Highest Total Points) item in the database that of course hasn't been picked before. <span className="font-bold">
+         Enter! Strongest Pokemon
+      </span>
+          </p>
+        <PokeCard pokemon={finalPick} />
+        <p>
+          {finalPick.Description}
+        </p>
     </div>
   );
 };

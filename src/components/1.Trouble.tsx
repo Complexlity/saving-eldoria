@@ -2,8 +2,9 @@ import dummyImg from '../assets/dummy.png'
 
 const Introduction = () => {
   return (
-    <div className="container mx-auto paragraph">
-      <h1 className="text-center"><span>Chapter One:</span>Trouble</h1>
+    <div className="container mx-auto">
+      <h1 className="text-center not-prose mb-0"><span>Chapter One:</span>Trouble</h1>
+
       <div className="grid mx-auto ">
         <div className="grid">
           <p className="">

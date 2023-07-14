@@ -28,11 +28,7 @@ function App() {
         <ChapterSeven />
         <ComingSoon />
         <Footer />
-        <div className="grid grid-cols-2">
-          <div>
-          </div>
-          <PokeCard />
-        </div>
+        
         {/* <Fourth /> */}
         {/* <AllDataChart2 /> */}
         {/* <TheProblem /> */}
