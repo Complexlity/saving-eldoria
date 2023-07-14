@@ -116,6 +116,7 @@ export function getAverageValues(
   const averages: Record<string, number> = {};
 
   for (const attr of attributes) {
+    //@ts-ignore
     const sum = data.reduce((acc, item) => acc + item[attr], 0);
     const average = Math.round(sum / data.length);
     averages[attr] = average;
@@ -127,13 +128,15 @@ export function getAverageValues(
 export function getHighestValues(
   attributes: string[],
   data: Pokemon[]
-): Record<string, number> {
-  const highestValues: Record<string, number> = {};
+  ): Record<string, number> {
+    const highestValues: Record<string, number> = {};
 
-  for (const attr of attributes) {
-    let highestValue = Number.MIN_SAFE_INTEGER;
+    for (const attr of attributes) {
+      let highestValue = Number.MIN_SAFE_INTEGER;
     for (const item of data) {
+      //@ts-ignore
       if (item[attr] > highestValue) {
+        //@ts-ignore
         highestValue = item[attr];
       }
     }

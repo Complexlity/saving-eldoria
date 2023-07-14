@@ -1,9 +1,9 @@
 
 import { ArcElement, Chart as ChartJS, Tooltip } from "chart.js";
 import { Pie } from "react-chartjs-2";
-import myTeam from '../../../data/myTeam.json';
-import { convertDataToTypeCount, fillData, findPokemonName, getTypeColor } from "../../../utils";
-import PokeCard from "../../PokeCard";
+import myTeam from '../../data/myTeam.json';
+import { convertDataToTypeCount, fillData, findPokemonName, getTypeColor } from "../../utils";
+import PokeCard from "../PokeCard";
 
 
 

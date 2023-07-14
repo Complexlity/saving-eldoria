@@ -1,8 +1,8 @@
-import initialData from "../../../data/pokemon.json";
-import { convertDataToTypeCount, fillData, getTypeColor } from "../../../utils";
+import initialData from "../../data/pokemon.json";
+import { convertDataToTypeCount, fillData, getTypeColor } from "../../utils";
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 import { Pie } from "react-chartjs-2";
-import type { TypeCount } from "../../../utils";
+import type { TypeCount } from "../../utils";
 
 //@ts-nocheck
  const allTypesData =

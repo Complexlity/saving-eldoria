@@ -1,10 +1,16 @@
-import initialData from "../../../data/pokemon.json";
-import myTeam from "../../../data/myTeam.json";
-import { convertDataToTypeCount, fillData, getTypeColor } from "../../../utils";
-import { Chart as ChartJS, ArcElement, Tooltip, Legend, CategoryScale,
-  LinearScale,  BarElement, } from "chart.js";
-import { Bar, Pie } from "react-chartjs-2";
-import { getHighestValues, getAverageValues } from '../../../utils'
+import {
+  ArcElement,
+  BarElement,
+  CategoryScale,
+  Chart as ChartJS,
+  Legend,
+  LinearScale,
+  Tooltip,
+} from "chart.js";
+import { Bar } from "react-chartjs-2";
+import { getAverageValues, getHighestValues } from '../../utils';
+import myTeam from "../../data/myTeam.json";
+import initialData from "../../data/pokemon.json";
 
 ChartJS.register(ArcElement, Tooltip, Legend, CategoryScale,
   LinearScale,  BarElement,);

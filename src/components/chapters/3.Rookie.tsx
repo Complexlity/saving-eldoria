@@ -1,4 +1,4 @@
-import Rookie from "../components/charts/progression/1. PickAllTop";
+import RookieChart from "../charts/RookieChart";
 
 const ChapterThree = () => {
   return (
@@ -45,7 +45,7 @@ const ChapterThree = () => {
           <span className="text-green-500 font-bold">Tip:</span>{" "}
           <em>Hover over the segments to see the count</em>
         </p>
-        <Rookie />
+        <RookieChart />
         <p>
           This was a good learning moment for her. She now knows how important
           it is to understand the problem throughly before solving it.

@@ -1,6 +1,6 @@
-import Pokescription from "./charts/progression/2. DynamicRendered";
-import myTeam from "../data/myTeam.json";
-import PokeCard from "./PokeCard";
+import SelectionChart from "../charts/SelectionChart";
+import myTeam from "../../data/myTeam.json";
+import PokeCard from "../PokeCard";
 
 const ChapterFour = () => {
   const finalPick = myTeam[myTeam.length - 1];
@@ -23,7 +23,7 @@ const ChapterFour = () => {
       </p>
       <div>
         {myTeam.slice(1, 10).map((item, index) => (
-          <Pokescription slice={index + 1} key={item.Id} />
+          <SelectionChart slice={index + 1} key={item.Id} />
         ))}
       </div>
       <h2 className="text-center">The Final Pick</h2>

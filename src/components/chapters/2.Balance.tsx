@@ -1,4 +1,4 @@
-import Balance from './charts/progression/0. InitialState'
+import BalanceChart from '../charts/BalanceChart'
 
 const ChapterTwo = () => {
   return (
@@ -6,7 +6,7 @@ const ChapterTwo = () => {
       <h1 className="text-center">
         <span>Chapter Two:</span>Balance
       </h1>
-      <Balance />
+      <BalanceChart />
       <div className="">
         <p>
           There are 18 attributes in total. So we have to take the Amulet of

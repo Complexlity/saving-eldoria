@@ -1,4 +1,4 @@
-import Strength from "../components/charts/progression/3. FourthChart";
+import Strength from "../charts/StrengthChart";
 
 const ChapterFive = () => {
   return (
