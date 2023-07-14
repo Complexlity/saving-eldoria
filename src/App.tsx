@@ -1,11 +1,11 @@
 import "./App.css";
 import ChapterOne from "./components/chapters/1.Trouble";
-import ChapterTwo from "./components/2.Balance";
-import ChapterThree from "./components/3.Rookie";
-import ChapterFour from "./components/4.Selection";
-import ChapterFive from "./components/5.Strength";
-import ChapterSix from "./components/6.Teacher";
-import ChapterSeven from "./components/7.Victory";
+import ChapterTwo from "./components/chapters/2.Balance";
+import ChapterThree from "./components/chapters/3.Rookie";
+import ChapterFour from "./components/chapters/4.Selection";
+import ChapterFive from "./components/chapters/5.Strength";
+import ChapterSix from "./components/chapters/6.Teacher";
+import ChapterSeven from "./components/chapters/7.Victory";
 import ComingSoon from "./components/ComingSoon";
 import Footer from "./components/Footer";
 

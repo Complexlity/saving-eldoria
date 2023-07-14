@@ -12,7 +12,7 @@ const Footer = () => {
           <span className="ml-1 mr-1 inline-block h-full w-[2px] bg-slate-300 sm:ml-4 sm:mr-4 ">
             &nbsp;
           </span>
-          Author
+          Author, Data Analyst, Pokemon Librarian
         </div>
         <div className="flex gap-4 sm:gap-8 ">
           <a href="https://www.github.com/Complexlity">
