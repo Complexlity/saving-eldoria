@@ -1,19 +1,16 @@
 import data from "./allTypesWithAverage.json" assert { type: "json" };
 import data2 from "./pokemon.json" assert { type: "json" };
-import data3 from './typesData.json' assert { type: "json"};
+import data3 from "./averagesData.json" assert { type: "json" };
 import fs from "fs";
 
 const types = data.map((item) => item.Type);
 
 // return
 
-
 const myTeam = [];
 while (types.length > 0) {
-
   let highestDifferenceItem = null;
   let highestDifferenceIndex = -1;
-
 
   for (let i = 0; i < data.length; i++) {
     const item = data[i];
@@ -45,7 +42,6 @@ while (types.length > 0) {
     ) {
       highestDifferenceItem = highestDifferenceHP;
       highestDifferenceIndex = i;
-
     }
   }
 
@@ -53,13 +49,18 @@ while (types.length > 0) {
     break;
   }
 
-
   const matchingItem = data2.find(
     (item) => item.Names === highestDifferenceItem.name
   );
 
   if (matchingItem) {
-    myTeam.push({ ...matchingItem,"Difference From Average": highestDifferenceItem["Difference From Average"], highestFromAverageAttribute: highestDifferenceItem.highestFromAverageAttribute });
+    myTeam.push({
+      ...matchingItem,
+      "Difference From Average":
+        highestDifferenceItem["Difference From Average"],
+      highestFromAverageAttribute:
+        highestDifferenceItem.highestFromAverageAttribute,
+    });
   }
 
   const typeToRemove = data[highestDifferenceIndex].Type;
@@ -68,7 +69,6 @@ while (types.length > 0) {
     types.splice(indexToRemove, 1);
   }
   removeItemByType(data, typeToRemove);
-
 
   const secondTypeToRemove = highestDifferenceItem.secondType;
   const secondTypeIndexToRemove = types.indexOf(secondTypeToRemove);
@@ -85,9 +85,8 @@ function removeItemByType(data, typeToRemove) {
   }
 }
 
-
 //Add wild card
-let wildCard = {Total: 0};
+let wildCard = { Total: 0 };
 
 // Find the item with the highest "Total" that is not already in myTeam
 data2.forEach((item) => {
@@ -108,20 +107,20 @@ data3.forEach((averageItem) => {
   const type = averageItem.Type;
 
   if (type === wildCardType1 || type === wildCardType2) {
-    debugger
+    debugger;
     Object.keys(averageItem).forEach((attribute) => {
-      debugger
+      debugger;
       if (attribute !== "Type" && attribute !== "Avg. Total") {
-        debugger
+        debugger;
         const averageAttributeValue = averageItem[attribute];
-        const wildCardAttributeValue = wildCard[attribute.replace('Avg. ', '')];
+        const wildCardAttributeValue = wildCard[attribute.replace("Avg. ", "")];
         const difference = Math.abs(
           wildCardAttributeValue - averageAttributeValue
         );
 
         if (difference > highestDifference) {
           highestDifference = difference;
-          highestFromAverageAttribute = attribute.replace('Avg. ', '');
+          highestFromAverageAttribute = attribute.replace("Avg. ", "");
         }
       }
     });
@@ -134,8 +133,6 @@ wildCard.highestFromAverageAttribute = highestFromAverageAttribute;
 if (wildCard) {
   myTeam.push(wildCard);
 }
-
-
 
 const myTeamString = JSON.stringify(myTeam, null, 2);
 

@@ -1,5 +1,5 @@
 import Data1 from "./allTypes.json" assert { type: "json" };
-import Data2 from "./typesData.json" assert { type: "json" };
+import Data2 from "./averagesData.json" assert { type: "json" };
 import fs from "fs";
 
 const attributes = [
@@ -11,24 +11,22 @@ const attributes = [
   "Speed",
 ];
 
-
 const newData = Data1.map((item) => {
   const type = item.Type;
   const averages = Data2.find((data) => data.Type === type);
   const updatedHighestValues = {};
 
-  debugger
+  debugger;
   attributes.forEach((attribute) => {
-    debugger
+    debugger;
     const averageValue = averages[`Avg. ${attribute}`];
     const highestValues = item[`Highest ${attribute}s`];
     const updatedAttributeValues = highestValues.map((valueItem) => ({
       ...valueItem,
       "Difference From Average": valueItem.value - averageValue,
-      highestFromAverageAttribute: attribute
+      highestFromAverageAttribute: attribute,
     }));
     updatedHighestValues[`Highest ${attribute}s`] = updatedAttributeValues;
-
   });
 
   return {

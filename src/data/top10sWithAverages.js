@@ -1,5 +1,5 @@
 import Data1 from "./top10s.json" assert { type: "json" };
-import Data2 from "./typesData.json" assert { type: "json" };
+import Data2 from "./averagesData.json" assert { type: "json" };
 import fs from "fs";
 
 const attributes = [
@@ -31,7 +31,6 @@ const newData = Data1.map((item) => {
     ...updatedHighestValues,
   };
 });
-
 
 // Convert the processed data to JSON format
 const processedJsonString = JSON.stringify(newData, null, 2);
