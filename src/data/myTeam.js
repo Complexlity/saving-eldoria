@@ -136,15 +136,10 @@ if (wildCard) {
 }
 
 
-// // If an item is found, add it to myTeam
-// if (wildCard) {
-//   myTeam.push(wildCard);
-// }
-// console.log(Object.keys(myTeam).length);
 
 const myTeamString = JSON.stringify(myTeam, null, 2);
 
-const filePath = "myTeam.json";
+const filePath = "myTeamWithoutDescription.json";
 
 // Save the processed JSON string into a file
 fs.writeFile(filePath, myTeamString, (err) => {

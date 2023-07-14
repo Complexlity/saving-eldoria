@@ -8,6 +8,7 @@ import ChapterSix from "./components/6.Teacher";
 import ChapterSeven from "./components/7.Victory";
 import ComingSoon from "./components/8.ComingSoon";
 import Footer from "./components/Footer";
+import PokeCard from "./components/PokeCard";
 
 import pokemonData from "./data/pokemon.json";
 import { Pokemon } from "./utils";
@@ -27,6 +28,11 @@ function App() {
         <ChapterSeven />
         <ComingSoon />
         <Footer />
+        <div className="grid grid-cols-2">
+          <div>
+          </div>
+          <PokeCard />
+        </div>
         {/* <Fourth /> */}
         {/* <AllDataChart2 /> */}
         {/* <TheProblem /> */}

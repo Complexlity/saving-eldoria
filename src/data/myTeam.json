@@ -13,7 +13,8 @@
     "Special Defense": 250,
     "Speed": 130,
     "Difference From Average": 186,
-    "highestFromAverageAttribute": "HP"
+    "highestFromAverageAttribute": "HP",
+    "Description":"The great Eternatus Eternamax, a formidable Poison/Dragon-type Pokemon, possesses incredible power and endurance. With its ferocious Attack and high HP, it strikes fear into the hearts of its adversaries"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/shuckle.png",
@@ -29,7 +30,8 @@
     "Special Defense": 230,
     "Speed": 5,
     "Difference From Average": 158,
-    "highestFromAverageAttribute": "Special Defense"
+    "highestFromAverageAttribute": "Special Defense",
+    "Description":"The opposition would do all but chuckle at the sight or Shuckle, a unique Bug/Rock-type Pokemon, may seem unassuming, but its incredible Defense and Special Defense make it a formidable wall. Its ability to endure attacks is unmatched"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/steelix-mega.png",
@@ -45,7 +47,8 @@
     "Special Defense": 95,
     "Speed": 30,
     "Difference From Average": 141,
-    "highestFromAverageAttribute": "Defense"
+    "highestFromAverageAttribute": "Defense",
+    "Description": "A mighty Steel/Ground-type Pokemon, boasts an impenetrable Defense. Its incredible resilience allows it to withstand even the harshest assaults, making it an excellent defender. Legend has it that Steelix Mega was used in a war against the transformers and came out victorious"
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/mewtwo-mega-x.png",
@@ -61,7 +64,8 @@
     "Special Defense": 100,
     "Speed": 130,
     "Difference From Average": 107,
-    "highestFromAverageAttribute": "Attack"
+    "highestFromAverageAttribute": "Attack",
+    "Description":"Mewtwo Mega Mewtwo X, a Psychic/Fighting-type Pokemon, possesses unrivaled physical strength. Its devastating Attack stat and exceptional Speed make it a fearsome force on the battlefield."
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/cloyster.png",
@@ -77,7 +81,8 @@
     "Special Defense": 45,
     "Speed": 70,
     "Difference From Average": 100,
-    "highestFromAverageAttribute": "Defense"
+    "highestFromAverageAttribute": "Defense",
+    "Description":"Cloyster, a Water/Ice-type Pokemon, showcases exceptional Defense. Its icy shell acts as a sturdy fortress, providing protection against physical onslaughts."
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/scarlet-violet/icon/electrode-hisuian.png",
@@ -93,7 +98,8 @@
     "Special Defense": 80,
     "Speed": 150,
     "Difference From Average": 87,
-    "highestFromAverageAttribute": "Speed"
+    "highestFromAverageAttribute": "Speed",
+    "Description":"Electrode Hisuian Electrode, an Electric/Grass-type Pokemon, surprises opponents with its lightning-fast Speed. Its ability to outpace and strike swiftly gives it a significant advantage in battles."
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/ho-oh.png",
@@ -109,7 +115,8 @@
     "Special Defense": 154,
     "Speed": 90,
     "Difference From Average": 83,
-    "highestFromAverageAttribute": "Special Defense"
+    "highestFromAverageAttribute": "Special Defense",
+    "Description":"Ho-oh, a majestic Fire/Flying-type Pokemon, shines with its exceptional Special Defense. It possesses the ability to withstand powerful special attacks, making it a resilient guardian."
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/wigglytuff.png",
@@ -125,7 +132,8 @@
     "Special Defense": 50,
     "Speed": 45,
     "Difference From Average": 73,
-    "highestFromAverageAttribute": "HP"
+    "highestFromAverageAttribute": "HP",
+    "Description":"Wigglytuff, a charming Normal/Fairy-type Pokemon, boasts extraordinary HP. Its incredible endurance allows it to endure even the toughest of battles with grace."
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/sableye-mega.png",
@@ -141,7 +149,8 @@
     "Special Defense": 115,
     "Speed": 20,
     "Difference From Average": 50,
-    "highestFromAverageAttribute": "Defense"
+    "highestFromAverageAttribute": "Defense",
+    "Description":"Sableye Mega Sableye, a mischievous Dark/Ghost-type Pokemon, possesses an incredibly high Defense. It skillfully dodges attacks and endures with a smirk, making it a formidable opponent."
   },
   {
     "image_url": "https://img.pokemondb.net/sprites/sword-shield/icon/rayquaza-mega.png",
@@ -157,6 +166,8 @@
     "Special Defense": 100,
     "Speed": 115,
     "Difference From Average": 103,
-    "highestFromAverageAttribute": "Special Attack"
+    "highestFromAverageAttribute": "Special Attack",
+    "Description":"Rayquaza Mega Rayquaza, a legendary Dragon/Flying-type Pokemon, stands out with its awe-inspiring Special Attack. Its devastating attacks can lay waste to foes, solidifying its place as a legendary force."
   }
 ]
+

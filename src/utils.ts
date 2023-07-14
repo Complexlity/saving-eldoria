@@ -97,6 +97,12 @@ export interface Pokemon {
   Speed: number;
 }
 
+export interface MyPokemon extends Pokemon {
+  "Difference From Average": number,
+  highestFromAverageAttribute: string,
+  Description: string
+}
+
 
 export function findPokemonName(type: string, currentState: Pokemon[]) {
   return currentState.find(item => item.Type1 === type || item.Type2 === type)
