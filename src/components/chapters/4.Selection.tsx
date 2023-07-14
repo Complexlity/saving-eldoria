@@ -1,6 +1,6 @@
-import SelectionChart from "../charts/SelectionChart";
 import myTeam from "../../data/myTeam.json";
 import PokeCard from "../PokeCard";
+import SelectionChart from "../charts/SelectionChart";
 
 const ChapterFour = () => {
   const finalPick = myTeam[myTeam.length - 1];

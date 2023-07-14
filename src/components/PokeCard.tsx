@@ -1,5 +1,5 @@
-import myTeam from '../data/myTeam.json'
-import { MyPokemon, Pokemon, getTypeColor } from '../utils';
+import myTeam from '../data/myTeam.json';
+import { MyPokemon, getTypeColor } from '../utils';
 
 const PokeCard = ({pokemon}: {pokemon?: MyPokemon}) => {
   if(!pokemon)pokemon = myTeam[8]

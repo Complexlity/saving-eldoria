@@ -1,4 +1,4 @@
-import BalanceChart from '../charts/BalanceChart'
+import BalanceChart from '../charts/BalanceChart';
 
 const ChapterTwo = () => {
   return (

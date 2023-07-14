@@ -1,4 +1,4 @@
-import aidenStromrider from '../../assets/pokemonMaster.jpg'
+import aidenStromrider from '../../assets/pokemonMaster.jpg';
 
 const Introduction = () => {
   return (

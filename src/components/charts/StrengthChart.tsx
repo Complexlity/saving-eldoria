@@ -8,9 +8,9 @@ import {
   Tooltip,
 } from "chart.js";
 import { Bar } from "react-chartjs-2";
-import { getAverageValues, getHighestValues } from '../../utils';
 import myTeam from "../../data/myTeam.json";
 import initialData from "../../data/pokemon.json";
+import { getAverageValues, getHighestValues } from '../../utils';
 
 ChartJS.register(ArcElement, Tooltip, Legend, CategoryScale,
   LinearScale,  BarElement,);
