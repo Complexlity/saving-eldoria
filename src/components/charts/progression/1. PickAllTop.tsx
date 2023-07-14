@@ -55,11 +55,15 @@ export const data = {
 
 const PickAllChart = () => {
   return (
-    <div className="grid grid-cols-2">
-      <div>
-        <Pie data={data} options={options}/>
+    <div className="grid justify-center gap-2">
+      <div className="h-full grid justify-center">
+      <Pie data={data} options={options} />
       </div>
-    </div>
+      <div className="paragraph">
+        <p>Fig 3: Distribution of Picking All Top 10 in Total Strength
+        </p></div>
+</div>
+
   );
 };
 

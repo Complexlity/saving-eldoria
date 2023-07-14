@@ -52,32 +52,29 @@ export const data = {
     {
       label: "Highest From My Team",
       data: attributes.map((attr) => highestFromMyTeam[attr]),
-      backgroundColor: "rgb(255, 99, 132)",
+      backgroundColor: "orange",
       stack: "Stack 0",
     },
     {
       label: "Average From My Team",
       data: attributes.map((attr) => averageFromMyTeam[attr]),
-      backgroundColor: "rgb(255, 99, 192)",
+      backgroundColor: "green",
       stack: "Stack 1",
     },
     {
       label: "Average value in Database",
       data: attributes.map((attr) => averageFromData[attr]),
-      backgroundColor: "rgb(75, 192, 192)",
+      backgroundColor: "red",
       stack: "Stack 2",
     },
   ],
 };
 
-// export function App() {
-//   return ;
-// }
+
 
 const FourthChart = () => {
   return (
     <div>
-      Hello World
       <Bar options={options} data={data} />
     </div>
   );

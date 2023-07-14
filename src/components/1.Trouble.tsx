@@ -3,8 +3,8 @@ import dummyImg from '../assets/dummy.png'
 const Introduction = () => {
   return (
     <div className="container mx-auto paragraph">
-      <h1 className="text-center"><span>Chapter One:</span>Introduction</h1>
-      <div className="grid md:grid-cols-2 mx-auto ">
+      <h1 className="text-center"><span>Chapter One:</span>Trouble</h1>
+      <div className="grid mx-auto ">
         <div className="grid">
           <p className="">
             In a land of myth, and a time of trouble, the destiny of a great
