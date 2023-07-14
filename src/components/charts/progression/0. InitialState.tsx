@@ -97,7 +97,8 @@ const InitialState = () => {
         <Pie data={dataUnfilled} options={optionsUnfilled} />
         <p className="justify-self-center">
           {" "}
-          <span>Fig A:</span> Empty Amulet Of Hope
+          <span className="font-bold">Fig 1:</span>{" "}
+          <span className="italic text-base">Empty Amulet Of Hope</span>
         </p>
       </div>
       <div className="grid items-center">
@@ -105,10 +106,12 @@ const InitialState = () => {
       </div>
       <div className="flex-1 grid ">
         <Pie data={datafilled} options={optionsFilled} />
-        <p className="justify-self-center ">
+        <p className="justify-self-center">
           {" "}
-          <span>Fig B:</span> Filled/Balanced Amulet Of Hope
+          <span className="font-bold">Fig 2:</span>{" "}
+          <span className="italic text-base">Balanced Amulet Of Hope</span>
         </p>
+
       </div>
     </div>
   );

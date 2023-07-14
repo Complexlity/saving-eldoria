@@ -74,7 +74,7 @@ export const data = {
 
 const FourthChart = () => {
   return (
-    <div>
+    <div className="grid justify-center">
       <Bar options={options} data={data} />
     </div>
   );

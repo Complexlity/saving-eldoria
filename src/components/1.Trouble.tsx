@@ -7,7 +7,7 @@ const Introduction = () => {
 
       <div className="grid mx-auto ">
         <div className="grid">
-          <p className="">
+          <p className="big-letter">
             In a land of myth, and a time of trouble, the destiny of a great
             kingdom called <span>Eldoria</span> rests on the shoulders of a
             pokemon master. His name <span>Aiden Stormrider</span>

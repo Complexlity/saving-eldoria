@@ -8,12 +8,8 @@ import ChapterSix from "./components/6.Teacher";
 import ChapterSeven from "./components/7.Victory";
 import ComingSoon from "./components/8.ComingSoon";
 import Footer from "./components/Footer";
-import PokeCard from "./components/PokeCard";
 
-import pokemonData from "./data/pokemon.json";
-import { Pokemon } from "./utils";
 
-const data: Pokemon[] = pokemonData.slice(0, 5);
 
 function App() {
   return (
@@ -28,14 +24,6 @@ function App() {
         <ChapterSeven />
         <ComingSoon />
         <Footer />
-        
-        {/* <Fourth /> */}
-        {/* <AllDataChart2 /> */}
-        {/* <TheProblem /> */}
-        {/* <PickAll /> */}
-        {/* <IntialTry /> */}
-
-        {/* <NotApp count={5} /> */}
       </div>
     </>
   );
