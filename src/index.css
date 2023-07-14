@@ -17,6 +17,12 @@ h1 span {
   text-transform:uppercase;
   font-family: 'Courier New', Courier, monospace;
 }
+.coming-soon {
+  font-weight: 600;
+  color: #111827b5;
+  font-family: 'Courier New', Courier, monospace;
+}
+
 
 p {
   color:#374151;
