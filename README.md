@@ -12,6 +12,11 @@ In this story we will be have having
 
 The entire story you'll find on the site!
 
+## Live Demo
+
+See the application working [LIVE!](https://saving-eldoria.netlify.app)
+
+
 ## Thought process behind the data story
 
 - At the very first glance of the datasets, I knew I wanted to create some kind of team but I wasn't sure what to represent in my team.
