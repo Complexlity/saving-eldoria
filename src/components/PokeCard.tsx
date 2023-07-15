@@ -1,8 +1,42 @@
-import myTeam from '../data/myTeam.json';
+import {
+  Chart as ChartJS,
+  Filler,
+  Legend,
+  LineElement,
+  PointElement,
+  RadialLinearScale,
+  Tooltip,
+} from "chart.js";
+import { Radar } from "react-chartjs-2";
 import { MyPokemon, getTypeColor } from '../utils';
 
-const PokeCard = ({pokemon}: {pokemon?: MyPokemon}) => {
-  if(!pokemon)pokemon = myTeam[8]
+ChartJS.register(
+  RadialLinearScale,
+  PointElement,
+  LineElement,
+  Filler,
+  Tooltip,
+  Legend
+);
+
+const fields = ["HP", "Attack", "Defense", "Special Attack", "Special Defense", "Speed"];
+
+
+const PokeCard = ({pokemon}: {pokemon: MyPokemon}) => {
+  const data = {
+  //@ts-ignore
+  labels: fields.map(field => `${field}(${pokemon[field]})`),
+  datasets: [
+    {
+      label: `Total Points (${pokemon.Total})`,
+      //@ts-ignore
+      data:fields.map(field => pokemon[field]),
+      backgroundColor: getTypeColor(pokemon.Type2),
+      borderColor: getTypeColor(pokemon.Type1),
+      borderWidth: 2,
+    },
+  ],
+};
 
 
   return (
@@ -19,7 +53,11 @@ const PokeCard = ({pokemon}: {pokemon?: MyPokemon}) => {
       </div>
 
         </div>
-        <table className="table-auto my-1">
+        <div className="grid items-center pr-8">
+        <Radar data={data} />
+        </div>
+        {/*
+        <table className="hidden table-auto my-1">
           <thead>
             <tr>
               <th className="px-4 py-2">Attribute</th>
@@ -58,7 +96,7 @@ const PokeCard = ({pokemon}: {pokemon?: MyPokemon}) => {
               <td className="border px-4 py-2">{pokemon.Total}</td>
             </tr>
           </tfoot>
-        </table>
+        </table>*/}
       </div>
       <div className="px-6  pb-2">
         <span
