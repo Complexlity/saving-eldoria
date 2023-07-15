@@ -75,7 +75,7 @@ const lastPokemonPicked = currentState[currentState.length - 1]
             Amulet Of Hope After Adding <span className="font-bold">{lastPokemonPicked.Names}</span>
           </p>
         </div>
-        <div>
+        <div >
           <PokeCard pokemon={lastPokemonPicked} />
         </div>
       </div>

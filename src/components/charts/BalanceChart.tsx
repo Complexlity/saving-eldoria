@@ -90,8 +90,7 @@ export const datafilled = {
 
 const InitialState = () => {
   return (
-
-    <div className="flex container" id="balance">
+    <div className="flex container flex-col md:flex-row" id="balance">
       <div className="flex-1 grid ">
         <Pie data={dataUnfilled} options={optionsUnfilled} />
         <p className="justify-self-center">
@@ -102,8 +101,8 @@ const InitialState = () => {
           <span className="italic text-base">Empty Amulet Of Hope</span>
         </p>
       </div>
-      <div className="grid items-center">
-        <div className="arrow-1"></div>
+      <div className="grid bg-orange-300 justify-end md:justify-normal md:items-center ">
+        <div className="arrow-1 rotate-90 md:rotate-0 h-8 w-36 flex"></div>
       </div>
       <div className="flex-1 grid ">
         <Pie data={datafilled} options={optionsFilled} />

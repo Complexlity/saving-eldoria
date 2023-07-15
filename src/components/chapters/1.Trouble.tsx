@@ -3,13 +3,13 @@ import aidenStromrider from '../../assets/pokemonMaster.jpg';
 const Introduction = () => {
   return (
     <div className="container mx-auto">
-      <h1 className="text-center not-prose mb-0">
+      <h1 className="text-center not-prose mb-0 mt-2">
         <span>Chapter One:</span>Trouble
       </h1>
 
       <div className="grid mx-auto ">
         <div className="grid">
-          <p className="big-letter">
+          <p className="big-letter mt-0">
             In a land of myth, and a time of trouble, the destiny of a great
             kingdom called{" "}
             <span className="font-bold uppercase font-serif">Eldoria</span>{" "}
