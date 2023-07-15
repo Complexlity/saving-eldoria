@@ -14,7 +14,7 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <div className="prose max-w-[1000px] px-4 py-4 mx-auto">
+      <div className="prose prose-h1:mb-0 prose-h1:mt-6 max-w-[1000px] px-4 py-4 mx-auto grid">
         <ChapterOne />
         <ChapterTwo />
         <ChapterThree />

@@ -40,8 +40,10 @@ const ChapterFour = () => {
         database that of course hasn't been picked before.{" "}
         <span className="font-bold">Enter! Strongest Pokemon</span>
       </p>
-      <PokeCard pokemon={finalPick} />
-      <p>{finalPick.Description}</p>
+      <p className="flex flex-col gap-6 items-center">
+        <PokeCard pokemon={finalPick} />
+        {finalPick.Description}
+      </p>
     </div>
   );
 };
