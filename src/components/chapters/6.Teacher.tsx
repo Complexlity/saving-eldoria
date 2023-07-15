@@ -9,10 +9,13 @@ const ChapterSix = () => {
         you go. Always coming up with questions. This is what every good teacher
         aspire to have.
       </p>
+      <p>
+
       <blockquote className="text-lg">
         Can you teach me the algorithm? (
-        <span className="not-italic font-normal">At this point, you know who is asking. Jen of course</span>)
+        <span className="not-italic font-normal text-base">At this point, you know who is asking. Jen of course</span>)
       </blockquote>
+      </p>
       <p>
         Here's the step by step approach I have taken in selecting these
         pokemons:

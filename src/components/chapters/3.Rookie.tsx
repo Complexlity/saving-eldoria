@@ -12,9 +12,12 @@ const ChapterThree = () => {
           of pokemons, my apprentice, <span className="font-bold">Jen,</span>{" "}
           asked a very important question{" "}
         </p>
+        <p>
+
         <blockquote>
           Why don't we just pick all the strongest pokemons?
         </blockquote>
+        </p>
         <p>
           {" "}
           Classic rookie mistake:{" "}

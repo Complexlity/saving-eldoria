@@ -6,9 +6,11 @@ const ChapterFive = () => {
       <h1 className="text-center">
         <span>Chapter Five: </span>Strength
       </h1>
+      <p>
         <blockquote className='text-lg'>
           Does this mean that we picked weak pokemons just to favour balance? <span className="font-normal not-italic">Jen asks</span>{" "}
         </blockquote>
+      </p>
 
       <p>
         Another learning moment!. It would seem as though we have picked a weak
@@ -24,7 +26,7 @@ const ChapterFive = () => {
       <p>
         <a href="#strength" className="font-bold hover:no-underline">Fig 4</a> shows how much the abilities or our chosen
         pokemon stand when compared with the entire pokemon data. As seen, we
-        have picked pokemons in the top percentile while also adhering{" "}
+        have picked pokemons in the top percentile while also achieving the well needed balance of type attributes
       </p>
       <Strength />
       <p>
