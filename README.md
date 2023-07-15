@@ -1,6 +1,6 @@
 ## Data story using the provided dataset
 
-In this story we will be have having
+The title of this story is **SAVING ELDORIA**. It has the following chapters
 
 - **Chapter One**: Trouble
 - **Chapter Two**: Balance
