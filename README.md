@@ -20,7 +20,7 @@ See the application working [LIVE!](https://saving-eldoria.netlify.app)
 ## Thought process behind the data story
 
 - At the very first glance of the datasets, I knew I wanted to create some kind of team but I wasn't sure what to represent in my team.
-- I initially wanted to create the `strongest` team to go into battle. But while doing so, I realized that would more or less be very generic and find out creating a team out of **balance** would be a very interesting way to go about it
+- I initially wanted to create the `strongest` team to go into battle. But while doing so, I realized that would be very generic. I realized that creating a team out of **balance** would be a very interesting way to go about it
 - After all the data manipulation and I finally was able to come up with a team, then I needed to find the story behind it which I eventually was able to come up with. (A long one 😬 but worth the read)
 
 ## Algorithms / libraries used to generate the visualization
@@ -31,7 +31,7 @@ See the application working [LIVE!](https://saving-eldoria.netlify.app)
 - react-chartsjs-2
 
 I used Python to do some cleaning of the data removing some unused columns and unknowns. After this, to come up with the team I had to do a couple of data manipulation to get the final selection I wanted to talk about.
-react-chartsjs-2 is a react wrapper around Chartjs. Chartjs is a library that helps to make different types of charts from data. I used Pie chart and Bar chart in the application
+react-chartsjs-2 is a react wrapper around Chartjs. Chartjs is a library that helps to make different types of charts from data. I used Pie, Bar and Radar chart in the application
 
 ## Getting Started
 
