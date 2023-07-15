@@ -39,7 +39,7 @@ const PickAllChart = ({ slice }: {slice: number}) => {
             );
           },
           label: function (context: any) {
-            return "Type Count " + filledData[context.dataIndex].count;
+            return "Type count: " + filledData[context.dataIndex].count;
           },
         },
       },
@@ -67,22 +67,21 @@ const PickAllChart = ({ slice }: {slice: number}) => {
 
 const lastPokemonPicked = currentState[currentState.length - 1]
   return (
-    <>
+    <li className="grid mb-8">
+      <p className="">{lastPokemonPicked.Description}</p>
       <div className="grid grid-cols-2 items-center gap-4">
-        <div>
+        <div className="relative">
           <Pie data={data} options={options} />
-          <p className="text-center italic text-base">
-            Amulet Of Hope After Adding <span className="font-bold">{lastPokemonPicked.Names}</span>
+          <p className="absolute mx-auto right-0 left-0 text-center italic text-base">
+            <span className="font-bold">Fig: </span>Amulet Of Hope After Adding{" "}
+            <span className="font-bold">{lastPokemonPicked.Names}</span>
           </p>
         </div>
-        <div >
+        <div>
           <PokeCard pokemon={lastPokemonPicked} />
         </div>
       </div>
-      <p>
-        {lastPokemonPicked.Description}
-      </p>
-    </>
+    </li>
   );
 };
 

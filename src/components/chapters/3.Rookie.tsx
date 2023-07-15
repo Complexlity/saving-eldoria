@@ -36,14 +36,14 @@ const ChapterThree = () => {
             {" "}
             Fig 2
           </a>{" "}
-          is not attained as we have a whole lot off attributes missing. We have
+          is not attained as we have a whole lot of attributes missing. We have
           also picked 6 pokemons with the Dragon attribute and 4 Psychic
           pokemons while at it.
         </p>
 
         <p className="text-center text-base">
           <span className="text-green-500 font-bold">Tip:</span>{" "}
-          <em>Hover over the segments to see the count</em>
+          <em>Hover over the segments to see the number of pokemons with that attribute</em>
         </p>
         <RookieChart />
         <p>

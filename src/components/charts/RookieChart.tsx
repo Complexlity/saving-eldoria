@@ -21,7 +21,7 @@ const options = {
           return 'white'
         },
         label: function (context: any) {
-          return "Count " + filledData[context.dataIndex].count
+          return "Type count: " + filledData[context.dataIndex].count
         }
 
       }

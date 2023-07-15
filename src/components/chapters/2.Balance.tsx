@@ -10,7 +10,7 @@ const ChapterTwo = () => {
       <div className="">
         <p>
           There are 18 attributes in total. So we have to take the Amulet of
-          Hope from empty to being fully filled with items of all attributes.
+          Hope from empty to being fully filled with items of all type attributes.<br></br>
           While doing so, we also have to ensure we take some strong pokemons
           and not just pick random items based on attributes. This is my biggest
           test since being the{" "}

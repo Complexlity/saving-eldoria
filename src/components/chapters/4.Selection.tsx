@@ -21,11 +21,11 @@ const ChapterFour = () => {
         We woulld go over the <span className="font-bold">entire list </span>
         step by step while we insert the items into the Amulet of Hope.
       </p>
-      <div>
+      <ol className="grid gap-4">
         {myTeam.slice(1, 10).map((item, index) => (
           <SelectionChart slice={index + 1} key={item.Id} />
         ))}
-      </div>
+      </ol>
       <h2 className="text-center">The Final Pick</h2>
       <p>
         If you do some counting, you would notice we have picked 9 items rather
@@ -41,8 +41,8 @@ const ChapterFour = () => {
         <span className="font-bold">Enter! Strongest Pokemon</span>
       </p>
       <p className="flex flex-col gap-6 items-center">
-        <PokeCard pokemon={finalPick} />
         {finalPick.Description}
+        <PokeCard pokemon={finalPick} />
       </p>
     </div>
   );

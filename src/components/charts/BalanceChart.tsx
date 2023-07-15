@@ -46,7 +46,7 @@ const optionsFilled = {
     tooltip: {
       callbacks: {
         label: function () {
-          return "Count: 1+";
+          return "Type count: 1+";
         },
       },
     },
