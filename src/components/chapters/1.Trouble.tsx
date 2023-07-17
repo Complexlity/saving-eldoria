@@ -32,11 +32,18 @@ const Introduction = () => {
             to carry pokemons and engage on this journey
             <br />
             <br />
-            In order to stop this darkness, all pokemon type attributes need to all
-            combine in a single hit on this dark veil. However, the Amulet can
-            only contain <strong>10 pokemons </strong> and this means he has to
-            select wisely, else he lacks some attributes needed to stop this
-            veil
+            In order to stop this darkness,{" "}
+            <strong>
+              all pokemon type attributes{" "}
+              <span className="font-normal italic">
+                (Dragon, Electric... +16)
+              </span>{" "}
+              need to all combine in a{" "}
+              <span className="font-bold uppercase font-serif">single hit</span>
+            </strong>{" "}
+            on this dark veil. However, the Amulet can only contain{" "}
+            <strong>10 pokemons </strong> and this means he has to select
+            wisely, else he lacks some attributes needed to stop this veil
             <br />
             <br />
             He has come to the great pokemon library and seeks{" "}
@@ -46,8 +53,8 @@ const Introduction = () => {
             <span className="font-bold uppercase font-serif">
               Pokemon library
             </span>{" "}
-            to select the suitable pokemons both in balance of type attributes and in
-            power.
+            to select the suitable pokemons both in balance of type attributes
+            and in power.
           </p>
         </div>
         <div className="grid justify-center">

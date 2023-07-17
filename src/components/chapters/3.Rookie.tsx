@@ -24,7 +24,7 @@ const ChapterThree = () => {
           <span className="font-semibold">Not understanding the problem</span>
         </p>
         <p>
-          To quech her curiousity, I picked 10 of the strongest pokemons and
+          To quench her curiousity, I picked 10 of the strongest pokemons and
           show why this does not work. Once again{" "}
           <span className="font-bold">Balance</span>
         </p>

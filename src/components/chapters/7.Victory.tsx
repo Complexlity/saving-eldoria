@@ -4,7 +4,7 @@ const ChapterSeven = () => {
       <h1 className="text-center">
         <span>Chapter Seven: </span>Victory
       </h1>
-      <p>Master Aiden,</p>
+      <p>Master Stormrider,</p>
       <p>
         As you embark on this noble quest to save our land from impending doom.
         We present you with the{" "}
